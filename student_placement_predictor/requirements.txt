@@ -1,9 +1,9 @@
 flask==3.0.3
 flask-cors==4.0.1
 gunicorn==22.0.0
-numpy
-pandas
-scikit-learn
+numpy==2.3.0
+pandas==2.2.3
+scikit-learn==1.8.0
 psycopg2-binary
 python-dotenv==1.0.1
 twilio==9.3.3
