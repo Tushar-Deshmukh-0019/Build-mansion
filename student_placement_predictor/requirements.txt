@@ -4,7 +4,6 @@ gunicorn==22.0.0
 numpy==2.2.3
 pandas==2.2.3
 scikit-learn==1.6.1
-scipy==1.15.2
 psycopg2-binary==2.9.9
 python-dotenv==1.0.1
 twilio==9.3.3
