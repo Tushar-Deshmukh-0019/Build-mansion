@@ -364,11 +364,11 @@ def api_predict(user_id, age, gender, stream, internships, cgpa, backlog,
         conn, c = _get_cursor()
         c.execute("""
             INSERT INTO predictions
-                (user_id, age, gender, stream, internships, cgpa, backlog,
-                 projects, hackathons, result, confidence, timestamp)
-            VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
+                (user_email, age, gender, stream, internships, cgpa, backlog,
+                 hostel, projects, hackathons, placement_result, readiness_score, predicted_at)
+            VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
         """, (user_id, age, gender, stream, internships, cgpa, backlog,
-              projects, hackathons, int(pred), float(prob_adjusted), timestamp))
+              hostel, projects, hackathons, int(pred), float(prob_adjusted), timestamp))
         conn.commit()
     except Exception as e:
         return {"error": f"DB write failed: {e}"}
