@@ -1,0 +1,26 @@
+services:
+  # ── Streamlit App (frontend + backend in one process) ──────
+  - type: web
+    name: joblib
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run streamlit_app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true
+    envVars:
+      - key: DATABASE_URL
+        value: postgresql://neondb_owner:npg_IDEbu6zltO3S@ep-icy-cell-am35915d.c-5.us-east-1.aws.neon.tech/neondb?sslmode=require
+      - key: PYTHON_VERSION
+        value: "3.11.9"
+      - key: GROK_API_KEY
+        sync: false          # set in Render dashboard
+      - key: ADMIN_SECRET
+        sync: false          # set in Render dashboard
+      - key: SMTP_HOST
+        value: smtp.gmail.com
+      - key: SMTP_PORT
+        value: "587"
+      - key: SMTP_USER
+        sync: false          # set in Render dashboard
+      - key: SMTP_PASS
+        sync: false          # set in Render dashboard
+      - key: RESEND_API_KEY
+        sync: false          # set in Render dashboard (optional)
