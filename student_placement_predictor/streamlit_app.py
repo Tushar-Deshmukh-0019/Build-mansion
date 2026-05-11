@@ -420,7 +420,7 @@ if not st.session_state.logged_in:
         st.markdown("""
             <div style="text-align:center;margin-bottom:28px;">
                 <div style="font-size:56px;">🎓</div>
-                <h1 style="color:#eef0f8;margin:6px 0;font-size:32px;font-weight:800;font-family:'Plus Jakarta Sans',sans-serif;">Joblib</h1>
+                <h1 style="color:#eef0f8;margin:6px 0;font-size:32px;font-weight:800;font-family:'Plus Jakarta Sans',sans-serif;">Jobsync</h1>
                 <p style="color:#9aa3bf;font-size:15px;margin:0;">Student Placement Predictor</p>
             </div>
         """, unsafe_allow_html=True)
@@ -554,7 +554,7 @@ if not st.session_state.logged_in:
 
         st.markdown("""
             <p style='text-align:center;color:#475569;font-size:12px;margin-top:20px;'>
-                © 2026 Joblib · Student Placement Predictor
+                © 2026 Jobsync · Student Placement Predictor
             </p>
         """, unsafe_allow_html=True)
     st.stop()
@@ -592,7 +592,7 @@ if st.sidebar.button("🚪 Logout"):
 if page == "Home":
     name_display = st.session_state.get("user_name", "")
     st.title(f"Welcome back, {name_display}! 👋" if name_display else "Welcome back! 👋")
-    st.header("🎓 Joblib: Student Placement Predictor")
+    st.header("🎓 Jobsync: Student Placement Predictor")
     st.image("placement_predictor.jpg", use_container_width=True)
 
 # ==========================================
@@ -971,7 +971,7 @@ Student Profile:
             score = 0
             profile_ctx = "The student has not run a placement prediction yet. Encourage them to go to Career Tools first."
 
-        system_prompt = f"""You are an expert AI Career Mentor for engineering students in India, embedded in the Joblib Student Placement Predictor app.
+        system_prompt = f"""You are an expert AI Career Mentor for engineering students in India, embedded in the Jobsync Student Placement Predictor app.
 
 {profile_ctx}
 
@@ -1509,7 +1509,7 @@ elif page == "Admin Portal":
     st.write("This application uses machine learning to predict student placement outcomes.")
     st.info("Enter your details to get instant predictions and insights.")
     st.write("Built with ❤️ by the Student Placement Predictor Team.")
-    st.write("Contact: joblib@gmail.com")
+    st.write("Contact: jobsync@gmail.com")
     st.write("© 2026 Student Placement Predictor. All rights reserved.")
     st.image("placement_predictor.jpg", use_container_width=True)
     st.markdown(
@@ -1525,7 +1525,7 @@ elif page == "About":
     st.write("This application uses machine learning to predict student placement outcomes.")
     st.info("Enter your details to get instant predictions and insights.")
     st.write("Built with ❤️ by the Student Placement Predictor Team.")
-    st.write("Contact: joblib@gmail.com")
+    st.write("Contact: jobsync@gmail.com")
     st.write("© 2026 Student Placement Predictor. All rights reserved.")
     st.image("placement_predictor.jpg", use_container_width=True)
     st.markdown(
