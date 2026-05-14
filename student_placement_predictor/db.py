@@ -102,12 +102,65 @@ def init_db():
                 replied_at TEXT DEFAULT ''
             )
         """)
+        
+        # NEW: Admin notifications table
+        c.execute("""
+            CREATE TABLE IF NOT EXISTS admin_notifications (
+                id SERIAL PRIMARY KEY,
+                prediction_id INTEGER,
+                user_id TEXT,
+                user_name TEXT,
+                user_email TEXT,
+                stream VARCHAR(100),
+                cgpa DOUBLE PRECISION,
+                confidence DOUBLE PRECISION,
+                result INTEGER,
+                project_domain VARCHAR(100),
+                message TEXT,
+                status VARCHAR(50),
+                created_at TIMESTAMP DEFAULT NOW(),
+                admin_reply TEXT,
+                replied_at TEXT
+            )
+        """)
+        
+        # NEW: Job recommendations table
+        c.execute("""
+            CREATE TABLE IF NOT EXISTS job_recommendations (
+                id SERIAL PRIMARY KEY,
+                user_id TEXT,
+                job_title TEXT,
+                company TEXT,
+                domain VARCHAR(100),
+                location TEXT,
+                job_url TEXT,
+                match_score DOUBLE PRECISION,
+                created_at TIMESTAMP DEFAULT NOW()
+            )
+        """)
+        
+        # NEW: Admin guidance table
+        c.execute("""
+            CREATE TABLE IF NOT EXISTS admin_guidance (
+                id SERIAL PRIMARY KEY,
+                user_id TEXT,
+                user_name TEXT,
+                user_email TEXT,
+                admin_message TEXT,
+                guidance_type VARCHAR(50),
+                read_by_student BOOLEAN DEFAULT FALSE,
+                created_at TIMESTAMP DEFAULT NOW()
+            )
+        """)
 
         # Add missing columns to existing tables
         for col_def in [
             "projects INTEGER DEFAULT 0",
             "hackathons INTEGER DEFAULT 0",
             "hostel INTEGER DEFAULT 0",
+            "num_backlogs INTEGER DEFAULT 0",
+            "project_domain VARCHAR(100) DEFAULT 'General'",
+            "admin_notified BOOLEAN DEFAULT FALSE",
         ]:
             try:
                 c.execute(f"ALTER TABLE predictions ADD COLUMN IF NOT EXISTS {col_def}")
@@ -629,9 +682,14 @@ def api_predict(user_id, age, gender, stream, internships, cgpa, backlog,
         
         # Fetch and save job recommendations
         if prob_adjusted >= 0.4:  # Only for students with reasonable confidence
-            import job_fetcher
-            jobs = job_fetcher.get_jobs_for_domain(project_domain, prob_adjusted, limit=5)
-            job_fetcher.save_job_recommendations(conn, user_id, jobs)
+            try:
+                import job_fetcher
+                jobs = job_fetcher.get_jobs_for_domain(project_domain, prob_adjusted, limit=5)
+                job_fetcher.save_job_recommendations(conn, user_id, jobs)
+            except ImportError as e:
+                print(f"[db.py] job_fetcher module not available: {e}")
+            except Exception as e:
+                print(f"[db.py] Error fetching jobs: {e}")
         
     except Exception as e:
         conn.rollback()
@@ -905,11 +963,15 @@ def api_get_student_guidance(user_id):
 
 def api_get_job_recommendations(user_id):
     """Get job recommendations for a student"""
-    import job_fetcher
     conn = get_db()
     try:
-        jobs = job_fetcher.get_user_job_recommendations(conn, user_id, limit=10)
-        return {"jobs": jobs}
+        try:
+            import job_fetcher
+            jobs = job_fetcher.get_user_job_recommendations(conn, user_id, limit=10)
+            return {"jobs": jobs}
+        except ImportError:
+            print(f"[db.py] job_fetcher module not available")
+            return {"jobs": []}
     except Exception as e:
         return {"error": str(e)}
     finally:
