@@ -829,34 +829,10 @@ elif page == "Career Tools":
                                 <div style="font-size:32px;font-weight:800;color:{sc_color};">{profile_score}<span style="font-size:16px;color:#a0a0b0;">/100</span></div>
                             </div>""", unsafe_allow_html=True)
 
-                        # Score breakdown
-                        st.markdown("<br>", unsafe_allow_html=True)
-                        st.markdown('<div class="section-label">📊 Score Breakdown</div>',
-                                    unsafe_allow_html=True)
-                        breakdown = {
-                            "CGPA":        (min(cgpa/10.0*35,35),       35,  "#6366F1"),
-                            "Internships": (min(internships/5.0*20,20), 20,  "#8b5cf6"),
-                            "Projects":    (min(projects/6.0*20,20),    20,  "#a78bfa"),
-                            "Hackathons":  (min(hackathons/5.0*15,15),  15,  "#c4b5fd"),
-                            "No Backlog":  (max(10 - (num_backlogs * 3), 0), 10, "#22c55e"),
-                        }
-                        for lbl_b, (earned, total_b, clr) in breakdown.items():
-                            pct = earned / total_b * 100
-                            st.markdown(f"""
-                                <div style="margin-bottom:10px;">
-                                    <div style="display:flex;justify-content:space-between;margin-bottom:3px;">
-                                        <span style="color:#cbd5e1;font-size:13px;">{lbl_b}</span>
-                                        <span style="color:{clr};font-size:13px;font-weight:600;">{earned:.1f}/{total_b}</span>
-                                    </div>
-                                    <div style="background:rgba(255,255,255,0.08);border-radius:6px;height:8px;overflow:hidden;">
-                                        <div style="width:{pct:.0f}%;background:{clr};height:100%;border-radius:6px;"></div>
-                                    </div>
-                                </div>""", unsafe_allow_html=True)
-
                         # Skill suggestions
                         if skills:
                             st.markdown("<br>", unsafe_allow_html=True)
-                            st.markdown('<div class="section-label">💡 Personalised Suggestions</div>',
+                            st.markdown('<div class="section-label">� Personalised Suggestions</div>',
                                         unsafe_allow_html=True)
                             for skill in skills:
                                 st.markdown(f'<div class="skill-item">✅ {skill}</div>',
@@ -876,41 +852,65 @@ elif page == "Career Tools":
                                 st.markdown(f"<p style='color:#9aa3bf;font-size:13px;margin-bottom:12px;'>Found {len(jobs)} matching opportunities based on your profile</p>",
                                            unsafe_allow_html=True)
                                 
-                                # Display jobs in 2-column layout
-                                for idx in range(0, len(jobs), 2):
-                                    job_cols = st.columns(2)
-                                    for col_idx, job_col in enumerate(job_cols):
-                                        if idx + col_idx < len(jobs):
-                                            job = jobs[idx + col_idx]
-                                            with job_col:
-                                                # Convert match_score to percentage if it's a decimal
-                                                match_score = job["match_score"]
-                                                if match_score <= 1.0:
-                                                    match_score = int(match_score * 100)
-                                                else:
-                                                    match_score = int(match_score)
-                                                
-                                                match_color = "#22c55e" if match_score >= 75 else "#f59e0b" if match_score >= 50 else "#f87171"
-                                                
-                                                # Get domain or use "General"
-                                                domain = job.get("domain", "General")
-                                                
-                                                st.markdown(f"""
-                                                    <div style="background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.1);
-                                                        border-radius:12px;padding:14px;margin-bottom:12px;height:100%;">
-                                                        <div style="display:flex;justify-content:space-between;align-items:start;margin-bottom:8px;">
-                                                            <div style="font-size:15px;font-weight:700;color:#eef0f8;">{job["title"]}</div>
-                                                            <div style="background:{match_color};color:#000;font-size:11px;font-weight:700;
-                                                                padding:3px 8px;border-radius:6px;">{match_score}%</div>
-                                                        </div>
-                                                        <div style="color:#a78bfa;font-size:12px;margin-bottom:6px;">🏢 {job["company"]}</div>
-                                                        <div style="color:#9aa3bf;font-size:12px;margin-bottom:8px;">📍 {job["location"]} • {domain}</div>
-                                                        <div style="color:#cbd5e1;font-size:12px;line-height:1.5;">Match score based on your profile and domain expertise</div>
-                                                    </div>
-                                                """, unsafe_allow_html=True)
-                                                
-                                                if st.button("View Details", key=f"career_job_{idx + col_idx}", use_container_width=True):
-                                                    st.info(f"**{job['title']}** at **{job['company']}**\n\n📍 Location: {job['location']}\n🎯 Domain: {domain}\n🔗 Apply: {job.get('url', 'Contact company directly')}\n\n✨ Match Score: {match_score}% - This role aligns well with your profile!")
+                                # Display jobs in single column to avoid nested columns issue
+                                for idx, job in enumerate(jobs):
+                                    # Convert match_score to percentage if it's a decimal
+                                    match_score = job["match_score"]
+                                    if match_score <= 1.0:
+                                        match_score = int(match_score * 100)
+                                    else:
+                                        match_score = int(match_score)
+                                    
+                                    match_color = "#22c55e" if match_score >= 75 else "#f59e0b" if match_score >= 50 else "#f87171"
+                                    
+                                    # Get domain or use "General"
+                                    domain = job.get("domain", "General")
+                                    job_url = job.get('url', '#')
+                                    
+                                    # Job card with inline buttons
+                                    st.markdown(f"""
+                                        <div style="background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.1);
+                                            border-radius:12px;padding:14px;margin-bottom:12px;">
+                                            <div style="display:flex;justify-content:space-between;align-items:start;margin-bottom:8px;">
+                                                <div style="font-size:15px;font-weight:700;color:#eef0f8;">{job["title"]}</div>
+                                                <div style="background:{match_color};color:#000;font-size:11px;font-weight:700;
+                                                    padding:3px 8px;border-radius:6px;">{match_score}%</div>
+                                            </div>
+                                            <div style="color:#a78bfa;font-size:12px;margin-bottom:6px;">🏢 {job["company"]}</div>
+                                            <div style="color:#9aa3bf;font-size:12px;margin-bottom:8px;">📍 {job["location"]} • {domain}</div>
+                                            <div style="color:#cbd5e1;font-size:12px;line-height:1.5;margin-bottom:10px;">Match score based on your profile and domain expertise</div>
+                                        </div>
+                                    """, unsafe_allow_html=True)
+                                    
+                                    # Buttons below the card (not nested in columns)
+                                    btn_col1, btn_col2 = st.columns(2)
+                                    with btn_col1:
+                                        if st.button("📋 View Details", key=f"career_job_details_{idx}", use_container_width=True):
+                                            st.session_state[f"show_job_{idx}"] = not st.session_state.get(f"show_job_{idx}", False)
+                                    
+                                    with btn_col2:
+                                        if job_url and job_url != '#':
+                                            st.link_button("🔗 Apply Now", job_url, use_container_width=True)
+                                        else:
+                                            st.button("🔗 Apply", key=f"career_job_apply_{idx}", use_container_width=True, disabled=True)
+                                    
+                                    # Show details if toggled
+                                    if st.session_state.get(f"show_job_{idx}", False):
+                                        st.markdown(f"""
+                                            <div style="background:rgba(99,102,241,0.1);border-left:3px solid #6366f1;
+                                                padding:12px;margin-bottom:12px;border-radius:6px;">
+                                                <div style="color:#eef0f8;font-size:13px;font-weight:600;margin-bottom:8px;">
+                                                    {job['title']} at {job['company']}
+                                                </div>
+                                                <div style="color:#cbd5e1;font-size:12px;line-height:1.6;">
+                                                    📍 <strong>Location:</strong> {job['location']}<br>
+                                                    🎯 <strong>Domain:</strong> {domain}<br>
+                                                    ✨ <strong>Match Score:</strong> {match_score}% - This role aligns well with your profile!<br>
+                                                    📅 <strong>Posted:</strong> {job.get('posted_date', 'Recently')}<br>
+                                                    💰 <strong>Salary:</strong> {job.get('salary', 'Not specified')}
+                                                </div>
+                                            </div>
+                                        """, unsafe_allow_html=True)
                             else:
                                 st.info("No job recommendations available yet. Complete a prediction to get personalized job matches!")
                         except Exception as e:
