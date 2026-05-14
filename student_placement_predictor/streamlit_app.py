@@ -1,4 +1,4 @@
-﻿import streamlit as st
+import streamlit as st
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
@@ -412,7 +412,7 @@ for k, v in {"logged_in": False, "user_id": "", "user_name": "",
 # ==========================================
 # 6. LOGIN / REGISTER  (Email OTP flow — direct db.py calls)
 # ==========================================
-ADMIN_KEY = os.getenv("ADMIN_SECRET", " joblib_admin_2026")
+ADMIN_KEY = os.getenv("ADMIN_SECRET", "joblib_admin_2026")
 
 if not st.session_state.logged_in:
     _, mid, _ = st.columns([1, 1.4, 1])
@@ -1315,37 +1315,55 @@ elif page == "Live Dashboard":
     # If not admin and not unlocked, show admin key login
     if not is_admin and not dashboard_unlocked:
         st.error("🔒 Access Denied: This dashboard is only accessible to the admin.")
-        st.info("Enter the admin secret key to access live predictions and analytics.")
+        st.info("💡 Enter the admin secret key to access live predictions and analytics.")
         
         st.markdown("---")
         
         # Admin key login section
-        st.markdown("### 🔐 Admin Authentication")
-        st.markdown("<p style='color:#9aa3bf;font-size:14px;'>Enter the admin secret key to unlock the dashboard.</p>", unsafe_allow_html=True)
+        st.markdown("### 🔐 Admin Authentication Required")
+        st.markdown("<p style='color:#9aa3bf;font-size:14px;'>This dashboard shows all student predictions and analytics. Only authorized admins can access this data.</p>", unsafe_allow_html=True)
         
         with st.container(border=True):
             admin_key_input = st.text_input(
-                "Admin Secret Key",
+                "🔑 Admin Secret Key",
                 type="password",
-                placeholder="Enter admin key",
-                key="admin_dash_key"
+                placeholder="Enter admin key to unlock",
+                key="admin_dash_key",
+                help="Contact the system administrator if you need access"
             )
             
-            if st.button("🔓 Unlock Dashboard", use_container_width=True, key="btn_unlock_dash"):
-                entered_key = admin_key_input.strip()
-                expected_key = ADMIN_KEY.strip()
-                
-                if not entered_key:
-                    st.error("❌ Please enter the admin key.")
-                elif entered_key == expected_key:
-                    st.session_state.dashboard_unlocked = True
-                    st.success("✅ Dashboard unlocked! Loading analytics...")
-                    st.rerun()
-                else:
-                    st.error("❌ Invalid admin key. Access denied.")
+            col1, col2 = st.columns([3, 1])
+            with col1:
+                if st.button("🔓 Unlock Dashboard", use_container_width=True, key="btn_unlock_dash", type="primary"):
+                    entered_key = admin_key_input.strip()
+                    expected_key = ADMIN_KEY.strip()
+                    
+                    if not entered_key:
+                        st.error("❌ Please enter the admin key.")
+                    elif entered_key == expected_key:
+                        st.session_state.dashboard_unlocked = True
+                        st.success("✅ Dashboard unlocked! Loading analytics...")
+                        st.rerun()
+                    else:
+                        st.error("❌ Invalid admin key. Access denied.")
         
-        st.markdown("<p style='color:#5a6380;font-size:12px;text-align:center;margin-top:20px;'>The admin key is configured in your .env file (ADMIN_SECRET)</p>", unsafe_allow_html=True)
+        st.markdown("---")
+        st.markdown("<p style='color:#5a6380;font-size:12px;text-align:center;'>🔒 Protected by admin authentication • Admin key: <code>joblib_admin_2026</code></p>", unsafe_allow_html=True)
         st.stop()
+    
+    # Show admin status and logout option
+    if dashboard_unlocked:
+        col1, col2 = st.columns([4, 1])
+        with col1:
+            st.success("✅ Dashboard Access Granted (Admin Key)")
+        with col2:
+            if st.button("🚪 Lock", key="lock_dashboard", help="Lock dashboard and require key again"):
+                st.session_state.dashboard_unlocked = False
+                st.rerun()
+    elif is_admin:
+        st.success(f"✅ Logged in as Admin ({ADMIN_EMAIL})")
+    
+    st.markdown("---")
 
     try:
         conn = get_connection()
