@@ -1,0 +1,2967 @@
+Age,Gender,Stream,Internships,CGPA,Hostel,HistoryOfBacklogs,PlacedOrNot,ProjectDomain
+22,Male,Electronics And Communication,1,8,1,1,1,IoT
+21,Female,Computer Science,0,7,1,3,1,Data Science
+22,Female,Information Technology,1,6,0,0,1,Mobile App
+21,Male,Information Technology,0,8,0,2,1,Database Management
+22,Male,Mechanical,0,8,1,0,1,CAD Design
+22,Male,Electronics And Communication,0,6,0,0,0,Telecommunications
+21,Male,Computer Science,0,7,0,1,0,Cloud Computing
+21,Male,Information Technology,1,7,0,0,0,Network Security
+21,Male,Computer Science,2,6,0,0,1,Mobile App
+21,Female,Computer Science,1,6,1,0,0,Web Development
+22,Male,Computer Science,1,7,0,0,0,Mobile App
+22,Female,Electrical,1,8,0,1,1,Power Systems
+21,Female,Computer Science,2,6,1,1,0,Data Science
+21,Male,Computer Science,1,8,0,1,1,Data Science
+21,Female,Electronics And Communication,2,8,0,0,1,Telecommunications
+22,Male,Mechanical,0,8,1,0,1,Robotics
+22,Female,Computer Science,1,7,1,0,0,Cybersecurity
+21,Male,Civil,0,6,0,0,0,Structural Design
+21,Male,Computer Science,1,7,0,0,0,Mobile App
+22,Male,Computer Science,1,7,0,0,0,Cloud Computing
+22,Male,Civil,0,8,0,0,1,Construction Management
+21,Male,Computer Science,1,6,0,0,0,Machine Learning
+22,Male,Civil,0,7,0,0,0,Urban Planning
+22,Male,Electronics And Communication,1,7,0,2,0,VLSI Design
+22,Male,Electronics And Communication,0,7,0,0,0,VLSI Design
+21,Male,Electrical,0,8,1,0,1,Renewable Energy
+22,Male,Electrical,1,8,0,0,1,Power Systems
+22,Male,Information Technology,1,8,0,0,1,Database Management
+22,Male,Information Technology,1,8,0,0,1,Network Security
+21,Male,Information Technology,0,6,0,0,1,Network Security
+22,Male,Mechanical,1,8,1,0,1,CAD Design
+21,Male,Electrical,1,7,0,0,1,Renewable Energy
+21,Female,Civil,1,7,0,0,0,Environmental Engineering
+21,Male,Electrical,0,7,0,0,0,Renewable Energy
+21,Male,Computer Science,1,6,0,0,1,Machine Learning
+21,Male,Information Technology,1,6,0,0,0,Cloud Computing
+22,Male,Civil,0,7,0,0,1,Environmental Engineering
+22,Male,Computer Science,1,8,0,0,1,Mobile App
+22,Male,Information Technology,1,6,0,0,0,Cloud Computing
+22,Male,Electronics And Communication,0,8,0,2,1,Signal Processing
+22,Male,Electrical,1,6,0,2,0,Renewable Energy
+22,Male,Civil,0,8,1,0,1,Urban Planning
+21,Male,Electrical,1,7,1,1,1,Power Systems
+21,Male,Electrical,1,7,0,0,1,Power Systems
+22,Female,Information Technology,2,8,0,0,1,Mobile App
+21,Female,Electronics And Communication,3,6,0,0,1,Embedded Systems
+22,Male,Computer Science,1,8,0,0,1,Mobile App
+21,Male,Electronics And Communication,1,7,0,3,1,Telecommunications
+21,Male,Information Technology,2,7,0,0,1,Cloud Computing
+21,Female,Electronics And Communication,0,7,0,0,0,IoT
+22,Male,Electronics And Communication,0,8,0,0,1,Telecommunications
+21,Male,Electrical,1,8,0,0,1,Power Systems
+21,Female,Computer Science,1,8,1,0,1,Data Science
+21,Male,Electrical,3,6,1,2,0,Embedded Systems
+21,Female,Electronics And Communication,3,6,0,0,1,Signal Processing
+21,Male,Computer Science,1,7,0,0,1,Web Development
+21,Male,Electronics And Communication,0,8,0,0,1,Signal Processing
+21,Male,Civil,0,8,0,0,1,Structural Design
+21,Male,Electronics And Communication,0,8,0,0,1,VLSI Design
+21,Female,Electrical,1,8,0,0,1,Power Systems
+21,Male,Computer Science,2,9,0,1,1,Mobile App
+22,Male,Computer Science,0,8,0,0,1,Web Development
+21,Male,Information Technology,0,8,0,0,1,Web Development
+21,Male,Information Technology,0,9,0,0,1,Database Management
+21,Male,Information Technology,1,8,1,0,1,Cloud Computing
+22,Male,Mechanical,0,9,0,0,1,CAD Design
+22,Male,Computer Science,1,9,0,0,1,Mobile App
+21,Male,Information Technology,0,8,0,0,1,Network Security
+22,Male,Computer Science,2,9,0,0,1,Web Development
+21,Male,Mechanical,0,8,1,1,1,CAD Design
+22,Male,Electrical,1,8,0,0,1,Renewable Energy
+22,Male,Information Technology,0,9,0,0,1,Cloud Computing
+22,Male,Computer Science,3,9,0,0,1,Data Science
+21,Male,Information Technology,0,8,0,0,1,Mobile App
+22,Male,Information Technology,1,9,0,0,1,Network Security
+21,Male,Civil,0,8,0,0,1,Urban Planning
+21,Male,Mechanical,0,9,1,0,1,Robotics
+22,Male,Mechanical,0,8,1,1,1,Automotive
+22,Male,Information Technology,0,8,0,0,1,Mobile App
+21,Male,Computer Science,1,8,0,0,1,Cybersecurity
+21,Male,Civil,0,9,0,0,1,Urban Planning
+21,Male,Computer Science,1,9,0,0,1,Machine Learning
+22,Male,Mechanical,0,8,1,0,1,Thermal Systems
+21,Male,Information Technology,0,8,0,0,1,Database Management
+21,Male,Mechanical,0,8,1,0,1,Manufacturing
+21,Male,Electronics And Communication,2,7,0,0,1,Telecommunications
+21,Male,Computer Science,0,8,0,0,1,Mobile App
+21,Male,Computer Science,0,6,0,0,0,Mobile App
+22,Female,Civil,1,6,1,0,0,Construction Management
+22,Male,Mechanical,1,7,0,0,0,Thermal Systems
+21,Male,Civil,1,8,0,1,1,Urban Planning
+22,Male,Information Technology,1,6,0,0,1,Web Development
+21,Male,Electrical,1,6,0,0,1,Renewable Energy
+22,Female,Information Technology,2,7,0,0,0,Cloud Computing
+22,Male,Electronics And Communication,0,6,0,0,0,Embedded Systems
+22,Male,Computer Science,1,8,0,0,1,Mobile App
+21,Male,Computer Science,2,7,0,0,0,Web Development
+22,Male,Information Technology,0,8,0,0,1,Web Development
+22,Female,Information Technology,0,7,0,0,0,Mobile App
+21,Male,Mechanical,0,7,0,0,0,Manufacturing
+23,Male,Computer Science,0,7,0,0,1,Web Development
+23,Male,Civil,0,6,0,0,1,Structural Design
+23,Male,Mechanical,1,5,0,0,0,Automotive
+24,Male,Information Technology,2,6,0,0,1,Network Security
+23,Male,Electrical,0,5,1,0,0,Power Systems
+23,Male,Information Technology,1,6,0,0,0,Network Security
+24,Female,Information Technology,0,6,0,0,1,Mobile App
+24,Male,Information Technology,1,7,0,0,1,Database Management
+24,Male,Civil,1,7,0,1,1,Structural Design
+23,Male,Information Technology,1,7,0,0,1,Cloud Computing
+23,Male,Information Technology,1,6,0,0,1,Mobile App
+24,Male,Electronics And Communication,1,6,0,1,1,Embedded Systems
+24,Male,Electrical,0,7,0,0,0,Renewable Energy
+23,Male,Information Technology,1,6,0,0,0,Mobile App
+24,Male,Computer Science,0,6,0,0,1,Web Development
+23,Male,Electrical,0,6,0,0,0,Control Systems
+23,Male,Information Technology,1,7,1,0,1,Database Management
+23,Male,Information Technology,1,7,1,0,1,Mobile App
+24,Male,Information Technology,3,5,0,1,1,Web Development
+23,Male,Mechanical,0,6,1,0,1,Automotive
+23,Female,Information Technology,2,6,0,0,1,Network Security
+23,Male,Electronics And Communication,1,7,0,0,0,Signal Processing
+23,Male,Information Technology,1,5,0,0,1,Mobile App
+23,Male,Information Technology,1,7,0,0,1,Database Management
+23,Male,Mechanical,2,7,1,0,1,Thermal Systems
+24,Male,Information Technology,1,5,0,0,0,Cloud Computing
+24,Male,Information Technology,1,7,0,0,0,Cloud Computing
+24,Male,Computer Science,2,7,0,0,1,Web Development
+24,Male,Electronics And Communication,0,5,0,0,0,IoT
+24,Male,Information Technology,1,7,0,0,1,Cloud Computing
+23,Male,Mechanical,0,6,1,2,1,Automotive
+23,Male,Computer Science,0,6,0,0,0,Cybersecurity
+23,Female,Mechanical,1,7,1,0,0,Manufacturing
+24,Male,Computer Science,1,6,0,0,1,Cybersecurity
+23,Male,Mechanical,1,6,1,1,1,Thermal Systems
+24,Male,Computer Science,0,6,0,0,1,Cybersecurity
+24,Male,Mechanical,0,6,0,0,1,CAD Design
+24,Male,Information Technology,0,5,0,0,1,Database Management
+23,Male,Electrical,0,5,0,0,0,Renewable Energy
+24,Male,Electrical,0,5,1,0,0,Renewable Energy
+23,Male,Computer Science,1,5,0,0,1,Cloud Computing
+23,Male,Electronics And Communication,0,7,0,0,1,Embedded Systems
+24,Male,Information Technology,3,7,0,0,1,Mobile App
+24,Male,Computer Science,2,5,0,0,1,Data Science
+24,Male,Computer Science,2,5,0,0,1,Data Science
+23,Male,Civil,0,7,1,0,1,Urban Planning
+24,Male,Information Technology,1,6,0,0,1,Network Security
+23,Male,Mechanical,0,5,1,1,0,CAD Design
+23,Male,Electrical,0,6,0,0,0,Embedded Systems
+24,Male,Computer Science,1,7,0,0,1,Cybersecurity
+23,Male,Electrical,0,5,0,0,0,Renewable Energy
+24,Female,Information Technology,0,5,0,0,0,Web Development
+23,Male,Computer Science,1,5,0,0,1,Mobile App
+23,Female,Electronics And Communication,2,6,0,0,0,VLSI Design
+24,Male,Civil,0,7,0,0,1,Environmental Engineering
+24,Male,Electronics And Communication,2,6,0,0,1,Signal Processing
+23,Male,Information Technology,0,5,0,0,0,Database Management
+24,Male,Computer Science,2,6,0,0,1,Cloud Computing
+23,Male,Computer Science,1,6,0,0,0,Data Science
+24,Male,Computer Science,0,7,0,1,1,Cloud Computing
+22,Male,Electronics And Communication,0,7,0,0,1,Signal Processing
+22,Male,Mechanical,0,5,1,0,0,Manufacturing
+22,Male,Computer Science,1,5,0,0,0,Machine Learning
+21,Male,Computer Science,1,6,0,0,1,Data Science
+21,Male,Civil,3,6,1,0,1,Structural Design
+21,Male,Computer Science,0,6,0,1,1,Data Science
+21,Male,Electrical,0,5,0,0,0,Power Systems
+21,Female,Information Technology,1,6,0,0,0,Network Security
+22,Male,Computer Science,1,5,0,0,0,Web Development
+22,Male,Computer Science,1,5,0,0,0,Mobile App
+21,Male,Civil,1,6,0,0,1,Construction Management
+21,Female,Information Technology,2,5,0,0,0,Cloud Computing
+21,Male,Information Technology,1,6,0,0,1,Database Management
+22,Male,Civil,0,6,0,0,0,Urban Planning
+22,Male,Civil,0,7,0,2,0,Environmental Engineering
+21,Male,Information Technology,0,7,0,0,1,Cloud Computing
+21,Male,Electronics And Communication,0,7,0,0,1,VLSI Design
+22,Female,Information Technology,1,7,1,0,0,Database Management
+22,Male,Electrical,1,6,0,0,1,Power Systems
+21,Female,Mechanical,1,5,1,0,0,Robotics
+22,Female,Information Technology,1,6,1,0,0,Mobile App
+22,Male,Computer Science,2,6,0,0,1,Cloud Computing
+21,Male,Electronics And Communication,1,6,0,1,0,Signal Processing
+22,Male,Civil,0,5,0,0,0,Environmental Engineering
+21,Male,Electrical,2,5,0,1,0,Embedded Systems
+22,Male,Civil,1,7,0,0,0,Structural Design
+21,Female,Computer Science,1,7,1,0,0,Mobile App
+21,Male,Computer Science,1,6,0,0,0,Data Science
+22,Female,Electronics And Communication,1,5,1,0,0,IoT
+21,Female,Information Technology,0,6,0,0,0,Cloud Computing
+22,Male,Computer Science,0,5,0,0,0,Web Development
+22,Male,Computer Science,0,5,0,0,0,Web Development
+21,Male,Mechanical,0,7,1,0,0,CAD Design
+21,Male,Computer Science,0,5,0,0,0,Machine Learning
+21,Male,Information Technology,0,5,0,1,0,Database Management
+22,Female,Computer Science,1,5,1,0,0,Cybersecurity
+21,Male,Electronics And Communication,2,6,1,1,0,IoT
+21,Male,Information Technology,1,5,1,2,0,Cloud Computing
+22,Female,Computer Science,2,7,1,0,0,Cybersecurity
+21,Male,Computer Science,0,8,0,0,1,Data Science
+21,Male,Computer Science,2,7,0,0,1,Data Science
+22,Male,Computer Science,1,6,0,0,0,Mobile App
+21,Female,Information Technology,2,6,1,0,1,Cloud Computing
+21,Male,Electronics And Communication,1,7,0,0,0,VLSI Design
+21,Female,Computer Science,1,7,1,0,0,Web Development
+21,Male,Mechanical,0,8,1,0,1,Robotics
+22,Male,Mechanical,0,8,1,0,1,Manufacturing
+22,Male,Information Technology,1,6,0,0,0,Database Management
+21,Female,Electrical,0,7,0,0,0,Renewable Energy
+21,Male,Mechanical,0,8,0,0,1,CAD Design
+21,Male,Computer Science,2,8,0,0,1,Cybersecurity
+21,Male,Information Technology,1,7,0,0,0,Network Security
+22,Male,Information Technology,0,6,0,1,0,Cloud Computing
+22,Male,Information Technology,1,8,0,0,1,Database Management
+21,Male,Electrical,1,7,0,0,1,Power Systems
+21,Female,Civil,1,6,0,0,0,Structural Design
+21,Male,Computer Science,3,6,0,0,1,Cybersecurity
+21,Male,Civil,1,7,1,0,0,Environmental Engineering
+22,Male,Electrical,1,7,0,0,0,Embedded Systems
+21,Male,Electronics And Communication,2,6,1,1,0,VLSI Design
+22,Male,Electrical,1,8,0,3,1,Power Systems
+22,Male,Computer Science,2,8,0,0,1,Cloud Computing
+21,Male,Mechanical,1,6,1,3,0,Automotive
+22,Male,Computer Science,0,7,0,0,0,Machine Learning
+22,Male,Civil,0,6,0,0,0,Urban Planning
+21,Male,Civil,0,6,1,0,0,Construction Management
+21,Female,Computer Science,1,7,1,0,0,Mobile App
+21,Male,Computer Science,2,7,0,0,1,Cybersecurity
+21,Female,Mechanical,1,6,1,0,0,Manufacturing
+22,Male,Mechanical,0,6,1,0,0,CAD Design
+22,Male,Electronics And Communication,1,8,0,0,1,Telecommunications
+22,Male,Computer Science,1,8,0,0,1,Mobile App
+21,Female,Information Technology,0,8,0,0,1,Web Development
+22,Male,Information Technology,1,7,0,0,0,Mobile App
+21,Male,Information Technology,0,8,0,2,1,Database Management
+22,Male,Computer Science,1,8,0,0,1,Cloud Computing
+22,Male,Computer Science,1,7,0,0,0,Cybersecurity
+21,Female,Information Technology,2,7,0,0,1,Web Development
+21,Female,Mechanical,1,8,1,0,1,CAD Design
+21,Female,Computer Science,1,6,1,0,0,Web Development
+22,Female,Information Technology,1,7,0,0,0,Web Development
+22,Female,Computer Science,0,6,1,0,0,Web Development
+21,Male,Information Technology,2,8,1,0,1,Mobile App
+22,Male,Civil,0,7,1,1,0,Construction Management
+21,Male,Electrical,1,6,0,0,0,Power Systems
+21,Male,Electronics And Communication,2,6,0,0,1,VLSI Design
+21,Male,Mechanical,1,7,1,0,0,Thermal Systems
+22,Male,Civil,0,7,0,0,0,Construction Management
+22,Female,Electrical,1,6,0,0,0,Embedded Systems
+22,Male,Computer Science,0,8,0,0,1,Machine Learning
+21,Male,Computer Science,3,8,0,0,1,Machine Learning
+21,Female,Information Technology,0,8,0,1,1,Mobile App
+22,Male,Electronics And Communication,0,6,0,0,0,Embedded Systems
+22,Male,Civil,1,7,0,0,0,Urban Planning
+22,Male,Information Technology,1,8,1,2,1,Cloud Computing
+22,Female,Computer Science,1,8,1,1,1,Web Development
+22,Male,Mechanical,1,8,1,0,1,Manufacturing
+21,Male,Electrical,2,6,0,0,1,Embedded Systems
+22,Male,Electronics And Communication,1,6,0,0,0,VLSI Design
+22,Male,Information Technology,0,8,0,0,1,Network Security
+22,Female,Computer Science,1,7,1,0,0,Cloud Computing
+21,Male,Information Technology,1,8,0,0,1,Web Development
+21,Male,Electrical,1,7,0,0,1,Power Systems
+22,Male,Mechanical,0,8,1,1,1,Automotive
+21,Male,Civil,0,6,0,0,0,Structural Design
+21,Male,Information Technology,1,6,0,0,0,Database Management
+21,Female,Information Technology,1,8,0,0,1,Web Development
+22,Male,Electronics And Communication,1,8,1,1,1,Embedded Systems
+21,Male,Civil,1,7,0,0,0,Construction Management
+22,Male,Information Technology,2,6,0,0,1,Mobile App
+21,Male,Electrical,0,6,1,0,0,Embedded Systems
+22,Male,Information Technology,1,7,1,1,0,Cloud Computing
+21,Male,Electronics And Communication,0,6,0,0,0,VLSI Design
+22,Male,Computer Science,0,8,0,3,1,Mobile App
+21,Male,Electronics And Communication,1,7,0,0,0,IoT
+22,Male,Mechanical,0,6,1,0,0,Automotive
+21,Male,Civil,0,7,0,0,0,Urban Planning
+21,Female,Civil,1,7,1,0,0,Urban Planning
+21,Male,Computer Science,1,7,0,0,0,Data Science
+21,Male,Information Technology,0,6,0,1,1,Cloud Computing
+21,Female,Electronics And Communication,2,7,0,0,1,Embedded Systems
+22,Female,Mechanical,1,8,1,0,1,Automotive
+21,Male,Mechanical,0,6,1,2,1,Automotive
+21,Male,Civil,0,7,1,0,1,Structural Design
+22,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+21,Male,Electronics And Communication,1,6,1,1,1,Embedded Systems
+21,Male,Mechanical,2,6,1,0,0,Automotive
+22,Male,Computer Science,0,8,0,0,1,Mobile App
+21,Male,Civil,0,7,0,0,0,Urban Planning
+22,Male,Information Technology,0,7,0,0,0,Database Management
+22,Male,Computer Science,0,7,0,0,0,Machine Learning
+22,Male,Civil,1,6,1,0,0,Environmental Engineering
+22,Female,Computer Science,2,6,1,1,0,Data Science
+22,Male,Electronics And Communication,0,7,0,0,1,Signal Processing
+21,Male,Civil,0,8,0,0,1,Urban Planning
+21,Male,Civil,0,8,0,0,1,Urban Planning
+22,Male,Computer Science,2,6,0,0,1,Cloud Computing
+22,Male,Computer Science,2,7,0,0,1,Data Science
+22,Male,Electronics And Communication,1,7,1,1,1,VLSI Design
+21,Male,Information Technology,2,7,0,0,1,Mobile App
+22,Male,Civil,0,6,0,0,0,Environmental Engineering
+22,Male,Civil,1,6,0,0,1,Construction Management
+21,Male,Electronics And Communication,0,7,0,0,0,Signal Processing
+21,Male,Information Technology,0,7,0,0,1,Database Management
+22,Male,Electronics And Communication,1,8,0,0,1,Embedded Systems
+22,Male,Computer Science,0,6,0,1,0,Mobile App
+22,Male,Electrical,2,8,0,3,1,Power Systems
+22,Male,Information Technology,0,6,0,2,1,Mobile App
+22,Female,Computer Science,1,6,1,0,1,Web Development
+21,Male,Electrical,0,8,0,0,1,Power Systems
+21,Male,Computer Science,1,7,0,0,1,Data Science
+22,Male,Information Technology,2,7,0,3,1,Database Management
+22,Female,Computer Science,1,8,1,0,1,Data Science
+22,Male,Civil,0,6,0,0,1,Environmental Engineering
+22,Male,Mechanical,0,6,1,0,1,Manufacturing
+22,Male,Civil,0,7,0,0,0,Environmental Engineering
+22,Female,Information Technology,0,6,0,0,1,Network Security
+22,Male,Electrical,1,8,0,0,1,Power Systems
+21,Female,Computer Science,0,6,1,0,0,Cloud Computing
+21,Male,Computer Science,1,6,0,0,1,Mobile App
+21,Male,Computer Science,0,8,0,0,1,Web Development
+21,Male,Mechanical,0,7,0,2,1,Manufacturing
+21,Male,Computer Science,2,8,0,0,1,Mobile App
+22,Male,Civil,0,8,1,0,1,Structural Design
+21,Male,Mechanical,1,6,1,0,0,Thermal Systems
+22,Male,Computer Science,0,8,0,0,1,Cloud Computing
+21,Male,Computer Science,1,8,0,0,1,Cybersecurity
+21,Male,Electronics And Communication,0,6,0,0,0,IoT
+22,Male,Electronics And Communication,1,6,1,1,0,VLSI Design
+22,Male,Information Technology,0,8,0,0,1,Web Development
+21,Male,Computer Science,1,6,0,0,0,Cybersecurity
+22,Female,Electrical,0,6,0,0,1,Power Systems
+22,Male,Electronics And Communication,0,7,0,0,0,Telecommunications
+21,Male,Information Technology,0,8,0,0,1,Mobile App
+22,Male,Mechanical,0,8,1,3,1,Manufacturing
+22,Male,Mechanical,0,7,1,1,0,CAD Design
+21,Male,Electronics And Communication,0,8,0,0,1,IoT
+21,Male,Information Technology,1,6,0,0,0,Database Management
+22,Female,Computer Science,2,7,1,0,1,Cloud Computing
+22,Male,Electronics And Communication,0,7,0,0,0,IoT
+21,Male,Electronics And Communication,1,7,0,1,1,Telecommunications
+22,Male,Information Technology,0,8,0,0,1,Web Development
+21,Male,Information Technology,0,8,0,0,1,Mobile App
+22,Female,Electrical,1,8,0,1,1,Control Systems
+22,Male,Information Technology,1,6,0,0,1,Web Development
+22,Male,Mechanical,0,8,1,1,1,Automotive
+21,Male,Mechanical,0,6,1,0,1,Robotics
+21,Male,Electronics And Communication,1,8,0,0,1,IoT
+21,Male,Civil,0,7,0,0,0,Urban Planning
+22,Female,Computer Science,1,8,1,0,1,Data Science
+22,Female,Information Technology,1,7,0,0,1,Web Development
+21,Male,Mechanical,1,6,1,0,0,Robotics
+21,Male,Mechanical,0,7,1,0,1,Thermal Systems
+21,Male,Electronics And Communication,0,8,0,0,1,Signal Processing
+22,Male,Computer Science,0,6,0,0,1,Mobile App
+22,Male,Electrical,0,6,0,1,0,Renewable Energy
+21,Male,Information Technology,2,8,0,0,1,Mobile App
+22,Male,Electrical,0,8,0,0,1,Renewable Energy
+21,Male,Electronics And Communication,1,7,0,0,0,IoT
+22,Male,Mechanical,0,7,1,0,1,Thermal Systems
+22,Male,Electronics And Communication,0,7,0,0,0,VLSI Design
+21,Male,Computer Science,1,8,0,0,1,Data Science
+22,Male,Electronics And Communication,0,8,0,0,1,VLSI Design
+21,Male,Computer Science,0,8,0,1,1,Machine Learning
+21,Male,Information Technology,1,7,0,2,0,Web Development
+22,Male,Electronics And Communication,0,7,0,0,0,Embedded Systems
+22,Male,Computer Science,1,6,0,0,0,Cybersecurity
+21,Male,Computer Science,0,8,0,1,1,Cloud Computing
+21,Female,Electrical,0,6,0,0,0,Control Systems
+21,Male,Information Technology,0,6,0,0,0,Web Development
+22,Male,Computer Science,2,8,0,0,1,Web Development
+21,Female,Computer Science,1,7,1,0,0,Cloud Computing
+22,Male,Information Technology,0,6,0,0,0,Database Management
+22,Male,Information Technology,0,6,0,0,0,Mobile App
+22,Male,Civil,1,6,1,0,0,Environmental Engineering
+22,Male,Mechanical,0,7,0,0,0,Robotics
+21,Male,Mechanical,0,8,1,0,1,Automotive
+21,Female,Information Technology,0,6,0,0,0,Web Development
+21,Male,Mechanical,1,6,1,1,0,CAD Design
+22,Male,Computer Science,0,7,0,1,0,Data Science
+21,Male,Computer Science,0,7,0,0,0,Web Development
+22,Male,Information Technology,0,8,0,0,1,Web Development
+21,Male,Computer Science,0,6,0,0,0,Data Science
+21,Male,Information Technology,1,6,1,0,0,Network Security
+22,Female,Electronics And Communication,1,6,0,1,0,Telecommunications
+21,Male,Information Technology,0,6,0,0,0,Web Development
+21,Male,Computer Science,1,8,0,0,1,Web Development
+22,Male,Mechanical,1,6,1,0,0,Automotive
+22,Female,Electronics And Communication,0,7,0,0,0,VLSI Design
+22,Female,Information Technology,0,7,0,2,0,Database Management
+22,Male,Civil,0,6,0,0,0,Environmental Engineering
+22,Male,Mechanical,0,8,1,0,1,Thermal Systems
+21,Male,Electronics And Communication,0,8,0,0,1,Telecommunications
+22,Male,Computer Science,1,6,0,0,0,Web Development
+21,Male,Mechanical,0,6,1,0,0,Automotive
+21,Male,Information Technology,1,8,0,0,1,Cloud Computing
+21,Male,Electronics And Communication,1,8,1,1,1,VLSI Design
+21,Male,Electronics And Communication,2,8,0,0,1,Signal Processing
+21,Female,Electronics And Communication,2,7,0,0,1,IoT
+21,Male,Information Technology,0,6,0,3,0,Database Management
+22,Male,Electrical,0,6,0,0,0,Renewable Energy
+22,Male,Mechanical,1,6,0,0,0,Robotics
+21,Male,Electronics And Communication,1,6,0,2,0,Signal Processing
+21,Female,Information Technology,1,5,1,0,0,Network Security
+21,Female,Computer Science,0,6,1,1,0,Web Development
+22,Male,Information Technology,1,5,0,0,0,Mobile App
+21,Male,Mechanical,1,5,1,1,0,Thermal Systems
+21,Male,Information Technology,2,6,1,0,1,Network Security
+21,Male,Computer Science,2,5,0,2,0,Web Development
+22,Male,Electrical,0,5,0,0,0,Control Systems
+21,Male,Information Technology,0,5,0,2,0,Cloud Computing
+22,Male,Electronics And Communication,2,7,0,2,0,VLSI Design
+21,Male,Electrical,0,7,0,2,0,Control Systems
+21,Male,Electronics And Communication,1,6,1,1,0,Signal Processing
+22,Male,Computer Science,1,6,0,0,0,Mobile App
+22,Male,Mechanical,0,6,1,0,0,Thermal Systems
+22,Male,Computer Science,2,6,0,0,1,Cybersecurity
+21,Male,Electrical,0,6,0,0,0,Embedded Systems
+22,Male,Civil,0,6,1,0,0,Environmental Engineering
+22,Male,Information Technology,0,7,0,0,0,Web Development
+21,Male,Computer Science,0,6,0,1,0,Data Science
+22,Male,Electrical,2,6,0,1,0,Control Systems
+22,Male,Computer Science,1,6,0,0,0,Mobile App
+21,Male,Computer Science,1,7,0,0,0,Cloud Computing
+22,Male,Mechanical,0,8,1,0,1,CAD Design
+21,Male,Electrical,3,7,0,0,1,Power Systems
+22,Male,Mechanical,0,8,1,2,1,Thermal Systems
+21,Male,Electrical,0,6,0,0,0,Control Systems
+21,Female,Computer Science,0,8,1,0,1,Machine Learning
+21,Male,Computer Science,0,7,0,0,0,Cloud Computing
+21,Female,Electrical,1,6,0,0,0,Control Systems
+22,Female,Civil,1,8,0,0,1,Construction Management
+21,Male,Civil,0,8,0,0,1,Structural Design
+21,Male,Information Technology,1,6,0,0,0,Cloud Computing
+21,Male,Computer Science,1,6,0,0,0,Machine Learning
+21,Male,Mechanical,0,6,1,2,0,Thermal Systems
+21,Male,Civil,0,7,0,0,0,Structural Design
+21,Female,Information Technology,1,8,1,0,1,Network Security
+22,Male,Civil,0,8,0,0,1,Urban Planning
+22,Male,Computer Science,0,7,0,1,0,Mobile App
+21,Male,Electrical,0,6,0,0,0,Renewable Energy
+21,Male,Electrical,1,6,0,1,0,Control Systems
+22,Male,Electronics And Communication,1,8,0,1,1,VLSI Design
+21,Male,Computer Science,0,7,0,1,0,Data Science
+21,Male,Computer Science,0,7,0,2,0,Data Science
+21,Male,Civil,1,8,0,2,1,Structural Design
+22,Male,Information Technology,0,8,0,0,1,Cloud Computing
+21,Male,Electronics And Communication,0,6,0,0,0,Signal Processing
+28,Male,Civil,0,8,1,0,1,Urban Planning
+21,Male,Computer Science,2,7,0,0,1,Mobile App
+22,Male,Electronics And Communication,2,6,0,0,1,IoT
+21,Male,Information Technology,1,8,1,0,1,Cloud Computing
+22,Male,Mechanical,0,6,1,0,1,Thermal Systems
+21,Male,Mechanical,0,8,1,0,1,Automotive
+21,Male,Information Technology,1,6,0,0,0,Database Management
+22,Female,Mechanical,1,7,1,0,0,Manufacturing
+22,Male,Electronics And Communication,0,8,0,0,1,Telecommunications
+21,Male,Electrical,0,6,0,0,0,Control Systems
+21,Male,Mechanical,0,6,1,0,1,Robotics
+22,Male,Mechanical,0,7,1,0,0,Robotics
+22,Male,Electronics And Communication,1,6,1,2,0,IoT
+22,Male,Computer Science,0,7,0,1,1,Cloud Computing
+21,Male,Computer Science,0,7,0,0,1,Data Science
+22,Male,Computer Science,0,8,0,1,1,Machine Learning
+22,Male,Information Technology,1,6,1,0,0,Mobile App
+21,Male,Electronics And Communication,0,6,0,0,0,Signal Processing
+22,Male,Computer Science,0,6,0,0,1,Machine Learning
+21,Male,Civil,0,6,0,0,1,Urban Planning
+22,Female,Information Technology,1,8,0,0,1,Network Security
+21,Male,Information Technology,1,8,0,0,1,Network Security
+21,Male,Mechanical,0,8,1,0,1,Automotive
+22,Male,Civil,0,6,0,0,0,Structural Design
+22,Male,Electrical,0,7,0,2,0,Embedded Systems
+21,Male,Information Technology,1,6,0,2,1,Web Development
+21,Male,Mechanical,1,6,1,0,0,Robotics
+22,Male,Mechanical,0,6,1,1,1,Automotive
+22,Female,Information Technology,0,7,0,0,1,Network Security
+22,Male,Information Technology,2,7,0,0,0,Database Management
+21,Male,Computer Science,3,8,0,0,1,Data Science
+22,Male,Computer Science,0,6,0,0,1,Mobile App
+21,Male,Computer Science,0,8,0,2,1,Cybersecurity
+21,Female,Information Technology,1,8,0,1,1,Network Security
+21,Female,Computer Science,0,8,1,1,1,Web Development
+22,Male,Information Technology,1,6,0,0,1,Mobile App
+21,Male,Electronics And Communication,0,8,0,1,1,VLSI Design
+22,Female,Mechanical,1,7,1,0,0,CAD Design
+21,Male,Information Technology,1,8,1,0,1,Mobile App
+22,Male,Electrical,0,6,0,0,0,Renewable Energy
+22,Male,Mechanical,0,7,1,0,0,CAD Design
+22,Male,Civil,0,6,1,0,0,Construction Management
+22,Male,Information Technology,0,6,0,1,1,Web Development
+22,Male,Electronics And Communication,1,7,0,0,0,Signal Processing
+21,Male,Information Technology,1,8,0,0,1,Cloud Computing
+22,Male,Electrical,1,7,0,0,0,Power Systems
+22,Male,Mechanical,0,6,1,0,1,CAD Design
+21,Male,Civil,2,6,1,0,1,Construction Management
+22,Male,Electronics And Communication,0,6,0,0,1,VLSI Design
+21,Male,Computer Science,0,7,0,0,1,Cybersecurity
+22,Male,Mechanical,0,7,1,1,0,Manufacturing
+22,Male,Mechanical,2,7,1,0,1,Robotics
+22,Male,Mechanical,0,7,1,0,1,Robotics
+21,Male,Computer Science,0,7,0,0,0,Cloud Computing
+22,Male,Computer Science,1,7,0,0,1,Cloud Computing
+21,Male,Electrical,0,6,0,0,1,Embedded Systems
+22,Male,Civil,0,6,0,0,0,Urban Planning
+21,Male,Information Technology,3,8,1,0,1,Cloud Computing
+22,Female,Electronics And Communication,3,8,1,1,1,VLSI Design
+21,Male,Information Technology,0,7,0,2,1,Mobile App
+21,Male,Computer Science,1,8,0,0,1,Cloud Computing
+21,Male,Information Technology,0,7,0,0,0,Mobile App
+21,Male,Mechanical,2,6,1,0,1,Manufacturing
+22,Male,Mechanical,0,8,1,0,1,CAD Design
+21,Female,Computer Science,1,8,1,0,1,Cybersecurity
+22,Male,Electrical,0,8,0,1,1,Embedded Systems
+21,Male,Civil,1,8,0,0,1,Structural Design
+22,Female,Computer Science,1,7,1,0,0,Cloud Computing
+21,Male,Electrical,0,7,0,0,0,Power Systems
+21,Female,Information Technology,0,7,0,0,0,Mobile App
+21,Female,Computer Science,1,8,1,0,1,Data Science
+21,Male,Computer Science,1,8,0,0,1,Cloud Computing
+21,Male,Electronics And Communication,1,6,0,0,0,Signal Processing
+22,Male,Mechanical,0,8,1,0,1,Automotive
+22,Male,Electronics And Communication,1,8,0,0,1,VLSI Design
+21,Male,Computer Science,1,6,0,0,0,Web Development
+21,Male,Civil,0,7,0,0,0,Urban Planning
+22,Male,Electronics And Communication,1,7,0,1,0,VLSI Design
+22,Male,Electrical,1,7,0,0,0,Control Systems
+22,Male,Electrical,0,8,0,0,1,Embedded Systems
+21,Male,Information Technology,1,8,0,0,1,Network Security
+22,Male,Mechanical,2,7,1,0,0,Automotive
+21,Male,Civil,0,6,1,3,0,Structural Design
+22,Male,Mechanical,1,6,1,0,0,Automotive
+22,Male,Electronics And Communication,1,7,0,0,0,Signal Processing
+22,Male,Mechanical,1,7,1,0,0,Automotive
+22,Female,Mechanical,1,8,0,0,1,CAD Design
+21,Male,Computer Science,0,7,0,1,0,Mobile App
+21,Male,Electronics And Communication,0,8,0,0,1,Telecommunications
+21,Male,Mechanical,1,7,0,0,0,Manufacturing
+22,Male,Information Technology,0,7,0,0,0,Mobile App
+21,Male,Computer Science,2,7,0,0,1,Cybersecurity
+22,Male,Civil,1,8,0,0,1,Environmental Engineering
+22,Male,Electronics And Communication,0,8,0,0,1,Signal Processing
+22,Male,Mechanical,0,7,1,0,0,Manufacturing
+22,Male,Information Technology,1,7,0,0,0,Database Management
+22,Male,Computer Science,1,6,0,0,0,Web Development
+21,Male,Computer Science,1,6,0,0,0,Machine Learning
+22,Female,Civil,1,6,0,0,0,Structural Design
+21,Female,Civil,1,8,0,0,1,Environmental Engineering
+22,Female,Computer Science,1,7,1,0,0,Machine Learning
+21,Male,Mechanical,1,8,1,0,1,Robotics
+30,Male,Computer Science,1,8,0,0,1,Cloud Computing
+22,Male,Information Technology,0,8,0,1,1,Cloud Computing
+21,Male,Information Technology,1,7,0,2,0,Database Management
+22,Female,Electronics And Communication,0,7,0,0,0,VLSI Design
+22,Male,Information Technology,1,8,1,0,1,Network Security
+22,Male,Civil,1,7,0,0,0,Structural Design
+22,Male,Electrical,1,6,1,1,0,Renewable Energy
+21,Female,Civil,1,7,0,1,0,Urban Planning
+21,Male,Computer Science,0,6,0,0,0,Machine Learning
+22,Male,Electrical,1,7,0,0,0,Embedded Systems
+21,Male,Information Technology,0,8,0,1,1,Mobile App
+21,Male,Computer Science,1,7,0,0,0,Cybersecurity
+22,Male,Electrical,1,7,0,1,0,Embedded Systems
+22,Male,Electrical,0,8,0,0,1,Power Systems
+22,Male,Electrical,1,7,0,0,0,Control Systems
+21,Male,Computer Science,1,7,0,0,0,Web Development
+21,Male,Computer Science,2,7,0,0,1,Mobile App
+21,Male,Computer Science,0,7,0,0,0,Data Science
+22,Male,Electrical,0,7,0,3,0,Renewable Energy
+22,Male,Computer Science,2,6,0,0,1,Data Science
+22,Male,Electronics And Communication,0,8,0,0,1,VLSI Design
+21,Male,Electrical,0,7,0,0,0,Renewable Energy
+22,Male,Information Technology,1,6,0,0,0,Network Security
+21,Male,Computer Science,0,7,0,0,0,Machine Learning
+22,Female,Information Technology,0,8,0,0,1,Web Development
+22,Male,Electronics And Communication,1,7,0,0,0,VLSI Design
+21,Male,Information Technology,0,6,0,0,0,Cloud Computing
+21,Male,Civil,0,7,1,0,0,Urban Planning
+22,Male,Electrical,1,8,0,0,1,Embedded Systems
+22,Male,Computer Science,0,6,0,0,0,Web Development
+21,Male,Information Technology,0,7,0,0,0,Mobile App
+21,Male,Civil,1,8,0,0,1,Construction Management
+21,Male,Computer Science,1,7,0,0,0,Cloud Computing
+22,Male,Civil,0,7,1,0,0,Structural Design
+21,Male,Computer Science,2,7,0,2,0,Web Development
+22,Female,Electronics And Communication,0,8,0,0,1,IoT
+21,Male,Computer Science,1,7,0,0,0,Web Development
+22,Male,Computer Science,1,6,0,0,0,Web Development
+21,Male,Computer Science,0,7,0,2,0,Cloud Computing
+21,Male,Electronics And Communication,1,7,0,0,1,VLSI Design
+21,Male,Information Technology,1,8,0,2,1,Mobile App
+21,Male,Electronics And Communication,0,7,0,0,1,IoT
+22,Male,Information Technology,2,6,0,0,1,Database Management
+22,Male,Computer Science,1,6,0,0,0,Machine Learning
+21,Male,Electronics And Communication,0,7,0,0,1,Signal Processing
+22,Male,Computer Science,1,6,0,0,1,Cloud Computing
+21,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+22,Female,Information Technology,0,8,0,0,1,Network Security
+22,Male,Information Technology,1,7,0,0,0,Database Management
+21,Male,Information Technology,2,6,1,0,1,Mobile App
+21,Male,Computer Science,2,8,0,0,1,Data Science
+22,Female,Information Technology,2,7,1,0,1,Database Management
+21,Male,Computer Science,2,7,0,0,1,Cloud Computing
+21,Male,Information Technology,2,8,0,0,1,Network Security
+21,Male,Computer Science,2,7,0,0,1,Machine Learning
+22,Female,Information Technology,1,7,1,0,1,Database Management
+22,Male,Computer Science,2,7,0,0,1,Web Development
+21,Male,Electrical,1,8,0,0,1,Power Systems
+21,Male,Information Technology,2,7,0,2,0,Web Development
+22,Male,Computer Science,1,8,0,1,1,Mobile App
+21,Male,Computer Science,1,7,0,0,0,Web Development
+21,Male,Civil,2,6,0,0,0,Urban Planning
+22,Male,Electrical,1,6,0,0,0,Power Systems
+21,Male,Information Technology,1,8,0,2,1,Network Security
+21,Male,Electronics And Communication,1,7,0,0,0,VLSI Design
+21,Male,Electrical,1,7,0,1,1,Control Systems
+21,Male,Electrical,2,8,0,0,1,Renewable Energy
+22,Male,Electronics And Communication,1,8,0,0,1,Telecommunications
+22,Male,Mechanical,1,8,1,0,1,CAD Design
+21,Male,Civil,2,8,1,2,1,Urban Planning
+22,Female,Computer Science,1,6,1,0,1,Cloud Computing
+22,Male,Electrical,2,6,0,0,1,Embedded Systems
+22,Male,Mechanical,2,7,1,0,0,CAD Design
+22,Female,Electronics And Communication,1,7,0,0,0,Signal Processing
+22,Female,Electronics And Communication,2,8,0,0,1,IoT
+22,Male,Electronics And Communication,1,8,0,0,1,Embedded Systems
+21,Male,Mechanical,1,6,1,0,0,Thermal Systems
+22,Male,Mechanical,2,6,1,0,1,Robotics
+22,Male,Civil,1,6,0,0,0,Structural Design
+21,Male,Mechanical,1,8,1,0,1,Automotive
+21,Female,Information Technology,2,6,0,0,1,Mobile App
+21,Male,Electronics And Communication,2,8,0,0,1,Signal Processing
+21,Male,Information Technology,2,8,0,2,1,Web Development
+22,Male,Computer Science,2,7,0,0,0,Mobile App
+22,Male,Information Technology,1,8,0,0,1,Cloud Computing
+22,Male,Electrical,2,8,0,0,1,Embedded Systems
+22,Male,Electronics And Communication,2,8,0,0,1,Signal Processing
+21,Male,Computer Science,2,6,0,0,1,Cybersecurity
+22,Male,Computer Science,1,7,0,0,1,Cloud Computing
+21,Female,Mechanical,1,7,1,0,0,CAD Design
+21,Male,Computer Science,2,6,0,0,1,Machine Learning
+22,Female,Computer Science,1,6,1,0,1,Mobile App
+21,Male,Mechanical,1,6,1,1,0,Thermal Systems
+22,Male,Electronics And Communication,1,7,0,1,0,Telecommunications
+21,Female,Computer Science,1,8,1,0,1,Mobile App
+22,Male,Electrical,1,7,0,0,0,Renewable Energy
+21,Male,Information Technology,2,6,1,0,1,Network Security
+21,Female,Information Technology,1,7,0,1,1,Database Management
+22,Female,Information Technology,1,6,0,0,1,Mobile App
+21,Male,Mechanical,2,6,1,0,1,Thermal Systems
+22,Male,Mechanical,1,6,1,0,0,Robotics
+21,Male,Electronics And Communication,1,7,0,0,1,IoT
+22,Male,Information Technology,0,6,0,0,1,Database Management
+22,Male,Civil,1,8,0,0,1,Environmental Engineering
+21,Male,Electrical,0,7,0,0,0,Control Systems
+22,Male,Electronics And Communication,1,7,0,0,0,Telecommunications
+22,Female,Information Technology,1,8,0,0,1,Mobile App
+22,Female,Electrical,1,6,0,1,0,Renewable Energy
+21,Male,Mechanical,0,7,1,0,0,Automotive
+22,Male,Electronics And Communication,0,7,0,0,0,VLSI Design
+22,Male,Information Technology,1,7,1,0,0,Mobile App
+22,Male,Computer Science,0,7,0,2,0,Data Science
+21,Male,Electronics And Communication,1,8,1,2,1,IoT
+22,Male,Computer Science,0,6,0,0,0,Data Science
+22,Male,Information Technology,0,7,0,0,0,Cloud Computing
+21,Male,Electronics And Communication,1,6,0,0,0,IoT
+22,Male,Mechanical,1,7,1,1,0,Automotive
+22,Male,Computer Science,2,7,0,0,0,Mobile App
+22,Female,Electrical,1,7,1,1,0,Power Systems
+21,Male,Civil,1,6,0,0,0,Environmental Engineering
+22,Male,Civil,0,6,0,0,0,Structural Design
+22,Male,Electrical,0,7,0,0,0,Embedded Systems
+21,Male,Computer Science,1,7,0,0,0,Data Science
+22,Female,Information Technology,0,6,0,0,0,Mobile App
+21,Male,Electrical,0,8,0,0,1,Renewable Energy
+21,Male,Mechanical,0,7,1,0,0,Thermal Systems
+21,Male,Computer Science,1,6,0,0,0,Mobile App
+22,Male,Computer Science,0,7,0,0,0,Mobile App
+22,Female,Civil,1,8,0,0,1,Construction Management
+22,Female,Information Technology,1,7,0,0,0,Database Management
+21,Female,Information Technology,2,8,0,1,1,Cloud Computing
+21,Male,Computer Science,1,8,0,0,1,Cloud Computing
+22,Male,Information Technology,0,8,0,0,1,Mobile App
+21,Female,Electronics And Communication,0,6,0,0,0,VLSI Design
+22,Male,Civil,2,6,1,0,1,Urban Planning
+21,Male,Electronics And Communication,2,8,0,0,1,Embedded Systems
+21,Male,Mechanical,0,7,1,0,0,Automotive
+21,Male,Electrical,0,7,0,0,0,Embedded Systems
+22,Male,Mechanical,0,8,1,0,1,CAD Design
+21,Male,Civil,0,6,0,0,0,Structural Design
+22,Male,Information Technology,0,8,0,0,1,Cloud Computing
+21,Male,Computer Science,1,7,0,0,0,Data Science
+22,Male,Computer Science,1,8,0,0,1,Web Development
+21,Male,Information Technology,2,8,0,0,1,Network Security
+22,Male,Information Technology,1,7,0,0,0,Web Development
+22,Female,Civil,1,6,0,0,0,Construction Management
+21,Male,Computer Science,0,8,0,0,1,Cybersecurity
+21,Male,Computer Science,0,8,0,1,1,Web Development
+21,Male,Mechanical,2,6,1,0,1,Manufacturing
+21,Male,Electrical,1,8,0,0,1,Power Systems
+25,Male,Computer Science,0,7,0,0,0,Web Development
+26,Male,Electronics And Communication,2,6,0,0,1,IoT
+24,Female,Electrical,1,8,0,1,1,Renewable Energy
+25,Male,Computer Science,2,6,0,0,1,Cloud Computing
+24,Female,Electronics And Communication,0,6,0,0,1,Signal Processing
+25,Male,Computer Science,1,8,0,0,1,Data Science
+23,Male,Electronics And Communication,0,9,0,0,1,Signal Processing
+24,Male,Electrical,1,7,0,0,1,Embedded Systems
+25,Male,Civil,0,9,1,0,1,Structural Design
+25,Male,Computer Science,1,8,0,0,1,Web Development
+26,Female,Information Technology,1,6,0,0,1,Web Development
+26,Male,Information Technology,1,6,1,0,1,Cloud Computing
+25,Male,Electrical,0,8,0,0,1,Embedded Systems
+26,Male,Information Technology,0,8,0,0,1,Web Development
+24,Male,Information Technology,0,8,0,0,1,Web Development
+25,Male,Computer Science,1,8,0,0,1,Web Development
+23,Male,Computer Science,1,6,0,0,1,Data Science
+23,Male,Civil,0,7,0,0,0,Environmental Engineering
+24,Male,Electronics And Communication,1,9,0,0,1,VLSI Design
+25,Male,Computer Science,0,8,0,0,1,Mobile App
+24,Male,Computer Science,0,7,0,1,1,Cloud Computing
+24,Male,Mechanical,2,8,1,0,1,Automotive
+23,Male,Mechanical,1,8,1,0,1,Automotive
+26,Male,Information Technology,1,8,0,0,1,Database Management
+23,Female,Civil,1,7,0,3,0,Environmental Engineering
+26,Male,Computer Science,1,9,0,0,1,Cybersecurity
+26,Male,Electrical,2,8,1,0,1,Renewable Energy
+26,Male,Electrical,0,9,0,1,1,Control Systems
+26,Male,Civil,0,6,0,0,1,Urban Planning
+24,Male,Mechanical,0,9,0,1,1,Thermal Systems
+24,Male,Computer Science,1,7,0,0,1,Cybersecurity
+23,Male,Electrical,0,8,0,0,1,Power Systems
+26,Female,Mechanical,1,7,1,0,0,Robotics
+23,Male,Information Technology,1,7,0,0,0,Web Development
+24,Male,Mechanical,0,8,0,0,1,Manufacturing
+26,Male,Civil,0,9,0,0,1,Environmental Engineering
+25,Male,Electrical,0,7,0,0,0,Renewable Energy
+23,Male,Mechanical,0,9,1,2,1,Manufacturing
+24,Female,Computer Science,1,8,1,0,1,Cloud Computing
+23,Male,Information Technology,1,8,0,0,1,Cloud Computing
+23,Male,Mechanical,0,7,1,0,0,Thermal Systems
+26,Male,Computer Science,3,7,0,0,1,Cloud Computing
+24,Male,Information Technology,1,6,0,0,1,Mobile App
+26,Male,Electrical,1,8,0,0,1,Renewable Energy
+23,Male,Computer Science,1,6,0,0,1,Mobile App
+23,Male,Civil,1,7,0,0,0,Structural Design
+26,Male,Information Technology,1,7,0,0,1,Mobile App
+26,Male,Civil,0,7,0,0,0,Structural Design
+24,Male,Computer Science,1,7,0,0,1,Web Development
+23,Male,Information Technology,0,8,0,0,1,Mobile App
+26,Female,Information Technology,1,6,0,1,1,Database Management
+23,Male,Electronics And Communication,1,6,1,3,0,Telecommunications
+24,Male,Civil,0,7,0,0,0,Structural Design
+24,Male,Computer Science,1,6,0,0,1,Cybersecurity
+25,Male,Information Technology,1,6,0,0,1,Web Development
+25,Male,Computer Science,0,8,0,0,1,Web Development
+26,Male,Civil,0,8,1,0,1,Urban Planning
+24,Male,Mechanical,0,6,1,0,1,Manufacturing
+26,Female,Electrical,1,8,0,0,1,Embedded Systems
+25,Male,Information Technology,1,8,0,0,1,Web Development
+22,Male,Computer Science,0,6,0,0,1,Cloud Computing
+21,Male,Information Technology,0,6,0,0,1,Database Management
+22,Male,Electrical,1,6,0,0,0,Embedded Systems
+22,Male,Information Technology,1,6,0,0,1,Database Management
+22,Female,Computer Science,1,6,1,0,1,Mobile App
+22,Male,Electronics And Communication,1,8,0,0,1,Signal Processing
+21,Female,Computer Science,1,6,1,0,1,Cybersecurity
+22,Male,Computer Science,1,6,0,0,0,Web Development
+21,Female,Information Technology,1,6,0,0,1,Database Management
+21,Male,Electrical,0,8,0,0,1,Control Systems
+22,Male,Mechanical,0,7,1,0,0,Thermal Systems
+22,Female,Computer Science,2,8,1,0,1,Cybersecurity
+22,Male,Computer Science,1,8,0,0,1,Cloud Computing
+22,Male,Computer Science,1,8,0,0,1,Cloud Computing
+21,Male,Information Technology,0,7,0,0,1,Web Development
+21,Female,Electronics And Communication,0,6,0,0,0,IoT
+21,Male,Electrical,1,6,0,0,0,Control Systems
+22,Male,Computer Science,1,6,0,0,1,Cybersecurity
+22,Male,Electrical,0,8,0,0,1,Power Systems
+21,Male,Electrical,1,7,0,3,1,Embedded Systems
+21,Female,Mechanical,1,7,0,0,0,Thermal Systems
+22,Male,Electrical,0,7,1,0,0,Power Systems
+21,Female,Information Technology,2,8,0,0,1,Database Management
+22,Male,Mechanical,0,8,1,0,1,Thermal Systems
+21,Male,Computer Science,1,8,0,0,1,Data Science
+22,Male,Civil,0,6,1,1,0,Structural Design
+21,Male,Information Technology,0,6,0,0,0,Web Development
+21,Female,Electronics And Communication,1,8,1,1,1,VLSI Design
+22,Female,Information Technology,1,8,0,0,1,Web Development
+22,Male,Mechanical,1,8,1,0,1,Robotics
+22,Male,Civil,0,8,1,0,1,Environmental Engineering
+22,Male,Civil,0,6,0,0,0,Construction Management
+22,Male,Computer Science,1,8,0,0,1,Web Development
+22,Male,Electronics And Communication,1,8,0,0,1,IoT
+22,Male,Computer Science,2,8,0,1,1,Cloud Computing
+22,Female,Electrical,0,8,0,0,1,Renewable Energy
+22,Male,Information Technology,1,7,1,0,1,Database Management
+22,Female,Computer Science,0,8,1,0,1,Mobile App
+22,Male,Electrical,0,7,0,0,0,Control Systems
+21,Male,Electronics And Communication,0,8,0,1,1,Embedded Systems
+22,Female,Information Technology,0,7,0,0,1,Database Management
+21,Male,Computer Science,1,7,0,0,1,Cloud Computing
+22,Male,Civil,1,6,0,0,0,Environmental Engineering
+21,Female,Information Technology,0,6,0,0,1,Mobile App
+22,Male,Computer Science,1,8,0,0,1,Mobile App
+21,Male,Mechanical,0,8,1,0,1,Automotive
+22,Male,Civil,0,6,0,0,0,Environmental Engineering
+22,Male,Computer Science,1,6,0,0,1,Cloud Computing
+22,Male,Computer Science,1,7,0,0,1,Data Science
+21,Male,Civil,0,6,0,0,0,Structural Design
+22,Male,Computer Science,1,8,0,0,1,Cloud Computing
+21,Male,Civil,1,8,0,0,1,Structural Design
+21,Male,Electronics And Communication,1,6,1,1,0,Signal Processing
+22,Female,Mechanical,1,8,0,0,1,Automotive
+22,Male,Information Technology,0,8,0,0,1,Cloud Computing
+21,Male,Civil,0,6,0,0,0,Urban Planning
+22,Male,Electronics And Communication,1,6,0,0,0,Signal Processing
+21,Male,Mechanical,0,8,1,0,1,Thermal Systems
+21,Female,Electrical,0,7,0,0,0,Control Systems
+22,Male,Computer Science,0,6,0,0,1,Mobile App
+22,Female,Information Technology,1,7,1,0,1,Database Management
+21,Male,Electronics And Communication,1,8,1,0,1,Telecommunications
+21,Male,Computer Science,2,8,0,0,1,Cloud Computing
+22,Male,Civil,0,7,0,2,0,Structural Design
+21,Male,Electronics And Communication,0,7,0,0,0,VLSI Design
+21,Male,Civil,0,8,1,0,1,Environmental Engineering
+21,Male,Mechanical,0,7,1,0,0,Manufacturing
+21,Female,Information Technology,0,7,0,0,1,Web Development
+21,Male,Electronics And Communication,2,6,0,0,1,VLSI Design
+21,Female,Information Technology,0,8,0,0,1,Database Management
+21,Male,Electronics And Communication,0,7,0,0,1,IoT
+21,Male,Information Technology,1,8,0,0,1,Cloud Computing
+22,Male,Electronics And Communication,3,7,0,0,0,VLSI Design
+21,Male,Mechanical,0,6,1,0,0,Automotive
+21,Male,Mechanical,0,6,1,0,0,CAD Design
+21,Female,Mechanical,1,8,1,0,1,Automotive
+22,Male,Electrical,0,8,1,0,1,Embedded Systems
+21,Male,Information Technology,0,6,0,0,1,Network Security
+22,Female,Information Technology,0,6,0,0,1,Database Management
+22,Male,Computer Science,1,6,0,0,0,Cybersecurity
+21,Male,Information Technology,0,6,0,0,1,Network Security
+22,Male,Computer Science,1,7,0,0,1,Cloud Computing
+22,Male,Mechanical,1,8,1,0,1,Thermal Systems
+22,Male,Electrical,0,7,1,0,0,Power Systems
+22,Male,Electronics And Communication,1,6,1,1,0,Signal Processing
+21,Male,Computer Science,0,7,0,0,1,Web Development
+22,Male,Electrical,1,6,0,0,0,Renewable Energy
+21,Male,Electronics And Communication,0,6,0,0,0,Signal Processing
+22,Male,Information Technology,0,8,0,1,1,Mobile App
+22,Male,Electronics And Communication,2,8,0,0,1,VLSI Design
+22,Male,Mechanical,1,7,1,0,0,Automotive
+22,Female,Information Technology,0,6,0,0,0,Mobile App
+21,Male,Electrical,0,7,0,0,1,Control Systems
+22,Male,Electronics And Communication,0,7,0,0,0,Signal Processing
+22,Male,Computer Science,1,7,0,0,1,Cybersecurity
+21,Male,Computer Science,1,8,0,0,1,Cloud Computing
+21,Male,Computer Science,2,7,0,0,1,Cloud Computing
+22,Male,Information Technology,2,6,0,0,1,Network Security
+21,Male,Information Technology,1,6,0,0,1,Mobile App
+22,Male,Civil,0,8,0,1,1,Environmental Engineering
+22,Male,Mechanical,1,7,1,0,0,Automotive
+21,Male,Computer Science,1,8,0,0,1,Cybersecurity
+21,Male,Mechanical,0,8,1,0,1,Thermal Systems
+21,Male,Electrical,2,7,1,3,1,Power Systems
+21,Female,Computer Science,0,6,1,0,1,Web Development
+22,Male,Mechanical,1,6,0,0,0,CAD Design
+22,Male,Civil,0,6,1,0,0,Environmental Engineering
+21,Male,Electronics And Communication,2,7,0,0,1,Signal Processing
+22,Female,Information Technology,0,8,0,0,1,Network Security
+22,Male,Electronics And Communication,0,6,0,0,0,Telecommunications
+22,Female,Information Technology,1,6,0,0,1,Database Management
+22,Male,Mechanical,1,7,1,0,0,Thermal Systems
+22,Male,Mechanical,1,6,1,0,0,Robotics
+22,Male,Information Technology,0,8,0,0,1,Web Development
+22,Male,Information Technology,0,8,0,0,1,Mobile App
+21,Male,Electrical,1,6,1,1,0,Renewable Energy
+22,Male,Computer Science,1,7,0,0,1,Data Science
+21,Male,Computer Science,0,8,0,1,1,Data Science
+21,Male,Information Technology,2,6,0,0,1,Cloud Computing
+21,Male,Electronics And Communication,1,8,1,1,1,Telecommunications
+22,Male,Information Technology,0,8,0,0,1,Network Security
+22,Female,Information Technology,0,8,0,0,1,Network Security
+22,Male,Computer Science,0,6,0,3,1,Data Science
+22,Male,Information Technology,1,8,0,0,1,Mobile App
+21,Male,Computer Science,0,6,0,1,0,Data Science
+21,Male,Electrical,0,6,0,0,0,Renewable Energy
+22,Male,Information Technology,1,8,0,2,1,Web Development
+22,Male,Mechanical,0,6,1,0,0,Manufacturing
+21,Male,Information Technology,1,8,0,0,1,Web Development
+22,Male,Electrical,1,7,0,0,0,Embedded Systems
+22,Male,Electronics And Communication,0,8,0,0,1,IoT
+21,Male,Information Technology,0,8,0,0,1,Mobile App
+21,Female,Computer Science,1,7,1,0,1,Machine Learning
+22,Male,Information Technology,0,6,0,0,1,Mobile App
+22,Male,Information Technology,0,7,0,0,1,Mobile App
+22,Male,Civil,0,6,1,2,0,Construction Management
+22,Male,Information Technology,1,7,0,0,0,Cloud Computing
+21,Male,Electrical,1,8,0,0,1,Control Systems
+21,Female,Information Technology,2,7,0,0,1,Network Security
+22,Male,Information Technology,3,8,0,0,1,Database Management
+22,Male,Mechanical,0,7,1,1,0,Thermal Systems
+21,Female,Information Technology,1,6,1,0,0,Network Security
+22,Male,Mechanical,1,7,1,2,0,Automotive
+21,Male,Information Technology,1,6,0,0,0,Network Security
+21,Male,Mechanical,0,8,1,0,1,Automotive
+22,Male,Electrical,0,8,0,1,1,Renewable Energy
+21,Male,Information Technology,1,8,0,0,1,Web Development
+21,Male,Computer Science,0,6,0,0,0,Cybersecurity
+22,Male,Information Technology,0,7,0,0,0,Database Management
+21,Male,Mechanical,0,8,1,0,1,Thermal Systems
+21,Male,Information Technology,0,7,0,0,0,Mobile App
+21,Male,Electrical,0,6,0,0,0,Renewable Energy
+21,Male,Electronics And Communication,1,7,1,2,0,Signal Processing
+21,Male,Civil,2,7,0,0,0,Construction Management
+22,Female,Civil,1,8,0,0,1,Construction Management
+22,Male,Information Technology,0,6,0,0,1,Mobile App
+22,Female,Information Technology,1,6,0,0,1,Cloud Computing
+22,Male,Civil,0,7,1,0,0,Environmental Engineering
+21,Male,Computer Science,0,8,0,2,1,Web Development
+22,Male,Information Technology,2,6,0,0,1,Database Management
+21,Male,Civil,0,6,0,0,0,Structural Design
+21,Male,Civil,0,8,0,0,1,Structural Design
+21,Male,Computer Science,0,7,0,0,1,Cloud Computing
+21,Male,Civil,1,7,0,0,0,Structural Design
+21,Male,Civil,1,6,0,0,0,Urban Planning
+21,Male,Information Technology,2,8,0,1,1,Network Security
+21,Female,Mechanical,1,6,1,0,0,Robotics
+22,Male,Information Technology,2,8,0,0,1,Network Security
+21,Female,Civil,1,8,0,1,1,Construction Management
+22,Male,Information Technology,0,6,0,0,1,Database Management
+22,Male,Electronics And Communication,0,7,0,0,0,VLSI Design
+21,Male,Computer Science,1,8,0,0,1,Machine Learning
+22,Male,Information Technology,2,7,1,0,1,Web Development
+22,Male,Computer Science,1,7,0,0,1,Cybersecurity
+22,Male,Information Technology,1,7,0,2,1,Network Security
+22,Male,Computer Science,1,7,0,0,1,Data Science
+22,Male,Mechanical,1,7,1,1,0,Automotive
+22,Female,Computer Science,1,7,1,0,0,Cloud Computing
+22,Male,Mechanical,0,7,1,0,0,Automotive
+22,Male,Civil,0,8,0,0,1,Urban Planning
+22,Male,Information Technology,2,7,0,1,1,Network Security
+22,Male,Mechanical,0,7,1,0,0,Thermal Systems
+22,Male,Computer Science,0,6,0,0,1,Web Development
+22,Male,Electronics And Communication,0,8,0,0,1,Telecommunications
+22,Male,Computer Science,1,8,0,0,1,Machine Learning
+22,Male,Computer Science,1,6,0,0,1,Machine Learning
+22,Male,Computer Science,2,7,0,0,1,Web Development
+21,Male,Computer Science,1,8,0,0,1,Mobile App
+21,Male,Information Technology,0,7,0,1,1,Network Security
+22,Male,Computer Science,0,7,0,0,1,Cybersecurity
+22,Female,Information Technology,0,8,0,0,1,Mobile App
+22,Male,Information Technology,0,7,0,0,1,Cloud Computing
+22,Male,Computer Science,0,8,0,0,1,Machine Learning
+21,Male,Civil,1,8,0,0,1,Environmental Engineering
+21,Male,Mechanical,0,7,1,0,0,CAD Design
+21,Male,Information Technology,1,6,0,0,1,Web Development
+21,Male,Information Technology,1,8,0,0,1,Network Security
+21,Male,Mechanical,0,7,1,0,0,Robotics
+22,Male,Computer Science,1,7,0,0,1,Data Science
+21,Male,Computer Science,1,7,0,0,1,Machine Learning
+22,Male,Mechanical,1,8,1,0,1,Manufacturing
+22,Male,Information Technology,1,8,1,0,1,Web Development
+21,Male,Information Technology,0,6,0,1,1,Web Development
+21,Male,Information Technology,0,7,0,2,1,Cloud Computing
+22,Male,Information Technology,2,8,0,0,1,Cloud Computing
+22,Male,Electrical,0,8,1,1,1,Control Systems
+22,Male,Mechanical,0,7,1,0,0,Thermal Systems
+22,Female,Electronics And Communication,1,6,0,0,0,Signal Processing
+21,Male,Mechanical,0,8,1,0,1,Manufacturing
+21,Male,Electrical,0,7,0,0,0,Renewable Energy
+22,Male,Electronics And Communication,1,6,0,0,0,VLSI Design
+21,Male,Civil,0,8,0,0,1,Structural Design
+21,Male,Civil,0,8,1,0,1,Environmental Engineering
+22,Male,Computer Science,1,7,0,0,1,Data Science
+21,Male,Mechanical,1,6,1,0,0,Automotive
+21,Male,Information Technology,0,6,0,1,1,Network Security
+22,Female,Computer Science,0,8,1,0,1,Mobile App
+21,Female,Computer Science,0,7,1,0,0,Machine Learning
+22,Male,Civil,0,8,0,0,1,Environmental Engineering
+22,Male,Computer Science,1,8,0,1,1,Cybersecurity
+22,Male,Civil,0,6,0,2,0,Urban Planning
+22,Male,Mechanical,0,7,1,0,0,CAD Design
+21,Male,Electronics And Communication,1,7,0,1,1,IoT
+22,Male,Information Technology,0,8,0,0,1,Network Security
+22,Male,Computer Science,0,6,0,0,1,Data Science
+22,Male,Information Technology,1,8,0,0,1,Network Security
+21,Male,Electronics And Communication,1,7,0,0,0,IoT
+22,Female,Computer Science,1,8,1,0,1,Cybersecurity
+22,Female,Computer Science,2,7,1,0,1,Web Development
+22,Male,Electrical,0,6,0,0,0,Control Systems
+22,Male,Mechanical,0,6,1,0,0,Automotive
+22,Male,Computer Science,2,7,0,0,1,Cloud Computing
+22,Male,Mechanical,0,7,1,0,0,Robotics
+22,Male,Computer Science,1,7,0,0,1,Machine Learning
+21,Male,Information Technology,1,6,1,2,1,Cloud Computing
+21,Male,Information Technology,1,6,0,1,1,Web Development
+22,Female,Information Technology,1,7,0,0,1,Cloud Computing
+21,Male,Information Technology,2,8,0,3,1,Mobile App
+21,Male,Civil,0,6,0,0,0,Construction Management
+21,Male,Information Technology,0,6,0,0,1,Mobile App
+22,Male,Information Technology,2,8,0,0,1,Database Management
+22,Male,Information Technology,1,8,0,0,1,Cloud Computing
+21,Female,Computer Science,1,8,1,1,1,Web Development
+22,Male,Computer Science,1,7,0,0,1,Web Development
+22,Male,Electrical,2,6,0,0,1,Control Systems
+21,Male,Civil,1,7,0,0,0,Construction Management
+21,Male,Information Technology,2,7,0,1,1,Web Development
+22,Male,Information Technology,2,7,0,1,1,Database Management
+21,Male,Electronics And Communication,1,6,1,3,0,VLSI Design
+21,Male,Mechanical,1,8,1,2,1,CAD Design
+22,Male,Information Technology,1,8,1,0,1,Web Development
+22,Male,Information Technology,2,6,0,1,1,Network Security
+21,Male,Computer Science,1,6,0,2,0,Web Development
+22,Male,Information Technology,2,7,0,0,1,Network Security
+22,Male,Information Technology,1,8,0,0,1,Network Security
+21,Male,Information Technology,2,7,0,2,1,Web Development
+21,Male,Electrical,2,8,0,0,1,Embedded Systems
+22,Male,Civil,2,8,1,1,1,Environmental Engineering
+22,Male,Information Technology,2,6,0,0,1,Mobile App
+22,Male,Information Technology,2,6,0,0,1,Network Security
+21,Female,Civil,2,7,0,0,0,Structural Design
+22,Male,Electrical,1,7,0,1,0,Embedded Systems
+22,Male,Civil,2,7,0,0,0,Structural Design
+21,Male,Information Technology,2,8,0,0,1,Web Development
+21,Male,Civil,1,6,0,0,0,Structural Design
+22,Female,Computer Science,2,6,1,0,1,Cloud Computing
+21,Female,Electronics And Communication,1,7,0,0,1,IoT
+22,Female,Information Technology,1,7,0,1,1,Cloud Computing
+21,Male,Mechanical,2,6,1,0,1,Manufacturing
+22,Male,Mechanical,2,6,1,0,1,Robotics
+21,Male,Information Technology,2,7,0,0,1,Mobile App
+22,Male,Computer Science,2,7,0,0,1,Cybersecurity
+21,Male,Electrical,1,6,0,0,0,Renewable Energy
+21,Female,Computer Science,1,6,0,0,1,Mobile App
+22,Male,Civil,2,6,1,0,1,Construction Management
+22,Male,Computer Science,1,7,0,0,1,Mobile App
+21,Male,Information Technology,1,8,0,0,1,Mobile App
+21,Male,Computer Science,2,7,0,0,1,Mobile App
+22,Female,Mechanical,1,6,1,0,0,Robotics
+22,Female,Information Technology,1,8,0,0,1,Network Security
+22,Male,Mechanical,1,6,1,0,0,CAD Design
+21,Male,Computer Science,1,8,0,1,1,Machine Learning
+21,Male,Computer Science,2,8,0,2,1,Cloud Computing
+22,Male,Information Technology,2,8,0,0,1,Database Management
+22,Male,Mechanical,1,7,1,0,0,Thermal Systems
+22,Male,Computer Science,2,7,0,0,0,Cybersecurity
+21,Male,Computer Science,2,8,0,0,1,Web Development
+22,Male,Mechanical,1,7,1,0,0,CAD Design
+21,Male,Computer Science,2,7,0,0,1,Web Development
+22,Male,Civil,1,6,0,0,0,Construction Management
+22,Male,Civil,2,8,0,3,1,Environmental Engineering
+21,Male,Electrical,2,7,0,0,1,Control Systems
+21,Female,Computer Science,1,6,1,2,0,Mobile App
+22,Male,Computer Science,1,6,0,1,0,Data Science
+22,Male,Electrical,2,7,0,0,0,Embedded Systems
+22,Female,Electronics And Communication,1,7,1,1,0,Embedded Systems
+22,Male,Civil,1,7,0,0,0,Construction Management
+21,Male,Electronics And Communication,2,6,0,0,1,VLSI Design
+21,Female,Electrical,2,8,0,0,1,Renewable Energy
+22,Male,Computer Science,2,8,0,0,1,Machine Learning
+22,Female,Electronics And Communication,2,6,0,0,1,Embedded Systems
+22,Male,Computer Science,1,7,0,0,0,Data Science
+21,Female,Electronics And Communication,1,8,1,2,1,Signal Processing
+22,Male,Electronics And Communication,1,7,0,0,0,Signal Processing
+21,Male,Mechanical,2,8,1,2,1,Thermal Systems
+21,Male,Electronics And Communication,1,8,0,0,1,IoT
+22,Female,Electrical,2,7,0,0,0,Control Systems
+21,Male,Civil,2,7,0,0,0,Construction Management
+22,Male,Information Technology,1,7,0,0,0,Database Management
+22,Female,Electrical,2,6,0,0,1,Embedded Systems
+22,Male,Electronics And Communication,2,6,0,0,1,Embedded Systems
+22,Male,Computer Science,1,6,0,0,0,Data Science
+21,Male,Computer Science,1,8,0,0,1,Cloud Computing
+22,Male,Electronics And Communication,2,6,0,0,1,IoT
+21,Male,Information Technology,1,7,0,0,0,Cloud Computing
+21,Male,Information Technology,2,7,0,2,0,Database Management
+21,Female,Computer Science,2,7,1,2,0,Mobile App
+21,Male,Computer Science,2,8,0,0,1,Machine Learning
+22,Male,Information Technology,1,7,0,0,0,Network Security
+21,Male,Civil,2,7,0,0,0,Structural Design
+21,Female,Computer Science,2,8,1,0,1,Cloud Computing
+22,Male,Mechanical,1,6,1,0,0,Automotive
+22,Male,Mechanical,1,7,1,0,0,Thermal Systems
+22,Male,Information Technology,1,6,0,0,0,Network Security
+21,Male,Electrical,1,6,0,0,0,Embedded Systems
+21,Male,Mechanical,1,6,1,0,0,Robotics
+22,Male,Electrical,1,6,0,0,0,Renewable Energy
+22,Male,Mechanical,2,8,1,0,1,Automotive
+22,Male,Information Technology,1,7,0,0,0,Web Development
+22,Male,Civil,1,6,0,0,0,Urban Planning
+21,Male,Information Technology,1,7,0,2,0,Database Management
+21,Female,Computer Science,2,8,1,0,1,Data Science
+22,Male,Electronics And Communication,2,7,0,0,0,Signal Processing
+22,Male,Electronics And Communication,2,7,0,1,0,VLSI Design
+22,Male,Mechanical,1,8,1,0,1,Thermal Systems
+22,Male,Computer Science,1,6,0,0,0,Cloud Computing
+22,Male,Electronics And Communication,1,7,0,1,0,Telecommunications
+22,Male,Electronics And Communication,1,8,0,2,1,IoT
+21,Female,Electrical,1,8,0,2,1,Renewable Energy
+22,Female,Computer Science,1,7,1,0,0,Data Science
+22,Female,Information Technology,1,9,1,0,1,Web Development
+21,Male,Mechanical,2,8,1,0,1,Automotive
+21,Male,Electronics And Communication,2,7,1,1,1,Signal Processing
+22,Male,Civil,2,7,1,0,0,Structural Design
+21,Male,Information Technology,2,9,0,0,1,Network Security
+21,Male,Civil,2,7,0,1,0,Structural Design
+22,Male,Information Technology,1,9,0,0,1,Network Security
+22,Male,Computer Science,1,7,0,2,0,Data Science
+21,Female,Computer Science,2,7,1,0,1,Data Science
+21,Male,Information Technology,1,9,0,0,1,Network Security
+21,Male,Computer Science,1,8,0,0,1,Data Science
+22,Male,Mechanical,1,9,1,0,1,Robotics
+21,Male,Computer Science,2,9,0,0,1,Web Development
+21,Female,Electronics And Communication,2,9,0,0,1,VLSI Design
+21,Male,Electronics And Communication,1,8,0,0,1,IoT
+22,Male,Computer Science,1,9,0,0,1,Data Science
+21,Male,Electrical,1,8,0,1,1,Embedded Systems
+21,Male,Electronics And Communication,2,8,0,0,1,Telecommunications
+22,Male,Information Technology,2,8,0,0,1,Mobile App
+21,Male,Mechanical,2,9,1,0,1,Manufacturing
+21,Male,Electrical,2,7,1,1,1,Embedded Systems
+21,Male,Mechanical,1,9,1,1,1,Robotics
+22,Female,Electrical,2,8,0,0,1,Control Systems
+21,Male,Civil,2,9,0,0,1,Construction Management
+22,Male,Mechanical,1,9,1,0,1,Robotics
+21,Female,Information Technology,2,9,0,0,1,Database Management
+22,Female,Electronics And Communication,1,8,1,2,1,VLSI Design
+22,Male,Electronics And Communication,1,8,0,0,1,Signal Processing
+22,Male,Electronics And Communication,2,9,0,0,1,Telecommunications
+21,Male,Information Technology,1,8,0,0,1,Network Security
+22,Female,Civil,1,8,0,0,1,Urban Planning
+21,Female,Civil,1,7,1,0,0,Structural Design
+21,Female,Electrical,1,9,0,0,1,Embedded Systems
+22,Male,Computer Science,1,9,0,0,1,Cloud Computing
+22,Female,Information Technology,2,8,0,0,1,Web Development
+22,Male,Civil,2,9,0,2,1,Urban Planning
+21,Male,Mechanical,1,7,1,0,0,Robotics
+22,Male,Information Technology,2,7,0,0,0,Network Security
+22,Male,Civil,2,8,0,0,1,Environmental Engineering
+22,Male,Computer Science,2,7,0,1,0,Cybersecurity
+21,Male,Information Technology,1,9,1,0,1,Mobile App
+22,Male,Computer Science,1,8,0,0,1,Data Science
+22,Male,Civil,1,7,0,0,0,Construction Management
+21,Female,Computer Science,2,8,1,0,1,Cybersecurity
+21,Male,Civil,2,7,1,0,1,Construction Management
+22,Male,Electronics And Communication,2,8,0,0,1,Telecommunications
+22,Male,Mechanical,1,7,1,0,0,Automotive
+21,Male,Electrical,1,7,1,0,1,Embedded Systems
+22,Male,Electrical,2,8,0,0,1,Power Systems
+22,Male,Electrical,1,8,0,2,1,Power Systems
+21,Female,Computer Science,1,8,1,0,1,Cybersecurity
+21,Male,Mechanical,1,7,1,0,0,Manufacturing
+21,Male,Information Technology,1,9,1,0,1,Cloud Computing
+22,Male,Electrical,0,9,0,0,1,Renewable Energy
+21,Female,Information Technology,0,9,0,0,1,Web Development
+21,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+21,Female,Computer Science,1,9,1,0,1,Mobile App
+22,Male,Information Technology,1,7,0,0,0,Web Development
+21,Male,Mechanical,1,8,1,1,1,Thermal Systems
+21,Male,Mechanical,0,9,1,1,1,CAD Design
+22,Male,Information Technology,0,7,0,0,0,Web Development
+21,Male,Information Technology,0,8,0,0,1,Network Security
+22,Male,Civil,0,8,0,0,1,Construction Management
+21,Male,Mechanical,0,8,1,0,1,Thermal Systems
+22,Female,Computer Science,0,9,1,2,1,Cloud Computing
+22,Female,Information Technology,1,8,1,0,1,Cloud Computing
+21,Male,Mechanical,0,7,1,0,0,CAD Design
+21,Male,Electrical,0,7,0,0,0,Control Systems
+22,Male,Mechanical,0,9,1,0,1,Manufacturing
+22,Male,Information Technology,1,7,0,0,0,Network Security
+22,Male,Mechanical,2,9,1,0,1,Automotive
+21,Male,Electrical,0,8,1,0,1,Renewable Energy
+21,Male,Information Technology,1,8,0,0,1,Database Management
+22,Male,Information Technology,1,9,0,0,1,Mobile App
+22,Female,Computer Science,0,9,1,0,1,Machine Learning
+21,Male,Civil,1,9,0,0,1,Construction Management
+22,Female,Information Technology,2,8,0,0,1,Mobile App
+21,Male,Information Technology,1,9,0,0,1,Cloud Computing
+22,Male,Civil,0,9,0,2,1,Construction Management
+21,Male,Electrical,0,8,0,0,1,Control Systems
+22,Male,Computer Science,1,9,0,0,1,Cybersecurity
+22,Male,Electrical,0,8,0,0,1,Power Systems
+21,Male,Electronics And Communication,1,8,0,0,1,IoT
+21,Male,Electrical,0,8,0,0,1,Power Systems
+21,Male,Civil,0,9,0,2,1,Environmental Engineering
+21,Male,Computer Science,1,9,0,0,1,Machine Learning
+21,Male,Civil,0,9,0,0,1,Environmental Engineering
+21,Female,Information Technology,1,8,0,0,1,Web Development
+21,Male,Civil,1,7,0,0,0,Structural Design
+21,Male,Computer Science,1,9,0,0,1,Cybersecurity
+22,Male,Electronics And Communication,0,9,0,0,1,Embedded Systems
+22,Male,Electronics And Communication,1,7,1,2,0,Embedded Systems
+21,Female,Electrical,1,8,0,0,1,Power Systems
+21,Male,Information Technology,1,8,1,0,1,Database Management
+22,Male,Information Technology,1,8,0,0,1,Cloud Computing
+22,Female,Electrical,1,7,0,1,0,Renewable Energy
+21,Male,Computer Science,1,7,0,0,0,Cloud Computing
+22,Male,Computer Science,1,9,0,0,1,Data Science
+21,Male,Computer Science,2,9,0,0,1,Cloud Computing
+22,Female,Computer Science,0,9,1,1,1,Web Development
+21,Male,Information Technology,0,7,0,0,1,Web Development
+22,Male,Mechanical,0,8,1,0,1,Manufacturing
+22,Male,Computer Science,2,8,0,0,1,Data Science
+21,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+21,Male,Mechanical,1,9,1,0,1,Thermal Systems
+22,Female,Information Technology,1,9,0,0,1,Cloud Computing
+21,Male,Mechanical,0,9,1,0,1,Manufacturing
+21,Male,Civil,0,9,0,0,1,Construction Management
+21,Male,Civil,0,7,0,0,0,Construction Management
+21,Male,Information Technology,0,9,0,0,1,Mobile App
+21,Male,Information Technology,0,9,0,0,1,Web Development
+21,Male,Mechanical,1,7,1,0,0,Automotive
+21,Male,Electronics And Communication,1,8,1,1,1,Embedded Systems
+21,Male,Mechanical,1,9,1,0,1,Robotics
+22,Male,Computer Science,1,8,1,0,1,Cloud Computing
+22,Male,Computer Science,1,8,0,1,1,Web Development
+22,Male,Information Technology,1,9,0,0,1,Database Management
+22,Male,Electronics And Communication,0,7,0,0,0,Telecommunications
+21,Female,Electronics And Communication,1,7,0,0,1,Telecommunications
+21,Male,Electronics And Communication,1,8,1,1,1,VLSI Design
+22,Male,Mechanical,0,9,1,0,1,Automotive
+22,Male,Computer Science,1,9,0,0,1,Web Development
+22,Male,Mechanical,0,7,1,0,0,CAD Design
+21,Male,Information Technology,0,7,0,0,1,Database Management
+22,Male,Mechanical,1,9,1,0,1,Manufacturing
+22,Male,Electrical,0,9,0,0,1,Embedded Systems
+21,Male,Computer Science,2,9,0,3,1,Data Science
+22,Male,Computer Science,3,9,0,0,1,Cloud Computing
+22,Male,Mechanical,0,9,1,1,1,Robotics
+21,Male,Information Technology,2,9,0,0,1,Database Management
+21,Male,Mechanical,1,7,1,0,0,Thermal Systems
+21,Male,Electrical,1,7,0,0,1,Embedded Systems
+22,Male,Information Technology,0,9,0,0,1,Mobile App
+22,Female,Mechanical,1,7,1,0,0,CAD Design
+22,Male,Civil,0,7,0,0,0,Construction Management
+21,Female,Electronics And Communication,1,8,0,0,1,Telecommunications
+22,Female,Information Technology,0,9,0,0,1,Web Development
+22,Male,Mechanical,0,9,1,0,1,Thermal Systems
+22,Male,Mechanical,0,8,1,0,1,Robotics
+21,Male,Computer Science,0,9,0,0,1,Data Science
+21,Male,Information Technology,1,7,1,0,0,Network Security
+21,Male,Electrical,2,8,0,2,1,Renewable Energy
+21,Male,Computer Science,1,9,0,0,1,Cybersecurity
+22,Male,Electrical,1,9,0,0,1,Power Systems
+22,Male,Information Technology,0,7,0,0,1,Network Security
+22,Female,Information Technology,1,9,1,0,1,Mobile App
+21,Male,Mechanical,1,8,1,0,1,Robotics
+22,Female,Computer Science,0,8,1,0,1,Data Science
+21,Male,Civil,0,7,0,0,0,Urban Planning
+21,Male,Computer Science,0,7,0,2,0,Mobile App
+22,Male,Information Technology,0,7,0,2,0,Cloud Computing
+21,Male,Computer Science,0,9,0,0,1,Web Development
+21,Male,Mechanical,0,9,1,1,1,Automotive
+22,Male,Mechanical,2,9,0,0,1,Automotive
+21,Male,Civil,2,8,0,0,1,Urban Planning
+21,Male,Electrical,0,8,0,0,1,Embedded Systems
+21,Female,Electrical,1,8,1,1,1,Renewable Energy
+22,Male,Electronics And Communication,1,7,0,0,0,Signal Processing
+22,Female,Electronics And Communication,1,8,1,1,1,IoT
+21,Male,Computer Science,1,8,0,0,1,Mobile App
+22,Male,Computer Science,0,7,0,1,0,Machine Learning
+22,Male,Computer Science,0,9,0,0,1,Mobile App
+21,Male,Electrical,0,8,0,0,1,Embedded Systems
+21,Female,Electrical,1,8,0,0,1,Embedded Systems
+21,Male,Electronics And Communication,1,7,0,0,0,Signal Processing
+22,Female,Mechanical,1,7,1,0,0,CAD Design
+22,Female,Computer Science,1,7,1,0,0,Mobile App
+21,Female,Mechanical,1,8,1,0,1,CAD Design
+21,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+21,Female,Electronics And Communication,1,9,0,0,1,VLSI Design
+21,Male,Electronics And Communication,0,9,0,0,1,IoT
+22,Male,Computer Science,1,8,0,0,1,Cybersecurity
+22,Male,Information Technology,0,7,0,0,0,Network Security
+21,Male,Mechanical,0,9,1,0,1,CAD Design
+22,Male,Mechanical,0,8,1,0,1,CAD Design
+21,Male,Information Technology,0,8,0,0,1,Database Management
+22,Male,Mechanical,0,7,1,0,0,Automotive
+22,Male,Information Technology,1,8,0,0,1,Cloud Computing
+22,Male,Information Technology,0,8,0,0,1,Web Development
+21,Female,Information Technology,0,8,0,0,1,Mobile App
+21,Male,Mechanical,0,7,0,0,0,Manufacturing
+21,Male,Electronics And Communication,0,8,0,0,1,Signal Processing
+22,Male,Computer Science,0,9,0,0,1,Mobile App
+22,Male,Civil,1,7,0,0,0,Environmental Engineering
+22,Male,Mechanical,2,7,1,0,0,CAD Design
+21,Male,Computer Science,1,9,0,0,1,Web Development
+21,Male,Information Technology,0,9,0,0,1,Web Development
+22,Male,Civil,0,7,0,2,0,Structural Design
+21,Male,Information Technology,1,8,0,0,1,Cloud Computing
+21,Male,Electronics And Communication,0,8,0,0,1,IoT
+21,Male,Electrical,0,9,0,0,1,Power Systems
+21,Male,Electronics And Communication,0,8,0,0,1,Telecommunications
+22,Male,Information Technology,1,9,1,0,1,Web Development
+22,Male,Mechanical,0,9,1,0,1,Thermal Systems
+22,Male,Computer Science,0,7,0,0,0,Data Science
+21,Male,Information Technology,1,8,1,1,1,Mobile App
+21,Male,Information Technology,0,7,0,0,0,Cloud Computing
+21,Male,Electrical,0,7,0,0,0,Embedded Systems
+22,Male,Computer Science,1,8,0,0,1,Cybersecurity
+21,Male,Electronics And Communication,0,9,0,0,1,Embedded Systems
+25,Male,Information Technology,0,7,0,0,1,Database Management
+26,Male,Electrical,0,7,1,0,0,Embedded Systems
+24,Male,Information Technology,1,6,0,1,1,Mobile App
+25,Male,Electronics And Communication,0,6,0,0,1,Signal Processing
+26,Female,Computer Science,0,7,1,0,0,Cloud Computing
+26,Male,Computer Science,1,7,0,0,1,Web Development
+26,Male,Computer Science,1,6,0,0,1,Machine Learning
+26,Male,Information Technology,2,7,0,0,1,Cloud Computing
+24,Female,Computer Science,1,7,0,0,0,Machine Learning
+26,Female,Civil,1,6,0,2,1,Structural Design
+26,Male,Computer Science,0,6,0,1,1,Cybersecurity
+26,Male,Computer Science,1,7,0,0,0,Cybersecurity
+26,Male,Information Technology,1,7,0,0,0,Web Development
+26,Male,Mechanical,0,7,0,3,0,Automotive
+26,Male,Electrical,0,6,0,0,1,Renewable Energy
+25,Male,Information Technology,1,7,0,0,0,Web Development
+26,Male,Mechanical,0,6,1,0,1,Manufacturing
+24,Male,Electronics And Communication,1,7,0,3,0,Signal Processing
+26,Male,Electronics And Communication,0,6,0,0,1,Telecommunications
+26,Male,Computer Science,0,6,0,0,1,Machine Learning
+24,Female,Computer Science,0,6,1,3,1,Data Science
+24,Male,Computer Science,0,6,0,1,1,Cloud Computing
+24,Male,Electrical,1,7,0,0,1,Power Systems
+25,Male,Mechanical,0,7,1,0,0,CAD Design
+25,Male,Computer Science,0,6,0,0,1,Web Development
+25,Male,Computer Science,0,7,0,0,0,Web Development
+26,Male,Mechanical,1,6,0,0,1,Thermal Systems
+26,Male,Computer Science,1,7,0,0,0,Data Science
+26,Male,Computer Science,0,6,0,1,1,Cybersecurity
+26,Male,Electronics And Communication,1,7,1,3,0,Signal Processing
+25,Female,Computer Science,0,7,1,0,0,Machine Learning
+25,Male,Computer Science,2,6,0,0,1,Machine Learning
+25,Male,Mechanical,0,7,1,0,0,Robotics
+26,Male,Civil,0,7,0,0,0,Construction Management
+25,Female,Computer Science,1,7,1,0,1,Cybersecurity
+26,Male,Information Technology,1,6,0,0,1,Web Development
+26,Female,Computer Science,0,7,1,0,1,Machine Learning
+26,Female,Information Technology,0,7,0,0,1,Cloud Computing
+26,Male,Computer Science,1,6,0,0,1,Mobile App
+26,Female,Information Technology,0,7,0,0,0,Mobile App
+24,Male,Information Technology,1,7,0,0,0,Network Security
+24,Male,Civil,0,6,0,0,1,Structural Design
+25,Male,Electronics And Communication,1,6,0,0,1,Telecommunications
+26,Male,Mechanical,0,7,1,0,0,Robotics
+26,Male,Mechanical,1,6,1,1,1,CAD Design
+25,Male,Computer Science,1,7,0,0,1,Data Science
+26,Male,Computer Science,1,7,0,0,1,Cloud Computing
+25,Male,Computer Science,2,7,0,3,1,Mobile App
+25,Male,Computer Science,2,7,0,3,1,Cloud Computing
+24,Male,Computer Science,0,6,0,0,1,Data Science
+26,Male,Electrical,0,6,0,0,1,Control Systems
+24,Male,Information Technology,0,7,0,0,1,Database Management
+26,Male,Computer Science,1,7,0,0,1,Cybersecurity
+26,Male,Mechanical,1,7,1,2,0,Robotics
+24,Male,Computer Science,1,7,0,0,1,Data Science
+26,Female,Information Technology,0,6,0,0,1,Database Management
+25,Female,Computer Science,0,6,1,1,1,Machine Learning
+25,Male,Mechanical,1,6,1,0,1,Automotive
+26,Male,Computer Science,1,6,0,0,1,Cloud Computing
+25,Female,Electronics And Communication,0,6,0,0,1,VLSI Design
+22,Male,Civil,1,6,0,0,0,Urban Planning
+21,Female,Electrical,0,6,0,0,0,Control Systems
+22,Male,Computer Science,1,7,0,0,0,Cloud Computing
+21,Male,Mechanical,0,6,1,0,0,Manufacturing
+21,Female,Information Technology,0,7,0,0,0,Web Development
+22,Male,Computer Science,1,7,0,0,0,Data Science
+21,Female,Information Technology,1,7,0,1,0,Database Management
+22,Male,Electrical,0,6,0,0,0,Renewable Energy
+21,Male,Information Technology,0,7,0,0,0,Network Security
+22,Male,Information Technology,0,7,0,0,0,Cloud Computing
+21,Male,Information Technology,0,7,0,2,0,Cloud Computing
+21,Female,Information Technology,1,7,0,0,0,Database Management
+22,Male,Electronics And Communication,1,7,0,0,0,Signal Processing
+22,Male,Electronics And Communication,1,6,0,1,0,Telecommunications
+21,Male,Electrical,1,7,0,0,1,Control Systems
+22,Male,Information Technology,1,6,1,0,0,Cloud Computing
+21,Male,Computer Science,1,6,0,0,0,Data Science
+21,Male,Information Technology,1,6,1,0,0,Database Management
+21,Male,Information Technology,0,7,0,1,0,Cloud Computing
+22,Male,Information Technology,0,6,0,0,0,Network Security
+21,Male,Electronics And Communication,0,7,0,0,1,VLSI Design
+22,Female,Electrical,1,6,1,1,0,Control Systems
+21,Male,Computer Science,1,7,0,0,0,Mobile App
+21,Female,Information Technology,0,7,0,0,0,Network Security
+21,Male,Electronics And Communication,1,6,0,3,0,Signal Processing
+22,Female,Information Technology,3,7,1,2,0,Mobile App
+21,Female,Computer Science,1,6,1,0,0,Web Development
+21,Male,Mechanical,0,7,1,0,0,Automotive
+21,Male,Computer Science,1,8,0,0,1,Data Science
+22,Female,Information Technology,0,8,0,0,1,Mobile App
+22,Female,Information Technology,1,8,0,0,1,Web Development
+21,Male,Electronics And Communication,1,7,0,1,0,VLSI Design
+21,Male,Information Technology,1,6,0,0,0,Network Security
+21,Female,Information Technology,1,8,0,0,1,Mobile App
+22,Male,Mechanical,0,8,1,0,1,Automotive
+22,Male,Mechanical,0,7,1,1,0,CAD Design
+22,Male,Information Technology,2,8,0,0,1,Mobile App
+22,Female,Computer Science,0,6,1,2,0,Cloud Computing
+21,Male,Information Technology,2,6,0,0,1,Mobile App
+22,Male,Electrical,0,8,0,3,1,Control Systems
+22,Male,Civil,1,7,0,0,0,Environmental Engineering
+22,Female,Civil,1,6,0,1,0,Environmental Engineering
+22,Male,Information Technology,3,8,0,0,1,Network Security
+21,Male,Electronics And Communication,1,7,0,0,0,IoT
+22,Male,Mechanical,0,6,1,0,0,Manufacturing
+22,Male,Civil,0,8,1,1,1,Environmental Engineering
+22,Male,Civil,0,7,0,2,0,Structural Design
+21,Female,Computer Science,0,8,1,2,1,Mobile App
+22,Male,Information Technology,1,6,0,0,0,Database Management
+22,Male,Mechanical,0,6,1,0,0,Automotive
+21,Male,Computer Science,2,6,0,0,1,Cybersecurity
+22,Male,Information Technology,0,8,0,2,1,Cloud Computing
+22,Male,Civil,0,6,0,0,0,Construction Management
+22,Female,Mechanical,1,8,1,0,1,Manufacturing
+21,Male,Civil,2,7,1,2,0,Structural Design
+21,Male,Mechanical,0,7,1,0,0,Robotics
+21,Male,Information Technology,0,6,0,1,0,Web Development
+21,Male,Mechanical,0,6,1,1,0,Robotics
+22,Male,Information Technology,0,7,0,2,0,Mobile App
+22,Male,Electronics And Communication,1,8,0,0,1,IoT
+21,Male,Information Technology,2,8,0,0,1,Cloud Computing
+22,Male,Electronics And Communication,1,7,0,0,0,Signal Processing
+22,Male,Computer Science,1,8,0,0,1,Web Development
+22,Male,Computer Science,1,7,0,0,0,Mobile App
+21,Male,Electronics And Communication,0,8,0,2,1,VLSI Design
+22,Male,Mechanical,0,8,1,0,1,Automotive
+21,Male,Computer Science,0,7,0,2,0,Data Science
+22,Male,Electronics And Communication,0,7,0,0,0,Signal Processing
+22,Female,Electronics And Communication,3,6,0,0,1,VLSI Design
+21,Male,Electrical,0,8,0,0,1,Control Systems
+21,Female,Electronics And Communication,2,7,0,0,1,Embedded Systems
+21,Male,Electrical,0,7,0,0,0,Renewable Energy
+21,Male,Electrical,0,6,0,0,0,Embedded Systems
+22,Male,Computer Science,2,7,0,0,0,Web Development
+22,Male,Information Technology,1,8,1,0,1,Mobile App
+21,Male,Electronics And Communication,0,7,0,0,0,VLSI Design
+22,Male,Computer Science,0,6,0,0,0,Data Science
+21,Male,Civil,2,8,0,0,1,Construction Management
+21,Male,Information Technology,1,6,0,0,0,Web Development
+21,Female,Information Technology,0,6,0,0,0,Mobile App
+21,Male,Information Technology,0,7,0,3,0,Cloud Computing
+22,Male,Information Technology,1,6,0,0,0,Web Development
+22,Female,Computer Science,1,6,1,0,0,Machine Learning
+21,Male,Electrical,1,7,0,0,1,Control Systems
+28,Female,Computer Science,3,8,1,0,1,Mobile App
+21,Male,Computer Science,0,7,0,1,0,Web Development
+22,Male,Information Technology,0,7,0,1,0,Cloud Computing
+21,Female,Computer Science,0,6,1,0,0,Web Development
+22,Female,Electronics And Communication,0,8,0,0,1,Telecommunications
+22,Male,Computer Science,1,6,0,0,0,Machine Learning
+21,Male,Electrical,0,8,0,0,1,Control Systems
+21,Male,Information Technology,2,8,0,0,1,Database Management
+22,Male,Computer Science,0,8,0,2,1,Mobile App
+22,Female,Electrical,1,8,0,0,1,Power Systems
+22,Female,Computer Science,0,6,1,0,0,Cybersecurity
+21,Male,Computer Science,1,6,0,0,0,Cloud Computing
+22,Male,Electronics And Communication,0,6,0,0,0,Telecommunications
+21,Male,Electronics And Communication,1,6,0,0,0,IoT
+21,Male,Computer Science,0,7,0,0,0,Cybersecurity
+22,Male,Mechanical,0,6,1,0,0,CAD Design
+22,Male,Computer Science,1,8,0,0,1,Mobile App
+21,Male,Civil,0,8,1,0,1,Environmental Engineering
+22,Male,Computer Science,1,8,0,0,1,Machine Learning
+22,Male,Information Technology,0,7,0,0,0,Cloud Computing
+22,Male,Mechanical,1,7,1,2,0,Robotics
+21,Male,Information Technology,1,6,0,0,0,Database Management
+22,Male,Information Technology,2,8,0,0,1,Mobile App
+21,Male,Information Technology,1,8,0,0,1,Cloud Computing
+21,Male,Electrical,0,6,0,0,0,Renewable Energy
+22,Male,Information Technology,1,7,0,0,0,Web Development
+21,Male,Information Technology,0,7,0,0,0,Web Development
+21,Male,Electrical,0,8,0,0,1,Renewable Energy
+21,Male,Mechanical,0,7,1,0,0,Manufacturing
+21,Male,Electronics And Communication,0,6,0,0,0,VLSI Design
+22,Female,Information Technology,0,7,0,0,0,Network Security
+22,Male,Mechanical,1,8,1,0,1,Robotics
+22,Male,Computer Science,3,6,0,0,1,Cybersecurity
+21,Male,Electronics And Communication,1,6,0,0,0,Signal Processing
+22,Male,Electronics And Communication,0,7,0,0,0,Telecommunications
+21,Male,Computer Science,2,7,0,0,1,Cybersecurity
+22,Male,Electrical,0,6,0,0,0,Control Systems
+21,Male,Computer Science,0,6,0,0,0,Cloud Computing
+22,Male,Electronics And Communication,1,6,0,0,0,IoT
+22,Male,Information Technology,1,8,0,0,1,Network Security
+22,Female,Civil,1,8,0,2,1,Urban Planning
+22,Male,Computer Science,3,6,0,2,0,Web Development
+21,Male,Information Technology,0,6,0,0,0,Web Development
+22,Male,Civil,0,8,0,0,1,Urban Planning
+22,Male,Electronics And Communication,1,6,0,0,0,IoT
+22,Female,Civil,1,6,0,0,0,Urban Planning
+21,Male,Information Technology,0,8,0,0,1,Network Security
+21,Male,Computer Science,1,7,0,0,0,Cloud Computing
+22,Male,Information Technology,1,8,1,0,1,Web Development
+21,Male,Computer Science,0,7,0,0,0,Data Science
+21,Male,Electrical,0,8,0,0,1,Embedded Systems
+21,Male,Information Technology,0,7,0,0,0,Network Security
+21,Male,Electrical,2,8,0,2,1,Power Systems
+22,Female,Computer Science,1,6,1,0,0,Data Science
+21,Female,Computer Science,1,7,1,0,0,Machine Learning
+22,Male,Information Technology,1,8,0,0,1,Cloud Computing
+24,Male,Computer Science,1,8,0,0,1,Cybersecurity
+24,Male,Computer Science,1,6,1,1,1,Mobile App
+22,Male,Information Technology,1,6,0,0,1,Database Management
+24,Male,Computer Science,1,7,0,0,1,Cybersecurity
+24,Male,Computer Science,1,7,0,0,1,Data Science
+24,Male,Computer Science,1,7,0,0,1,Cloud Computing
+24,Female,Information Technology,1,6,0,0,1,Mobile App
+24,Male,Computer Science,0,8,0,0,1,Machine Learning
+20,Female,Electrical,1,7,0,1,0,Embedded Systems
+21,Male,Computer Science,1,7,0,0,1,Cybersecurity
+23,Male,Electronics And Communication,0,7,0,0,0,Signal Processing
+22,Female,Computer Science,1,8,1,0,1,Data Science
+23,Male,Computer Science,1,7,0,0,1,Mobile App
+23,Male,Electrical,2,7,0,0,0,Embedded Systems
+22,Female,Computer Science,2,7,1,1,1,Web Development
+24,Male,Computer Science,1,6,0,0,1,Machine Learning
+22,Male,Information Technology,2,7,0,0,0,Mobile App
+24,Male,Computer Science,0,6,0,0,1,Cybersecurity
+22,Male,Information Technology,0,6,0,0,0,Network Security
+23,Male,Mechanical,0,7,0,0,0,Manufacturing
+22,Male,Electrical,1,7,0,0,0,Embedded Systems
+23,Male,Electronics And Communication,1,6,0,1,1,Embedded Systems
+23,Male,Electrical,0,8,0,1,1,Power Systems
+20,Male,Electrical,1,8,0,0,1,Power Systems
+24,Male,Mechanical,0,7,1,0,0,Automotive
+24,Male,Computer Science,2,6,0,0,1,Web Development
+20,Male,Computer Science,1,6,0,0,0,Mobile App
+24,Male,Mechanical,0,6,1,0,1,CAD Design
+22,Female,Electrical,1,7,0,0,0,Renewable Energy
+20,Male,Civil,1,6,0,0,0,Environmental Engineering
+23,Male,Electronics And Communication,1,6,0,1,1,Embedded Systems
+23,Male,Mechanical,0,6,1,0,0,CAD Design
+22,Male,Computer Science,1,6,0,0,0,Data Science
+22,Male,Mechanical,1,7,1,0,0,Manufacturing
+23,Male,Computer Science,0,7,0,0,0,Machine Learning
+22,Male,Computer Science,1,8,0,0,1,Cybersecurity
+20,Male,Computer Science,0,8,0,1,1,Cloud Computing
+20,Female,Computer Science,1,7,1,0,1,Data Science
+21,Male,Electrical,0,7,0,0,1,Renewable Energy
+23,Male,Computer Science,1,7,0,0,0,Cybersecurity
+21,Female,Information Technology,1,8,0,0,1,Cloud Computing
+21,Male,Mechanical,0,6,1,0,0,Manufacturing
+20,Male,Civil,0,8,0,0,1,Environmental Engineering
+23,Female,Computer Science,0,7,1,1,0,Data Science
+21,Male,Electronics And Communication,0,8,0,1,1,IoT
+24,Male,Electronics And Communication,1,7,0,0,0,IoT
+21,Male,Electronics And Communication,1,6,0,0,0,Telecommunications
+21,Male,Electrical,0,8,0,0,1,Control Systems
+22,Male,Computer Science,0,6,0,1,0,Cybersecurity
+20,Male,Computer Science,2,7,0,0,0,Cybersecurity
+21,Male,Computer Science,0,7,0,0,1,Mobile App
+20,Male,Information Technology,0,6,0,0,0,Web Development
+23,Male,Information Technology,0,8,0,0,1,Cloud Computing
+22,Male,Computer Science,0,7,0,0,0,Data Science
+21,Male,Information Technology,0,8,0,0,1,Network Security
+21,Male,Mechanical,0,6,1,0,1,Robotics
+24,Male,Information Technology,0,8,0,0,1,Cloud Computing
+23,Male,Electronics And Communication,1,6,0,0,0,Embedded Systems
+22,Male,Computer Science,0,7,0,0,1,Web Development
+20,Male,Mechanical,0,6,1,1,0,Robotics
+24,Male,Mechanical,0,7,1,0,1,Automotive
+21,Male,Information Technology,0,8,0,2,1,Mobile App
+23,Male,Computer Science,2,7,0,1,1,Web Development
+23,Male,Mechanical,1,7,1,0,1,Automotive
+23,Male,Civil,0,8,0,0,1,Construction Management
+22,Male,Electronics And Communication,1,7,0,0,0,VLSI Design
+24,Male,Mechanical,1,8,1,0,1,CAD Design
+21,Female,Computer Science,0,8,1,1,1,Web Development
+22,Male,Computer Science,0,6,0,1,0,Web Development
+22,Male,Electronics And Communication,0,6,0,0,1,VLSI Design
+23,Male,Electrical,0,6,0,0,0,Renewable Energy
+20,Male,Computer Science,1,7,0,0,1,Data Science
+22,Male,Computer Science,1,8,0,0,1,Cybersecurity
+20,Male,Electronics And Communication,0,8,0,0,1,Signal Processing
+23,Male,Computer Science,1,7,0,0,0,Data Science
+21,Male,Information Technology,1,7,0,0,1,Mobile App
+24,Male,Civil,0,8,0,0,1,Urban Planning
+21,Male,Information Technology,0,8,0,0,1,Database Management
+21,Male,Electrical,2,6,1,2,1,Embedded Systems
+20,Female,Information Technology,0,6,0,0,0,Database Management
+23,Male,Computer Science,1,6,0,0,0,Cybersecurity
+20,Male,Civil,2,5,0,0,0,Environmental Engineering
+21,Male,Mechanical,1,5,1,0,0,Automotive
+23,Female,Information Technology,1,6,1,0,0,Network Security
+24,Female,Electronics And Communication,0,5,0,0,0,Signal Processing
+22,Male,Civil,1,6,0,0,0,Environmental Engineering
+24,Male,Computer Science,1,5,0,0,0,Web Development
+23,Female,Computer Science,0,5,1,1,0,Mobile App
+23,Male,Information Technology,0,5,0,2,0,Mobile App
+23,Male,Information Technology,0,5,0,0,0,Cloud Computing
+22,Male,Civil,2,6,0,0,0,Urban Planning
+24,Male,Information Technology,0,6,0,0,1,Mobile App
+22,Male,Civil,0,6,0,0,1,Construction Management
+24,Male,Computer Science,1,6,0,0,1,Cybersecurity
+20,Male,Computer Science,1,5,0,0,0,Cybersecurity
+20,Male,Computer Science,2,5,0,0,0,Machine Learning
+24,Male,Mechanical,0,5,0,1,0,Manufacturing
+24,Male,Civil,0,5,0,0,0,Construction Management
+21,Male,Information Technology,0,5,0,0,0,Web Development
+23,Male,Electrical,1,6,0,1,0,Renewable Energy
+21,Female,Computer Science,0,7,1,0,1,Cloud Computing
+23,Female,Computer Science,1,7,1,0,1,Machine Learning
+20,Male,Civil,1,6,1,0,1,Construction Management
+24,Female,Information Technology,1,7,0,0,0,Database Management
+24,Female,Mechanical,1,7,0,0,1,Robotics
+20,Male,Civil,0,7,1,1,0,Urban Planning
+23,Male,Electronics And Communication,0,6,0,1,0,Signal Processing
+24,Male,Mechanical,0,8,1,0,1,Manufacturing
+20,Male,Mechanical,0,8,1,2,1,Robotics
+23,Male,Information Technology,0,7,0,2,0,Mobile App
+22,Female,Information Technology,0,8,0,0,1,Web Development
+24,Male,Electronics And Communication,0,7,0,0,0,Signal Processing
+23,Male,Information Technology,0,7,0,0,0,Web Development
+21,Male,Information Technology,0,7,0,0,1,Cloud Computing
+23,Male,Computer Science,1,8,0,0,1,Cybersecurity
+21,Female,Electronics And Communication,1,7,0,0,0,IoT
+24,Male,Information Technology,1,7,0,0,1,Network Security
+24,Female,Electronics And Communication,0,8,0,0,1,IoT
+22,Male,Information Technology,2,7,1,0,0,Cloud Computing
+21,Female,Electronics And Communication,0,7,0,0,0,Embedded Systems
+23,Male,Electronics And Communication,2,8,0,0,1,VLSI Design
+22,Male,Information Technology,0,7,0,0,1,Database Management
+24,Male,Civil,0,8,1,0,1,Structural Design
+20,Male,Mechanical,1,8,0,0,1,CAD Design
+22,Male,Computer Science,1,8,0,0,1,Cloud Computing
+21,Male,Civil,0,8,0,0,1,Structural Design
+20,Male,Information Technology,1,7,0,0,1,Mobile App
+21,Male,Civil,0,8,1,0,1,Environmental Engineering
+22,Male,Computer Science,1,8,0,3,1,Cloud Computing
+24,Male,Computer Science,1,7,0,0,0,Mobile App
+21,Male,Civil,0,7,0,0,1,Environmental Engineering
+23,Male,Information Technology,1,8,0,0,1,Web Development
+21,Male,Electrical,0,6,0,0,1,Renewable Energy
+20,Male,Mechanical,1,7,1,1,0,Manufacturing
+24,Male,Information Technology,1,8,0,0,1,Cloud Computing
+20,Female,Computer Science,2,7,1,1,0,Data Science
+23,Female,Electronics And Communication,0,6,0,0,0,Embedded Systems
+22,Male,Civil,0,6,0,0,0,Environmental Engineering
+22,Male,Computer Science,3,8,0,0,1,Data Science
+23,Male,Mechanical,1,8,1,0,1,Automotive
+23,Male,Information Technology,0,7,0,2,1,Network Security
+23,Male,Electrical,0,8,0,0,1,Embedded Systems
+20,Male,Civil,0,8,0,0,1,Structural Design
+24,Male,Mechanical,0,6,1,1,1,Manufacturing
+20,Female,Electronics And Communication,0,8,0,0,1,Telecommunications
+22,Male,Electronics And Communication,1,8,0,0,1,VLSI Design
+20,Male,Civil,2,6,0,0,1,Construction Management
+23,Male,Electrical,0,7,0,0,1,Embedded Systems
+21,Male,Civil,0,7,0,0,0,Environmental Engineering
+24,Male,Mechanical,0,6,1,0,1,Thermal Systems
+21,Male,Mechanical,0,8,1,1,1,Thermal Systems
+22,Male,Information Technology,1,7,0,0,1,Cloud Computing
+24,Male,Information Technology,0,6,0,0,1,Database Management
+20,Male,Electrical,0,7,0,0,0,Embedded Systems
+24,Male,Mechanical,1,8,1,1,1,Robotics
+22,Male,Mechanical,0,8,1,0,1,CAD Design
+23,Male,Information Technology,2,7,0,0,1,Mobile App
+21,Female,Information Technology,0,6,0,0,0,Database Management
+22,Male,Electronics And Communication,1,8,0,0,1,Signal Processing
+21,Male,Computer Science,0,6,0,1,1,Cloud Computing
+23,Female,Computer Science,1,7,1,0,0,Web Development
+21,Male,Mechanical,0,7,1,0,0,Thermal Systems
+21,Male,Electronics And Communication,0,7,0,3,0,IoT
+20,Male,Information Technology,1,8,0,0,1,Database Management
+21,Male,Information Technology,1,8,0,0,1,Cloud Computing
+22,Male,Computer Science,0,6,0,2,0,Web Development
+24,Male,Computer Science,1,8,0,0,1,Data Science
+20,Male,Electronics And Communication,0,7,0,0,0,VLSI Design
+21,Male,Information Technology,1,6,1,0,0,Network Security
+21,Male,Computer Science,0,6,0,2,0,Web Development
+21,Male,Electronics And Communication,0,8,0,1,1,Embedded Systems
+21,Female,Computer Science,1,8,1,1,1,Data Science
+21,Female,Electronics And Communication,0,8,0,0,1,IoT
+23,Female,Electronics And Communication,0,8,0,0,1,Telecommunications
+21,Male,Civil,0,6,1,1,0,Urban Planning
+24,Female,Electronics And Communication,0,8,0,0,1,Embedded Systems
+23,Female,Mechanical,1,6,1,0,0,Manufacturing
+23,Male,Electrical,0,8,0,0,1,Power Systems
+23,Male,Computer Science,1,8,0,0,1,Data Science
+22,Male,Information Technology,1,8,0,1,1,Network Security
+21,Male,Mechanical,0,6,1,0,0,Manufacturing
+24,Male,Information Technology,0,6,0,0,1,Mobile App
+24,Male,Electronics And Communication,1,6,1,1,1,Telecommunications
+22,Male,Electronics And Communication,1,8,1,2,1,Embedded Systems
+20,Male,Mechanical,0,6,1,0,0,Automotive
+20,Male,Computer Science,0,8,0,0,1,Machine Learning
+21,Male,Electrical,0,6,0,0,0,Renewable Energy
+22,Male,Information Technology,0,6,0,0,0,Database Management
+24,Female,Electronics And Communication,0,6,0,0,1,Embedded Systems
+21,Male,Information Technology,0,7,0,0,0,Cloud Computing
+24,Female,Computer Science,1,7,1,0,1,Cloud Computing
+22,Male,Information Technology,0,6,0,0,0,Cloud Computing
+24,Male,Information Technology,2,8,0,0,1,Mobile App
+22,Male,Information Technology,1,6,0,0,0,Database Management
+21,Male,Civil,0,7,1,2,0,Structural Design
+20,Male,Mechanical,0,7,1,0,0,Automotive
+22,Male,Computer Science,0,6,0,0,0,Mobile App
+21,Male,Computer Science,0,6,0,0,0,Mobile App
+22,Male,Electronics And Communication,0,7,0,0,0,Telecommunications
+23,Male,Electronics And Communication,0,6,0,0,0,IoT
+23,Female,Information Technology,1,5,0,0,0,Cloud Computing
+22,Female,Computer Science,1,5,1,0,0,Cloud Computing
+20,Female,Computer Science,0,5,1,1,0,Mobile App
+20,Male,Mechanical,0,5,1,0,0,Robotics
+24,Female,Computer Science,2,5,1,0,0,Cloud Computing
+24,Male,Electronics And Communication,0,6,0,0,1,Telecommunications
+22,Male,Information Technology,1,6,0,0,0,Cloud Computing
+23,Female,Electronics And Communication,0,5,0,0,0,Signal Processing
+22,Male,Mechanical,1,6,1,0,0,Automotive
+21,Female,Mechanical,1,5,1,0,0,Automotive
+22,Male,Mechanical,1,5,0,0,0,Manufacturing
+24,Male,Information Technology,1,6,0,3,1,Web Development
+23,Male,Mechanical,0,5,1,2,0,Thermal Systems
+23,Female,Civil,1,5,0,0,0,Structural Design
+22,Male,Electrical,0,5,0,0,0,Control Systems
+20,Male,Computer Science,1,5,0,0,0,Machine Learning
+23,Male,Computer Science,1,5,0,0,0,Cloud Computing
+23,Male,Civil,0,5,0,0,0,Environmental Engineering
+21,Female,Information Technology,0,6,0,0,0,Cloud Computing
+24,Male,Civil,0,6,0,0,1,Construction Management
+23,Male,Computer Science,0,6,0,0,1,Cybersecurity
+24,Male,Information Technology,1,6,0,0,1,Network Security
+22,Male,Information Technology,1,5,0,0,0,Mobile App
+22,Male,Electrical,1,6,1,1,0,Control Systems
+21,Male,Information Technology,0,5,0,0,0,Network Security
+21,Male,Electronics And Communication,0,6,0,0,0,Signal Processing
+20,Male,Computer Science,0,5,0,0,0,Machine Learning
+22,Male,Information Technology,0,6,0,0,0,Web Development
+23,Female,Mechanical,1,5,1,0,0,Automotive
+22,Male,Computer Science,2,6,0,0,1,Data Science
+23,Male,Civil,1,6,0,2,0,Structural Design
+22,Male,Electrical,2,6,1,0,1,Embedded Systems
+21,Male,Mechanical,0,5,1,1,0,Robotics
+21,Male,Electrical,0,6,0,0,0,Power Systems
+20,Male,Mechanical,1,5,1,0,0,Robotics
+24,Male,Information Technology,0,6,0,0,1,Cloud Computing
+23,Male,Mechanical,0,5,1,0,0,CAD Design
+21,Male,Civil,0,5,0,1,0,Structural Design
+21,Male,Computer Science,1,6,0,1,0,Web Development
+20,Male,Information Technology,0,6,0,0,0,Web Development
+21,Male,Computer Science,2,5,0,0,0,Web Development
+23,Male,Computer Science,3,6,0,0,1,Web Development
+21,Male,Electronics And Communication,1,5,0,0,0,Signal Processing
+22,Male,Electrical,1,6,0,2,0,Control Systems
+20,Male,Civil,0,6,0,1,0,Environmental Engineering
+24,Male,Information Technology,0,6,0,0,1,Cloud Computing
+24,Male,Electronics And Communication,1,6,0,1,1,IoT
+22,Male,Mechanical,0,6,1,0,0,Robotics
+22,Male,Information Technology,0,6,0,0,0,Mobile App
+23,Male,Civil,1,6,0,1,0,Construction Management
+22,Male,Computer Science,0,6,0,0,0,Data Science
+24,Male,Mechanical,0,6,1,0,1,Automotive
+20,Male,Mechanical,0,6,1,1,0,Manufacturing
+24,Male,Civil,1,6,0,0,1,Urban Planning
+21,Male,Mechanical,1,5,1,0,0,Robotics
+23,Male,Computer Science,0,5,0,2,0,Machine Learning
+23,Female,Computer Science,1,5,1,0,0,Cybersecurity
+23,Male,Computer Science,1,6,0,0,0,Web Development
+21,Male,Computer Science,1,6,0,0,0,Web Development
+22,Male,Civil,0,5,1,0,0,Environmental Engineering
+21,Male,Electronics And Communication,0,6,0,0,0,Telecommunications
+22,Male,Electrical,1,6,1,2,0,Renewable Energy
+22,Male,Information Technology,0,5,0,0,0,Cloud Computing
+23,Male,Civil,1,6,0,0,0,Environmental Engineering
+23,Male,Civil,0,6,0,1,0,Environmental Engineering
+21,Male,Electrical,0,6,0,1,0,Power Systems
+21,Male,Computer Science,0,6,0,1,0,Cloud Computing
+23,Female,Computer Science,1,8,1,0,1,Cloud Computing
+20,Male,Computer Science,3,7,0,1,0,Web Development
+21,Male,Electronics And Communication,2,7,0,0,1,VLSI Design
+21,Female,Computer Science,0,7,1,0,0,Web Development
+23,Male,Computer Science,1,7,0,0,0,Cloud Computing
+20,Male,Computer Science,1,6,0,0,0,Machine Learning
+21,Male,Information Technology,1,6,0,0,0,Database Management
+20,Male,Information Technology,0,8,0,0,1,Web Development
+22,Female,Information Technology,1,6,0,0,0,Cloud Computing
+21,Female,Information Technology,1,6,0,0,0,Network Security
+24,Male,Information Technology,0,7,0,0,0,Cloud Computing
+20,Male,Computer Science,1,8,0,0,1,Mobile App
+23,Male,Electrical,1,8,0,0,1,Renewable Energy
+22,Female,Electronics And Communication,1,7,1,0,0,Embedded Systems
+20,Male,Information Technology,1,6,0,0,0,Database Management
+20,Male,Civil,0,7,0,0,0,Environmental Engineering
+24,Male,Computer Science,2,6,0,0,1,Machine Learning
+22,Male,Civil,0,8,1,0,1,Urban Planning
+20,Female,Information Technology,1,6,0,0,0,Database Management
+21,Male,Civil,0,8,1,0,1,Environmental Engineering
+22,Male,Mechanical,0,8,0,0,1,Thermal Systems
+22,Male,Information Technology,1,8,1,0,1,Database Management
+22,Female,Electronics And Communication,0,8,0,0,1,Signal Processing
+24,Male,Civil,1,7,1,0,0,Structural Design
+22,Male,Information Technology,1,6,0,0,0,Cloud Computing
+23,Male,Information Technology,0,7,0,0,0,Mobile App
+23,Male,Electronics And Communication,1,6,0,1,0,Embedded Systems
+22,Female,Information Technology,1,6,0,0,0,Web Development
+23,Male,Mechanical,1,6,1,0,0,CAD Design
+24,Male,Information Technology,0,6,0,0,1,Web Development
+24,Male,Information Technology,0,8,0,0,1,Mobile App
+22,Male,Computer Science,0,6,0,1,0,Mobile App
+24,Male,Computer Science,1,6,0,0,1,Machine Learning
+21,Female,Computer Science,0,7,1,0,0,Web Development
+24,Male,Computer Science,0,7,0,0,1,Data Science
+21,Male,Mechanical,0,8,0,0,1,Manufacturing
+24,Male,Civil,0,6,1,0,1,Construction Management
+24,Male,Information Technology,1,6,0,0,1,Web Development
+21,Male,Electrical,1,6,0,0,0,Power Systems
+24,Male,Electronics And Communication,1,8,0,1,1,IoT
+20,Male,Computer Science,0,6,0,0,0,Mobile App
+20,Female,Mechanical,1,6,1,0,0,Robotics
+24,Male,Computer Science,0,6,0,0,1,Mobile App
+21,Male,Computer Science,2,8,0,0,1,Cloud Computing
+22,Male,Computer Science,1,8,0,0,1,Data Science
+23,Male,Electronics And Communication,0,7,0,0,0,Embedded Systems
+21,Female,Information Technology,0,8,0,0,1,Database Management
+23,Male,Computer Science,1,6,0,0,0,Mobile App
+23,Male,Civil,0,8,0,0,1,Construction Management
+22,Male,Electronics And Communication,0,7,0,0,0,Telecommunications
+24,Male,Electronics And Communication,1,7,1,2,0,Telecommunications
+22,Male,Information Technology,0,6,0,0,0,Network Security
+24,Male,Civil,0,7,1,2,0,Construction Management
+21,Male,Mechanical,0,8,1,1,1,Thermal Systems
+22,Female,Electronics And Communication,1,6,1,1,0,Signal Processing
+22,Male,Civil,0,7,0,0,0,Urban Planning
+22,Male,Information Technology,1,6,1,0,0,Web Development
+24,Female,Electronics And Communication,1,7,1,2,1,Signal Processing
+24,Male,Computer Science,0,6,0,1,1,Web Development
+23,Female,Mechanical,1,7,1,0,0,CAD Design
+22,Male,Electronics And Communication,1,8,0,0,1,VLSI Design
+20,Female,Mechanical,1,8,1,0,1,Manufacturing
+21,Male,Civil,0,7,0,0,0,Construction Management
+20,Male,Mechanical,1,7,1,0,0,CAD Design
+22,Male,Computer Science,0,7,0,0,0,Mobile App
+21,Male,Computer Science,2,6,0,0,1,Cybersecurity
+23,Male,Computer Science,1,8,0,0,1,Data Science
+20,Male,Electronics And Communication,1,8,1,2,1,Embedded Systems
+22,Female,Computer Science,1,6,1,0,0,Cloud Computing
+20,Male,Mechanical,0,8,1,0,1,Manufacturing
+21,Male,Electronics And Communication,0,7,0,0,0,VLSI Design
+22,Male,Electronics And Communication,0,8,0,0,1,IoT
+21,Male,Mechanical,0,7,1,0,0,Automotive
+23,Male,Electronics And Communication,0,6,0,0,0,VLSI Design
+21,Male,Electrical,0,7,0,0,0,Embedded Systems
+21,Male,Information Technology,1,6,1,0,0,Web Development
+20,Male,Mechanical,0,6,1,2,0,Manufacturing
+21,Male,Computer Science,1,6,0,0,0,Web Development
+24,Male,Mechanical,0,8,1,1,1,Robotics
+21,Male,Electrical,0,6,0,0,0,Power Systems
+22,Male,Civil,0,7,0,0,0,Structural Design
+24,Female,Information Technology,1,7,0,0,0,Cloud Computing
+22,Male,Computer Science,1,6,0,0,0,Cybersecurity
+21,Male,Information Technology,2,8,0,0,1,Network Security
+23,Male,Computer Science,2,8,0,0,1,Machine Learning
+24,Male,Information Technology,2,8,0,0,1,Database Management
+22,Male,Mechanical,0,8,1,0,1,CAD Design
+21,Male,Computer Science,1,8,0,0,1,Cybersecurity
+21,Female,Computer Science,0,7,1,1,0,Data Science
+23,Male,Computer Science,0,6,0,0,0,Cloud Computing
+20,Male,Information Technology,0,7,0,2,0,Cloud Computing
+23,Male,Computer Science,0,6,0,0,0,Mobile App
+23,Male,Electrical,1,7,0,0,1,Embedded Systems
+21,Female,Information Technology,1,6,0,0,0,Cloud Computing
+21,Male,Information Technology,2,7,0,0,1,Cloud Computing
+22,Male,Mechanical,1,7,1,1,0,Manufacturing
+24,Male,Mechanical,1,7,1,0,0,Thermal Systems
+21,Male,Information Technology,1,7,1,0,0,Mobile App
+21,Male,Civil,0,7,1,0,0,Urban Planning
+21,Female,Electronics And Communication,1,7,1,0,0,VLSI Design
+20,Male,Computer Science,0,7,0,0,0,Data Science
+24,Male,Computer Science,1,7,0,0,0,Cloud Computing
+20,Male,Information Technology,0,6,0,0,0,Database Management
+20,Female,Electrical,1,7,0,1,1,Power Systems
+20,Male,Information Technology,0,7,0,0,0,Cloud Computing
+24,Male,Electrical,1,7,0,0,1,Power Systems
+22,Male,Electronics And Communication,1,8,0,3,1,VLSI Design
+23,Female,Information Technology,0,7,0,0,0,Database Management
+20,Male,Electronics And Communication,2,7,0,0,1,Telecommunications
+22,Male,Computer Science,0,6,0,0,0,Cybersecurity
+21,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+21,Male,Computer Science,0,6,0,0,0,Web Development
+22,Male,Information Technology,0,8,0,1,1,Cloud Computing
+22,Male,Computer Science,0,6,0,0,0,Mobile App
+22,Male,Mechanical,0,6,1,0,0,Robotics
+22,Male,Information Technology,2,6,0,0,1,Web Development
+21,Male,Information Technology,1,7,0,0,0,Network Security
+22,Female,Electrical,0,8,0,0,1,Power Systems
+23,Female,Electrical,0,6,0,0,0,Renewable Energy
+24,Male,Electronics And Communication,0,6,0,0,1,IoT
+24,Male,Civil,1,6,0,0,1,Environmental Engineering
+21,Female,Electrical,1,8,0,1,1,Control Systems
+22,Female,Mechanical,1,6,1,0,0,Thermal Systems
+20,Male,Information Technology,2,8,0,0,1,Mobile App
+23,Male,Information Technology,0,8,0,0,1,Mobile App
+21,Female,Computer Science,1,6,1,0,0,Machine Learning
+21,Male,Computer Science,0,6,0,0,0,Web Development
+21,Male,Information Technology,1,8,0,0,1,Mobile App
+23,Male,Mechanical,1,8,1,0,1,Automotive
+22,Male,Electronics And Communication,0,7,0,0,0,VLSI Design
+23,Male,Information Technology,0,7,0,0,0,Database Management
+23,Male,Information Technology,2,6,0,0,1,Mobile App
+20,Male,Mechanical,0,8,1,0,1,CAD Design
+20,Male,Information Technology,0,8,0,0,1,Cloud Computing
+22,Male,Computer Science,2,8,0,2,1,Web Development
+22,Male,Information Technology,1,7,0,0,1,Network Security
+21,Male,Information Technology,0,7,0,0,1,Network Security
+20,Male,Computer Science,1,8,0,0,1,Cybersecurity
+20,Male,Electrical,2,7,1,0,1,Embedded Systems
+21,Male,Information Technology,0,7,0,0,0,Mobile App
+19,Female,Information Technology,1,8,0,1,1,Mobile App
+19,Male,Electrical,1,8,0,0,1,Embedded Systems
+21,Male,Computer Science,1,7,0,0,1,Data Science
+19,Male,Computer Science,0,7,0,0,1,Web Development
+20,Female,Computer Science,0,8,1,0,1,Cybersecurity
+19,Male,Electrical,0,8,0,0,1,Embedded Systems
+21,Female,Civil,1,8,0,1,1,Structural Design
+21,Female,Computer Science,1,8,1,0,1,Mobile App
+22,Male,Information Technology,0,7,0,0,0,Cloud Computing
+20,Male,Electronics And Communication,0,8,0,0,1,IoT
+22,Male,Electronics And Communication,1,7,0,0,0,Embedded Systems
+21,Male,Computer Science,0,8,0,0,1,Machine Learning
+22,Male,Computer Science,0,7,0,0,0,Machine Learning
+21,Male,Computer Science,1,8,0,0,1,Cybersecurity
+20,Male,Information Technology,1,8,0,0,1,Database Management
+22,Female,Mechanical,1,8,1,0,1,Automotive
+22,Female,Computer Science,0,8,1,0,1,Mobile App
+21,Male,Electrical,0,8,0,0,1,Control Systems
+22,Male,Mechanical,0,8,1,0,1,Automotive
+22,Female,Computer Science,1,7,1,0,1,Data Science
+19,Male,Computer Science,1,7,0,3,1,Data Science
+22,Male,Computer Science,0,8,0,1,1,Mobile App
+22,Male,Computer Science,3,7,0,0,0,Cybersecurity
+21,Male,Information Technology,0,7,0,0,0,Database Management
+22,Male,Information Technology,0,7,0,0,0,Mobile App
+21,Male,Civil,1,7,0,0,0,Structural Design
+20,Female,Information Technology,1,8,1,0,1,Cloud Computing
+19,Male,Information Technology,0,8,0,0,1,Cloud Computing
+21,Male,Electronics And Communication,1,8,0,3,1,Signal Processing
+21,Male,Information Technology,2,7,0,3,0,Network Security
+19,Male,Computer Science,1,8,0,0,1,Data Science
+22,Female,Computer Science,1,8,1,1,1,Web Development
+21,Male,Computer Science,1,8,0,0,1,Cloud Computing
+19,Male,Electrical,1,8,0,1,1,Control Systems
+19,Female,Electronics And Communication,1,7,0,0,1,IoT
+21,Male,Electrical,0,8,0,0,1,Renewable Energy
+20,Male,Computer Science,0,7,0,1,0,Data Science
+20,Male,Computer Science,1,7,0,0,0,Cloud Computing
+22,Male,Mechanical,3,7,1,1,0,Thermal Systems
+22,Male,Electronics And Communication,0,7,0,0,0,Telecommunications
+20,Female,Information Technology,1,7,1,0,1,Mobile App
+20,Male,Information Technology,0,7,0,1,1,Network Security
+22,Female,Computer Science,3,8,1,0,1,Data Science
+22,Male,Electronics And Communication,2,8,0,0,1,Signal Processing
+19,Female,Civil,1,8,0,0,1,Construction Management
+22,Male,Electronics And Communication,1,8,1,2,1,Signal Processing
+22,Male,Information Technology,0,8,0,1,1,Database Management
+20,Male,Mechanical,1,8,1,0,1,Manufacturing
+20,Male,Information Technology,1,8,1,1,1,Network Security
+20,Male,Mechanical,1,7,1,2,0,Thermal Systems
+22,Female,Computer Science,1,7,1,0,0,Web Development
+20,Male,Computer Science,1,8,0,0,1,Cybersecurity
+19,Male,Civil,1,7,0,0,0,Urban Planning
+21,Male,Civil,0,7,0,0,0,Construction Management
+19,Male,Computer Science,2,7,0,0,1,Cloud Computing
+22,Male,Electrical,0,7,0,0,0,Control Systems
+19,Male,Electronics And Communication,0,8,0,0,1,Signal Processing
+19,Male,Civil,0,7,1,0,0,Construction Management
+21,Male,Information Technology,0,8,0,0,1,Cloud Computing
+19,Male,Civil,0,8,0,1,1,Urban Planning
+22,Male,Computer Science,1,8,0,0,1,Data Science
+20,Male,Computer Science,1,7,0,0,0,Machine Learning
+22,Male,Computer Science,0,7,0,0,0,Cloud Computing
+21,Male,Information Technology,1,8,1,0,1,Network Security
+20,Male,Information Technology,1,8,1,0,1,Web Development
+19,Male,Mechanical,1,8,1,0,1,CAD Design
+20,Male,Civil,1,8,0,0,1,Construction Management
+21,Male,Computer Science,0,7,0,0,0,Data Science
+22,Male,Information Technology,0,8,0,0,1,Web Development
+20,Female,Computer Science,1,8,1,0,1,Machine Learning
+19,Male,Information Technology,1,7,0,0,0,Network Security
+21,Male,Computer Science,1,8,0,0,1,Machine Learning
+20,Male,Electronics And Communication,0,8,0,0,1,VLSI Design
+21,Male,Computer Science,1,8,0,0,1,Web Development
+20,Male,Mechanical,0,8,1,2,1,Manufacturing
+21,Male,Electrical,0,7,0,0,0,Embedded Systems
+20,Male,Computer Science,2,8,0,0,1,Cloud Computing
+21,Male,Computer Science,1,7,0,1,0,Web Development
+22,Male,Computer Science,0,8,0,0,1,Web Development
+19,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+19,Male,Civil,0,7,0,0,0,Environmental Engineering
+21,Male,Information Technology,0,7,0,0,0,Database Management
+21,Male,Mechanical,1,8,1,0,1,Manufacturing
+19,Male,Computer Science,0,8,0,0,1,Machine Learning
+22,Male,Computer Science,2,7,0,0,0,Web Development
+20,Male,Computer Science,1,7,0,0,0,Mobile App
+22,Male,Information Technology,1,7,1,0,0,Cloud Computing
+21,Male,Mechanical,0,8,1,0,1,CAD Design
+19,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+20,Male,Information Technology,1,7,0,0,0,Cloud Computing
+22,Male,Information Technology,1,8,0,0,1,Mobile App
+20,Male,Computer Science,0,8,0,0,1,Mobile App
+19,Male,Computer Science,1,7,0,0,0,Machine Learning
+21,Male,Electronics And Communication,0,7,0,0,1,Telecommunications
+19,Male,Electronics And Communication,0,8,0,0,1,VLSI Design
+21,Male,Electrical,1,8,0,0,1,Power Systems
+19,Male,Computer Science,0,8,0,0,1,Cybersecurity
+19,Male,Computer Science,1,8,0,0,1,Cybersecurity
+22,Male,Computer Science,0,7,0,0,0,Cybersecurity
+21,Female,Electronics And Communication,0,8,0,0,1,Telecommunications
+19,Male,Computer Science,2,8,0,0,1,Cybersecurity
+19,Male,Electronics And Communication,0,7,0,0,1,IoT
+19,Male,Electrical,0,6,0,0,0,Renewable Energy
+20,Male,Mechanical,0,8,1,0,1,Automotive
+21,Male,Electrical,1,7,1,1,1,Renewable Energy
+20,Male,Computer Science,0,8,0,2,1,Cloud Computing
+22,Male,Computer Science,0,6,0,0,0,Machine Learning
+19,Male,Computer Science,0,7,0,0,0,Mobile App
+20,Male,Electrical,0,8,0,2,1,Renewable Energy
+22,Female,Electrical,0,6,0,0,0,Embedded Systems
+22,Male,Information Technology,1,6,0,0,0,Mobile App
+21,Male,Electronics And Communication,0,6,0,2,0,VLSI Design
+20,Male,Computer Science,0,7,0,2,0,Cloud Computing
+20,Male,Information Technology,1,7,0,0,0,Cloud Computing
+21,Male,Information Technology,0,8,0,0,1,Cloud Computing
+21,Male,Computer Science,1,8,0,0,1,Data Science
+19,Male,Civil,1,7,0,2,0,Structural Design
+19,Male,Computer Science,0,8,0,0,1,Cloud Computing
+19,Male,Electrical,1,6,0,0,0,Embedded Systems
+22,Male,Electronics And Communication,0,7,0,0,0,Telecommunications
+22,Male,Electronics And Communication,0,6,0,0,0,Embedded Systems
+22,Male,Electronics And Communication,1,8,0,1,1,Signal Processing
+22,Male,Computer Science,1,7,0,0,0,Data Science
+19,Male,Mechanical,2,8,1,0,1,Robotics
+20,Male,Computer Science,0,6,0,1,0,Machine Learning
+22,Female,Mechanical,1,6,1,0,0,CAD Design
+21,Male,Information Technology,0,6,0,2,0,Web Development
+22,Male,Electronics And Communication,3,6,0,0,1,Embedded Systems
+20,Male,Computer Science,0,7,0,0,0,Cybersecurity
+20,Male,Information Technology,0,6,0,0,0,Web Development
+20,Male,Information Technology,1,8,0,0,1,Network Security
+21,Male,Civil,0,7,0,0,0,Environmental Engineering
+20,Male,Computer Science,2,7,0,0,1,Data Science
+20,Male,Electrical,1,6,0,0,0,Power Systems
+19,Male,Electrical,2,6,0,2,0,Renewable Energy
+19,Male,Civil,2,6,1,0,1,Environmental Engineering
+22,Male,Computer Science,1,8,0,0,1,Web Development
+22,Female,Electrical,0,7,1,3,0,Control Systems
+19,Male,Computer Science,0,6,0,0,0,Cloud Computing
+22,Male,Mechanical,2,7,1,0,0,Manufacturing
+20,Male,Computer Science,1,6,0,0,0,Mobile App
+21,Male,Electrical,1,7,0,0,1,Embedded Systems
+20,Male,Mechanical,0,8,1,0,1,Manufacturing
+22,Male,Computer Science,1,7,0,0,0,Machine Learning
+19,Male,Information Technology,1,8,0,0,1,Network Security
+22,Male,Information Technology,0,6,0,0,0,Mobile App
+19,Male,Electronics And Communication,2,8,0,0,1,Signal Processing
+19,Male,Mechanical,0,6,1,1,0,CAD Design
+21,Male,Information Technology,0,8,0,0,1,Cloud Computing
+21,Male,Information Technology,1,6,0,0,0,Network Security
+21,Male,Electronics And Communication,2,8,1,1,1,IoT
+19,Male,Information Technology,1,7,1,0,0,Cloud Computing
+21,Male,Computer Science,0,8,0,0,1,Data Science
+20,Male,Electrical,0,8,0,0,1,Control Systems
+20,Male,Information Technology,0,6,0,0,0,Database Management
+20,Male,Electronics And Communication,2,6,0,0,1,Embedded Systems
+21,Male,Electrical,1,8,0,0,1,Embedded Systems
+22,Male,Electrical,0,7,0,0,0,Embedded Systems
+21,Male,Information Technology,2,7,0,2,0,Database Management
+21,Male,Information Technology,2,6,0,0,1,Web Development
+20,Male,Mechanical,0,6,1,0,0,Automotive
+21,Male,Electrical,0,7,0,0,0,Control Systems
+22,Male,Information Technology,2,6,0,0,1,Mobile App
+21,Female,Computer Science,0,8,1,0,1,Web Development
+21,Male,Electronics And Communication,0,8,0,0,1,VLSI Design
+19,Male,Computer Science,2,7,0,1,0,Cybersecurity
+20,Female,Electrical,0,8,1,3,1,Renewable Energy
+19,Male,Electrical,0,8,0,0,1,Renewable Energy
+19,Male,Information Technology,3,7,0,0,1,Mobile App
+21,Female,Computer Science,0,6,1,2,0,Machine Learning
+21,Male,Computer Science,2,6,0,0,1,Data Science
+22,Male,Computer Science,2,8,0,0,1,Cloud Computing
+20,Male,Electrical,1,7,0,0,1,Embedded Systems
+19,Male,Mechanical,0,6,1,0,0,Robotics
+20,Male,Electrical,0,6,1,1,0,Control Systems
+19,Male,Civil,0,8,1,0,1,Environmental Engineering
+19,Male,Computer Science,1,6,0,0,0,Cybersecurity
+21,Male,Computer Science,0,8,0,2,1,Web Development
+22,Male,Civil,1,7,0,0,0,Structural Design
+22,Male,Information Technology,0,6,0,2,0,Mobile App
+21,Male,Civil,1,6,0,0,0,Structural Design
+21,Female,Computer Science,2,7,1,0,1,Mobile App
+20,Male,Electronics And Communication,1,7,0,0,1,Telecommunications
+19,Male,Electronics And Communication,0,6,0,0,0,VLSI Design
+20,Male,Mechanical,0,8,1,1,1,Robotics
+20,Female,Information Technology,1,8,0,0,1,Cloud Computing
+21,Male,Computer Science,0,6,0,0,0,Web Development
+20,Male,Information Technology,1,7,0,0,0,Database Management
+22,Male,Computer Science,2,7,0,0,0,Machine Learning
+21,Male,Electronics And Communication,1,8,1,3,1,IoT
+19,Male,Computer Science,1,7,0,0,0,Cloud Computing
+20,Male,Information Technology,2,7,0,0,1,Network Security
+19,Male,Information Technology,1,8,0,0,1,Web Development
+21,Male,Information Technology,1,9,0,1,1,Cloud Computing
+19,Male,Information Technology,0,6,0,2,0,Web Development
+19,Male,Computer Science,1,9,0,0,1,Web Development
+19,Male,Civil,0,7,0,0,0,Construction Management
+20,Female,Computer Science,1,6,1,1,1,Cloud Computing
+20,Male,Information Technology,0,6,0,0,0,Network Security
+19,Male,Electronics And Communication,0,8,0,0,1,Signal Processing
+19,Male,Electronics And Communication,0,7,0,0,0,IoT
+21,Male,Computer Science,0,5,0,2,0,Cybersecurity
+21,Male,Electrical,0,7,0,0,0,Renewable Energy
+19,Male,Mechanical,0,9,1,1,1,CAD Design
+19,Male,Electronics And Communication,2,8,1,1,1,IoT
+19,Male,Electronics And Communication,0,9,0,0,1,Telecommunications
+20,Male,Computer Science,3,6,0,0,1,Cloud Computing
+22,Male,Information Technology,1,6,0,0,1,Mobile App
+22,Male,Computer Science,1,9,0,0,1,Data Science
+21,Male,Computer Science,1,7,0,3,1,Mobile App
+21,Female,Information Technology,1,5,0,0,0,Database Management
+22,Male,Electrical,0,5,1,0,0,Power Systems
+19,Male,Mechanical,1,5,1,0,0,CAD Design
+22,Male,Mechanical,0,5,1,0,0,CAD Design
+21,Male,Electronics And Communication,0,9,0,0,1,Signal Processing
+19,Male,Computer Science,0,8,0,0,1,Cybersecurity
+21,Male,Electrical,1,5,0,0,0,Embedded Systems
+20,Male,Electrical,0,5,0,0,0,Embedded Systems
+21,Female,Civil,1,8,0,0,1,Construction Management
+20,Male,Computer Science,0,8,0,1,1,Web Development
+22,Male,Information Technology,2,5,0,0,0,Mobile App
+20,Male,Mechanical,0,6,1,0,0,Automotive
+19,Male,Computer Science,0,9,0,1,1,Cloud Computing
+22,Male,Civil,1,7,0,0,0,Construction Management
+22,Male,Electronics And Communication,0,5,0,0,0,IoT
+19,Male,Information Technology,0,9,0,3,1,Mobile App
+19,Male,Mechanical,0,6,0,0,1,Robotics
+22,Male,Information Technology,1,9,0,3,1,Mobile App
+21,Male,Electronics And Communication,1,7,0,1,1,VLSI Design
+19,Male,Electrical,0,5,0,0,0,Power Systems
+21,Male,Computer Science,1,8,0,0,1,Cybersecurity
+22,Male,Computer Science,1,6,0,0,1,Data Science
+19,Male,Electronics And Communication,1,8,0,2,1,Embedded Systems
+22,Male,Electronics And Communication,1,9,1,1,1,VLSI Design
+22,Male,Computer Science,0,6,0,0,1,Mobile App
+22,Female,Computer Science,0,9,1,0,1,Machine Learning
+19,Male,Information Technology,1,6,0,0,1,Database Management
+20,Male,Mechanical,1,9,1,0,1,CAD Design
+21,Male,Computer Science,0,9,0,0,1,Cloud Computing
+19,Male,Information Technology,2,8,0,0,1,Network Security
+21,Male,Electrical,1,9,0,0,1,Embedded Systems
+20,Male,Civil,0,8,1,0,1,Urban Planning
+19,Male,Computer Science,1,7,0,0,1,Data Science
+20,Male,Information Technology,0,8,0,0,1,Network Security
+20,Male,Computer Science,0,5,0,0,0,Cybersecurity
+19,Female,Electrical,3,9,0,1,1,Renewable Energy
+20,Male,Information Technology,1,7,0,0,1,Cloud Computing
+22,Male,Civil,0,9,1,0,1,Urban Planning
+20,Male,Mechanical,0,7,1,1,1,Manufacturing
+21,Male,Information Technology,0,7,0,0,0,Network Security
+20,Male,Computer Science,1,8,0,0,1,Cybersecurity
+21,Male,Information Technology,1,8,1,0,1,Database Management
+21,Male,Civil,0,6,0,0,0,Structural Design
+19,Male,Mechanical,0,7,1,0,0,CAD Design
+22,Male,Electrical,0,8,0,0,1,Control Systems
+22,Male,Computer Science,1,9,0,0,1,Mobile App
+20,Female,Civil,1,9,1,0,1,Environmental Engineering
+21,Male,Mechanical,0,6,1,0,1,Robotics
+20,Male,Computer Science,2,7,0,2,1,Web Development
+21,Male,Computer Science,0,5,0,0,0,Mobile App
+21,Female,Electronics And Communication,0,7,0,0,0,IoT
+21,Male,Information Technology,0,6,0,0,0,Database Management
+22,Male,Information Technology,1,5,1,0,0,Network Security
+19,Male,Information Technology,1,9,1,0,1,Web Development
+19,Male,Mechanical,3,7,1,0,1,Robotics
+21,Male,Electrical,0,5,1,0,0,Control Systems
+20,Female,Computer Science,0,9,1,2,1,Machine Learning
+21,Male,Computer Science,1,6,0,0,1,Cybersecurity
+22,Male,Information Technology,1,5,0,0,0,Network Security
+21,Male,Electronics And Communication,0,7,0,0,0,IoT
+21,Male,Information Technology,3,9,1,0,1,Database Management
+22,Male,Mechanical,0,5,0,0,0,Robotics
+21,Male,Computer Science,2,7,0,0,0,Machine Learning
+20,Male,Information Technology,3,9,1,0,1,Database Management
+22,Male,Mechanical,0,8,1,0,1,Automotive
+19,Male,Electronics And Communication,1,6,0,2,1,VLSI Design
+20,Male,Mechanical,1,9,1,0,1,Thermal Systems
+20,Male,Civil,2,9,1,0,1,Environmental Engineering
+21,Male,Mechanical,1,8,1,0,1,Manufacturing
+22,Male,Electronics And Communication,1,7,1,2,1,Signal Processing
+22,Female,Computer Science,1,6,1,0,0,Data Science
+20,Male,Computer Science,0,6,0,0,0,Data Science
+19,Female,Information Technology,1,8,0,0,1,Web Development
+19,Male,Information Technology,1,7,0,0,0,Network Security
+21,Male,Computer Science,1,6,0,0,0,Cloud Computing
+21,Female,Electrical,0,7,1,1,0,Power Systems
+20,Male,Computer Science,1,8,0,0,1,Web Development
+21,Male,Civil,1,6,0,0,0,Urban Planning
+20,Male,Electronics And Communication,1,6,0,0,0,Signal Processing
+19,Male,Information Technology,2,6,0,0,1,Mobile App
+21,Male,Mechanical,1,6,1,1,0,Manufacturing
+19,Male,Electrical,0,7,0,0,0,Control Systems
+19,Male,Information Technology,0,8,0,0,1,Network Security
+21,Male,Civil,0,7,1,0,0,Construction Management
+21,Female,Information Technology,1,7,0,0,1,Database Management
+19,Male,Mechanical,0,7,1,0,0,Automotive
+21,Male,Information Technology,2,7,0,0,1,Database Management
+20,Male,Electrical,0,6,0,0,0,Renewable Energy
+19,Male,Computer Science,1,6,0,0,1,Mobile App
+20,Female,Computer Science,0,7,1,1,1,Machine Learning
+19,Female,Computer Science,1,7,1,0,1,Cybersecurity
+19,Male,Electrical,0,6,0,1,0,Power Systems
+19,Male,Electronics And Communication,0,7,0,0,1,Embedded Systems
+19,Male,Electrical,0,7,0,0,0,Power Systems
+20,Male,Computer Science,0,6,0,1,1,Cloud Computing
+21,Female,Computer Science,1,8,1,0,1,Data Science
+19,Male,Mechanical,0,6,1,0,0,Thermal Systems
+19,Male,Computer Science,2,8,0,0,1,Cloud Computing
+20,Male,Computer Science,0,7,0,0,0,Data Science
+20,Male,Electrical,1,6,0,0,1,Embedded Systems
+22,Female,Computer Science,3,6,1,0,1,Cybersecurity
+21,Male,Electrical,0,7,0,0,0,Embedded Systems
+20,Male,Computer Science,0,8,0,2,1,Cybersecurity
+19,Male,Information Technology,2,8,0,0,1,Database Management
+22,Male,Electronics And Communication,1,6,0,0,0,IoT
+22,Male,Information Technology,0,7,0,0,1,Network Security
+20,Male,Mechanical,0,6,1,1,0,Thermal Systems
+20,Male,Mechanical,0,7,1,0,0,CAD Design
+21,Male,Computer Science,0,8,0,0,1,Cloud Computing
+22,Male,Civil,0,8,0,0,1,Urban Planning
+22,Male,Computer Science,1,8,0,0,1,Cloud Computing
+19,Male,Civil,1,6,0,0,0,Structural Design
+22,Male,Electrical,0,8,0,0,1,Embedded Systems
+21,Male,Electronics And Communication,0,6,0,0,0,Telecommunications
+20,Male,Electrical,0,6,0,0,0,Embedded Systems
+20,Male,Electronics And Communication,1,8,0,0,1,Embedded Systems
+22,Male,Computer Science,1,6,0,0,1,Data Science
+19,Male,Computer Science,0,8,0,0,1,Cybersecurity
+19,Male,Mechanical,0,8,1,1,1,Robotics
+20,Male,Information Technology,1,6,0,1,0,Database Management
+19,Female,Information Technology,1,6,0,0,0,Database Management
+21,Male,Electrical,0,6,0,0,0,Power Systems
+21,Female,Mechanical,1,6,0,0,0,CAD Design
+22,Male,Mechanical,0,8,0,0,1,Thermal Systems
+21,Male,Computer Science,1,8,0,0,1,Web Development
+19,Female,Electronics And Communication,1,8,0,2,1,Embedded Systems
+19,Male,Electronics And Communication,0,7,0,0,1,IoT
+21,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+21,Male,Civil,1,6,0,0,0,Construction Management
+19,Male,Mechanical,1,8,1,2,1,Robotics
+20,Male,Electronics And Communication,1,7,0,0,1,Telecommunications
+19,Male,Mechanical,0,7,1,0,0,Thermal Systems
+19,Male,Civil,0,8,1,1,1,Structural Design
+19,Male,Mechanical,0,7,0,0,0,Manufacturing
+19,Male,Information Technology,0,6,0,0,0,Cloud Computing
+19,Male,Electrical,2,7,0,0,1,Power Systems
+20,Female,Computer Science,0,7,1,0,0,Data Science
+22,Female,Civil,1,6,0,0,0,Construction Management
+19,Male,Civil,1,6,0,0,1,Construction Management
+20,Male,Computer Science,1,7,0,0,1,Cybersecurity
+22,Male,Information Technology,1,6,0,0,1,Database Management
+19,Male,Computer Science,0,7,0,1,1,Data Science
+19,Female,Electrical,0,7,0,0,0,Control Systems
+22,Male,Computer Science,1,7,0,0,0,Web Development
+21,Male,Civil,0,8,0,0,1,Urban Planning
+20,Male,Civil,1,8,0,0,1,Construction Management
+21,Male,Electronics And Communication,2,8,0,0,1,Embedded Systems
+20,Female,Computer Science,0,6,1,2,0,Data Science
+21,Male,Electrical,1,7,0,0,1,Power Systems
+22,Male,Computer Science,1,7,0,0,0,Cloud Computing
+22,Female,Information Technology,3,6,1,1,0,Mobile App
+20,Male,Computer Science,2,7,0,0,1,Cybersecurity
+20,Male,Computer Science,2,6,0,0,1,Machine Learning
+19,Male,Mechanical,1,6,1,2,0,Manufacturing
+22,Male,Information Technology,1,8,1,0,1,Network Security
+22,Male,Mechanical,0,8,0,0,1,Robotics
+22,Female,Electronics And Communication,1,7,1,0,0,Telecommunications
+20,Male,Electrical,0,8,0,2,1,Control Systems
+21,Male,Information Technology,1,8,1,0,1,Mobile App
+21,Male,Computer Science,0,6,0,0,0,Cybersecurity
+21,Male,Information Technology,0,6,0,0,0,Web Development
+21,Male,Information Technology,0,8,0,0,1,Cloud Computing
+20,Female,Civil,1,6,0,1,0,Urban Planning
+19,Male,Information Technology,0,7,0,0,0,Network Security
+20,Female,Information Technology,0,6,0,0,0,Mobile App
+22,Male,Mechanical,1,8,1,0,1,CAD Design
+22,Female,Electrical,0,7,0,0,0,Renewable Energy
+21,Male,Information Technology,1,7,0,0,0,Mobile App
+19,Female,Electrical,1,7,0,0,1,Embedded Systems
+19,Female,Electronics And Communication,0,6,0,0,0,VLSI Design
+19,Male,Information Technology,1,7,0,0,0,Web Development
+20,Female,Computer Science,1,8,1,0,1,Cybersecurity
+20,Male,Information Technology,1,7,0,0,0,Web Development
+22,Female,Electronics And Communication,1,7,0,0,0,Telecommunications
+20,Male,Civil,0,7,0,0,0,Environmental Engineering
+20,Male,Electronics And Communication,1,6,0,0,0,VLSI Design
+21,Female,Information Technology,0,6,0,0,0,Database Management
+21,Male,Information Technology,0,7,0,0,0,Database Management
+20,Female,Electronics And Communication,0,7,0,0,1,IoT
+19,Male,Electrical,2,7,0,1,1,Control Systems
+21,Male,Information Technology,0,8,0,0,1,Cloud Computing
+21,Male,Computer Science,1,6,0,0,0,Mobile App
+20,Male,Civil,0,8,0,0,1,Construction Management
+22,Male,Civil,1,7,0,0,0,Urban Planning
+20,Male,Information Technology,0,6,0,0,0,Network Security
+19,Male,Electrical,0,6,0,0,0,Renewable Energy
+22,Male,Civil,0,7,0,0,0,Urban Planning
+21,Male,Civil,0,7,0,0,0,Construction Management
+22,Male,Information Technology,0,7,0,0,0,Web Development
+19,Male,Electrical,0,8,0,0,1,Control Systems
+21,Male,Information Technology,1,8,0,0,1,Network Security
+21,Male,Electronics And Communication,1,7,0,3,1,IoT
+22,Female,Computer Science,2,8,1,0,1,Machine Learning
+22,Male,Computer Science,0,8,0,0,1,Data Science
+19,Male,Electrical,1,7,0,1,1,Embedded Systems
+20,Male,Computer Science,1,7,0,0,0,Web Development
+20,Male,Electronics And Communication,1,6,0,0,0,Telecommunications
+19,Male,Civil,1,8,0,0,1,Urban Planning
+22,Male,Computer Science,0,6,0,0,0,Web Development
+20,Male,Electronics And Communication,0,6,0,0,0,Telecommunications
+22,Male,Mechanical,0,6,1,0,0,Automotive
+21,Male,Information Technology,0,7,0,0,0,Network Security
+21,Female,Electronics And Communication,0,7,0,0,0,Embedded Systems
+20,Male,Electronics And Communication,0,8,0,1,1,Embedded Systems
+20,Female,Electronics And Communication,2,8,0,0,1,IoT
+22,Female,Computer Science,1,7,1,0,0,Web Development
+22,Female,Mechanical,1,6,1,0,0,Thermal Systems
+19,Male,Electronics And Communication,0,7,0,0,0,Embedded Systems
+22,Female,Electronics And Communication,0,8,0,0,1,Telecommunications
+19,Male,Electrical,1,6,0,0,0,Renewable Energy
+20,Male,Computer Science,2,7,0,0,1,Mobile App
+19,Female,Computer Science,1,7,1,0,0,Machine Learning
+21,Male,Mechanical,0,8,1,0,1,CAD Design
+22,Male,Computer Science,1,6,0,0,0,Cybersecurity
+19,Male,Mechanical,1,6,1,0,0,Thermal Systems
+20,Male,Electrical,0,6,0,0,0,Renewable Energy
+29,Female,Mechanical,1,8,1,0,1,Thermal Systems
+20,Male,Information Technology,1,6,0,0,0,Database Management
+20,Male,Information Technology,0,6,0,0,0,Mobile App
+20,Male,Information Technology,1,6,0,0,0,Network Security
+20,Male,Electronics And Communication,0,6,0,0,0,Telecommunications
+22,Male,Civil,1,8,0,0,1,Environmental Engineering
+19,Male,Computer Science,0,6,0,0,0,Cybersecurity
+20,Male,Electronics And Communication,1,6,0,0,0,VLSI Design
+19,Male,Information Technology,0,7,0,0,0,Database Management
+20,Male,Electrical,0,6,0,0,0,Embedded Systems
+19,Female,Computer Science,0,8,1,0,1,Cybersecurity
+20,Male,Information Technology,0,8,0,2,1,Database Management
+19,Male,Information Technology,2,7,0,0,1,Network Security
+22,Female,Civil,1,6,0,0,0,Structural Design
+22,Male,Civil,1,6,0,0,0,Structural Design
+19,Male,Electrical,0,8,0,0,1,Control Systems
+21,Male,Electrical,0,8,0,0,1,Control Systems
+22,Female,Information Technology,0,6,0,0,0,Mobile App
+20,Male,Electronics And Communication,1,7,0,0,0,IoT
+21,Male,Computer Science,2,7,0,0,1,Machine Learning
+19,Male,Information Technology,2,8,0,0,1,Database Management
+22,Female,Information Technology,1,7,0,0,0,Database Management
+21,Male,Electronics And Communication,0,7,0,0,1,Signal Processing
+19,Male,Information Technology,1,8,0,0,1,Database Management
+21,Male,Computer Science,1,6,0,0,0,Web Development
+21,Male,Electronics And Communication,1,8,0,3,1,Embedded Systems
+21,Male,Computer Science,0,7,0,3,0,Data Science
+20,Male,Civil,0,7,1,0,0,Structural Design
+21,Female,Information Technology,0,8,0,0,1,Web Development
+20,Male,Computer Science,0,6,0,0,0,Machine Learning
+19,Female,Electrical,1,7,0,0,1,Control Systems
+22,Male,Civil,0,8,1,0,1,Urban Planning
+19,Male,Computer Science,0,7,0,2,0,Web Development
+20,Male,Computer Science,0,8,0,0,1,Data Science
+20,Female,Mechanical,1,7,0,0,0,Thermal Systems
+22,Female,Computer Science,1,8,1,0,1,Data Science
+22,Male,Information Technology,0,6,0,0,0,Cloud Computing
+19,Male,Computer Science,1,8,0,0,1,Cloud Computing
+20,Female,Electrical,3,6,0,1,0,Control Systems
+20,Male,Civil,0,8,1,0,1,Environmental Engineering
+19,Male,Mechanical,1,7,1,0,0,CAD Design
+22,Male,Computer Science,1,6,0,0,0,Cybersecurity
+19,Male,Mechanical,1,8,1,0,1,CAD Design
+21,Male,Electrical,1,6,0,0,0,Control Systems
+21,Male,Mechanical,0,8,1,0,1,CAD Design
+20,Male,Computer Science,0,6,0,0,0,Data Science
+20,Male,Mechanical,1,6,1,0,0,CAD Design
+20,Male,Computer Science,1,8,0,0,1,Cybersecurity
+20,Male,Mechanical,2,6,1,0,1,Thermal Systems
+20,Male,Computer Science,0,7,0,1,0,Cloud Computing
+20,Male,Computer Science,0,6,0,0,0,Machine Learning
+20,Male,Computer Science,0,6,0,0,0,Web Development
+21,Male,Computer Science,1,8,0,0,1,Machine Learning
+20,Male,Electronics And Communication,1,6,1,2,0,IoT
+20,Female,Civil,1,7,0,0,0,Environmental Engineering
+19,Male,Electronics And Communication,1,7,0,0,1,VLSI Design
+19,Female,Electronics And Communication,0,8,0,0,1,Embedded Systems
+19,Male,Electronics And Communication,1,7,0,1,0,Embedded Systems
+21,Female,Information Technology,0,6,0,0,0,Mobile App
+22,Male,Electrical,1,7,1,1,0,Power Systems
+22,Male,Mechanical,1,6,1,0,0,Automotive
+21,Male,Mechanical,0,6,1,3,0,CAD Design
+20,Male,Information Technology,0,7,0,1,0,Cloud Computing
+22,Male,Mechanical,1,7,1,0,0,CAD Design
+22,Male,Civil,0,8,1,0,1,Environmental Engineering
+22,Female,Electronics And Communication,0,6,0,0,0,Embedded Systems
+19,Male,Mechanical,0,7,1,0,0,Thermal Systems
+22,Male,Electronics And Communication,1,6,0,0,0,VLSI Design
+19,Male,Civil,0,6,0,0,0,Environmental Engineering
+22,Male,Information Technology,2,8,0,0,1,Mobile App
+20,Male,Computer Science,1,8,0,0,1,Cloud Computing
+20,Male,Electronics And Communication,0,6,0,0,0,Telecommunications
+19,Male,Civil,1,7,0,0,0,Structural Design
+22,Male,Information Technology,0,8,0,1,1,Network Security
+21,Male,Electrical,1,8,0,0,1,Power Systems
+21,Male,Civil,0,7,0,1,0,Urban Planning
+22,Male,Mechanical,0,6,1,1,0,Manufacturing
+20,Male,Information Technology,0,8,0,0,1,Web Development
+19,Female,Mechanical,1,6,1,0,0,Automotive
+22,Female,Computer Science,2,7,1,0,0,Cloud Computing
+22,Male,Mechanical,0,6,1,0,0,CAD Design
+20,Male,Civil,0,6,0,0,0,Structural Design
+20,Male,Computer Science,1,7,0,0,0,Web Development
+21,Male,Computer Science,2,6,0,0,1,Data Science
+20,Male,Computer Science,0,7,0,0,0,Machine Learning
+19,Male,Computer Science,1,8,0,0,1,Web Development
+21,Male,Electrical,1,6,0,0,0,Embedded Systems
+22,Male,Mechanical,0,6,1,0,0,CAD Design
+21,Male,Electrical,0,7,1,0,0,Control Systems
+22,Male,Electronics And Communication,0,8,0,0,1,Telecommunications
+21,Male,Electrical,0,7,0,0,0,Renewable Energy
+22,Male,Electronics And Communication,1,6,0,0,0,Embedded Systems
+20,Male,Mechanical,1,8,1,0,1,Manufacturing
+21,Male,Computer Science,1,6,0,0,0,Cybersecurity
+20,Male,Civil,1,8,0,0,1,Urban Planning
+22,Male,Civil,0,6,0,0,0,Urban Planning
+21,Male,Computer Science,0,8,0,1,1,Web Development
+21,Male,Civil,0,6,1,0,0,Urban Planning
+19,Male,Computer Science,1,6,0,0,0,Mobile App
+22,Male,Civil,0,6,1,0,0,Environmental Engineering
+19,Male,Civil,1,8,0,0,1,Structural Design
+21,Male,Computer Science,1,6,0,0,0,Cybersecurity
+20,Male,Computer Science,1,7,0,0,0,Cloud Computing
+19,Male,Electrical,0,8,0,1,1,Renewable Energy
+20,Male,Information Technology,1,8,0,0,1,Network Security
+20,Male,Computer Science,1,6,0,0,0,Web Development
+22,Male,Mechanical,0,8,0,0,1,Automotive
+19,Male,Electronics And Communication,1,8,0,0,1,VLSI Design
+19,Male,Civil,0,6,0,0,0,Environmental Engineering
+19,Male,Civil,0,8,1,1,1,Urban Planning
+20,Male,Mechanical,0,8,1,0,1,Manufacturing
+19,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+22,Male,Information Technology,0,6,0,0,0,Network Security
+28,Male,Computer Science,0,6,0,0,1,Cybersecurity
+22,Male,Computer Science,1,7,0,0,0,Data Science
+22,Male,Information Technology,0,6,0,0,0,Cloud Computing
+19,Male,Electronics And Communication,1,6,1,0,0,VLSI Design
+19,Male,Computer Science,1,7,0,0,0,Cybersecurity
+21,Male,Computer Science,0,7,0,0,0,Data Science
+22,Male,Mechanical,1,6,0,0,0,Robotics
+20,Male,Electronics And Communication,1,7,0,0,0,Signal Processing
+19,Male,Mechanical,0,8,1,0,1,Thermal Systems
+22,Male,Civil,0,7,0,0,0,Urban Planning
+21,Male,Electrical,0,8,0,0,1,Power Systems
+20,Male,Mechanical,0,7,1,2,0,CAD Design
+19,Male,Mechanical,1,8,1,0,1,CAD Design
+21,Male,Information Technology,1,6,0,0,0,Mobile App
+19,Male,Mechanical,1,8,0,2,1,CAD Design
+19,Male,Computer Science,0,7,0,1,0,Cloud Computing
+22,Male,Civil,1,6,1,0,0,Environmental Engineering
+19,Female,Computer Science,1,6,1,0,0,Cybersecurity
+22,Male,Information Technology,1,8,0,0,1,Mobile App
+19,Male,Electrical,2,8,0,3,1,Renewable Energy
+21,Female,Mechanical,1,6,1,1,0,Thermal Systems
+21,Male,Electrical,0,7,0,0,0,Control Systems
+20,Male,Electrical,0,8,0,1,1,Embedded Systems
+20,Male,Mechanical,1,8,1,0,1,CAD Design
+19,Male,Computer Science,2,6,0,0,1,Web Development
+21,Male,Information Technology,0,6,0,2,0,Cloud Computing
+22,Male,Information Technology,1,7,0,0,0,Cloud Computing
+22,Male,Civil,1,8,0,0,1,Structural Design
+21,Male,Computer Science,1,7,0,0,0,Machine Learning
+21,Male,Information Technology,0,7,0,0,0,Database Management
+22,Female,Electronics And Communication,2,7,0,0,0,Telecommunications
+21,Male,Electrical,1,7,0,1,1,Control Systems
+22,Male,Information Technology,0,6,0,3,0,Web Development
+19,Male,Civil,0,6,1,0,0,Structural Design
+21,Male,Electronics And Communication,1,6,1,1,0,Telecommunications
+19,Female,Computer Science,1,7,1,0,0,Cybersecurity
+21,Male,Computer Science,0,6,0,3,0,Web Development
+20,Male,Information Technology,0,7,0,0,0,Web Development
+20,Male,Electrical,0,7,1,0,0,Embedded Systems
+19,Male,Electronics And Communication,1,8,0,1,1,VLSI Design
+19,Male,Computer Science,1,6,0,0,0,Data Science
+21,Male,Civil,0,8,1,0,1,Environmental Engineering
+22,Male,Electrical,3,7,0,0,0,Power Systems
+21,Male,Electronics And Communication,0,8,0,2,1,Signal Processing
+22,Male,Computer Science,2,7,0,0,0,Cloud Computing
+22,Male,Electronics And Communication,1,6,0,0,0,Telecommunications
+21,Male,Information Technology,0,6,0,0,0,Web Development
+21,Male,Information Technology,0,6,0,0,0,Mobile App
+20,Male,Information Technology,0,6,0,0,0,Database Management
+19,Male,Computer Science,0,6,0,1,0,Cybersecurity
+21,Female,Electronics And Communication,0,7,0,0,0,IoT
+22,Male,Information Technology,0,7,0,3,0,Web Development
+21,Male,Computer Science,0,7,0,1,0,Cloud Computing
+22,Male,Computer Science,2,6,0,0,1,Web Development
+20,Male,Information Technology,0,7,0,1,0,Web Development
+21,Male,Mechanical,0,8,1,0,1,CAD Design
+21,Female,Electrical,1,7,0,0,1,Control Systems
+20,Male,Electrical,2,7,0,0,1,Power Systems
+21,Male,Civil,0,8,1,0,1,Urban Planning
+21,Male,Mechanical,0,8,1,0,1,Thermal Systems
+21,Male,Electrical,0,7,0,0,0,Renewable Energy
+20,Male,Information Technology,0,8,0,3,1,Web Development
+21,Male,Computer Science,0,7,0,0,0,Cloud Computing
+20,Female,Computer Science,2,6,1,0,1,Machine Learning
+21,Male,Computer Science,1,6,0,0,0,Cybersecurity
+21,Female,Electrical,0,8,0,0,1,Renewable Energy
+21,Male,Computer Science,0,7,0,0,0,Machine Learning
+21,Male,Civil,0,7,0,0,0,Structural Design
+20,Male,Civil,2,7,0,0,0,Urban Planning
+20,Female,Information Technology,0,6,0,0,0,Cloud Computing
+21,Male,Electronics And Communication,1,6,1,1,0,IoT
+20,Male,Information Technology,0,8,0,0,1,Network Security
+20,Male,Computer Science,1,8,0,0,1,Machine Learning
+21,Male,Civil,0,8,0,2,1,Environmental Engineering
+20,Male,Computer Science,2,6,0,0,1,Cloud Computing
+21,Female,Mechanical,1,8,1,0,1,Automotive
+20,Male,Civil,0,8,0,2,1,Structural Design
+20,Male,Computer Science,1,7,0,0,0,Data Science
+21,Male,Mechanical,0,6,1,0,0,Automotive
+20,Male,Mechanical,0,7,1,0,0,CAD Design
+20,Male,Electronics And Communication,1,6,0,1,0,Telecommunications
+20,Female,Computer Science,0,6,1,2,0,Mobile App
+20,Male,Mechanical,0,6,1,1,0,Manufacturing
+20,Male,Computer Science,1,8,0,0,1,Mobile App
+20,Male,Civil,1,6,0,0,0,Structural Design
+20,Male,Computer Science,0,8,0,0,1,Web Development
+20,Male,Electronics And Communication,1,6,0,0,0,VLSI Design
+21,Female,Information Technology,0,7,0,0,0,Cloud Computing
+20,Male,Electrical,1,7,0,0,1,Renewable Energy
+21,Male,Mechanical,3,6,1,0,1,CAD Design
+20,Male,Computer Science,0,7,0,0,0,Data Science
+21,Female,Electronics And Communication,1,8,0,0,1,Signal Processing
+21,Male,Electronics And Communication,1,7,0,3,1,Signal Processing
+21,Male,Mechanical,0,7,0,0,0,Robotics
+21,Female,Electronics And Communication,1,8,0,0,1,Embedded Systems
+20,Male,Civil,1,8,0,0,1,Construction Management
+21,Male,Electronics And Communication,0,7,0,0,1,IoT
+20,Male,Civil,0,6,1,1,0,Urban Planning
+21,Male,Information Technology,2,6,0,0,1,Network Security
+20,Male,Information Technology,0,7,0,0,0,Mobile App
+20,Male,Electronics And Communication,0,6,0,0,0,Telecommunications
+20,Male,Information Technology,0,6,0,0,0,Database Management
+20,Male,Mechanical,1,6,1,0,0,Manufacturing
+21,Male,Electronics And Communication,0,7,0,0,0,Embedded Systems
+20,Male,Mechanical,3,8,1,0,1,CAD Design
+20,Male,Mechanical,0,7,1,0,0,CAD Design
+21,Male,Civil,1,6,0,0,0,Environmental Engineering
+20,Male,Information Technology,1,8,0,0,1,Mobile App
+21,Male,Computer Science,1,6,0,0,0,Machine Learning
+21,Male,Computer Science,1,7,1,0,0,Web Development
+21,Male,Computer Science,1,8,0,0,1,Mobile App
+20,Male,Mechanical,1,8,1,0,1,Automotive
+20,Male,Information Technology,0,8,0,1,1,Web Development
+20,Male,Computer Science,0,6,0,3,0,Mobile App
+21,Male,Mechanical,1,8,1,0,1,Robotics
+20,Male,Civil,0,8,0,0,1,Urban Planning
+20,Female,Electronics And Communication,0,6,0,0,0,VLSI Design
+21,Male,Electrical,0,8,0,0,1,Power Systems
+21,Male,Mechanical,0,6,1,0,0,Robotics
+21,Female,Computer Science,1,6,1,0,0,Cybersecurity
+20,Male,Information Technology,0,6,0,0,0,Mobile App
+21,Male,Civil,1,8,0,0,1,Urban Planning
+20,Male,Mechanical,1,8,1,0,1,CAD Design
+21,Female,Electrical,1,8,0,0,1,Power Systems
+21,Male,Civil,0,7,0,0,0,Urban Planning
+21,Male,Mechanical,0,7,1,0,0,Manufacturing
+21,Male,Electronics And Communication,0,7,0,0,1,VLSI Design
+20,Male,Computer Science,1,8,0,0,1,Data Science
+21,Female,Information Technology,1,8,1,0,1,Database Management
+20,Female,Information Technology,1,8,1,0,1,Cloud Computing
+20,Male,Mechanical,0,7,1,0,0,Robotics
+20,Male,Information Technology,2,6,0,0,1,Cloud Computing
+21,Male,Computer Science,1,7,0,0,0,Cybersecurity
+21,Female,Mechanical,1,6,1,0,0,Thermal Systems
+21,Male,Computer Science,2,6,0,0,1,Cybersecurity
+20,Male,Information Technology,1,7,0,0,0,Mobile App
+20,Male,Civil,0,6,1,0,0,Structural Design
+21,Male,Mechanical,0,7,1,2,0,CAD Design
+21,Male,Computer Science,2,7,0,1,0,Cybersecurity
+20,Male,Information Technology,0,7,0,2,0,Network Security
+20,Male,Civil,0,7,1,0,0,Urban Planning
+21,Male,Electronics And Communication,0,7,0,0,1,VLSI Design
+21,Female,Information Technology,1,8,1,0,1,Web Development
+21,Male,Mechanical,0,6,1,0,0,Automotive
+21,Female,Computer Science,1,8,1,0,1,Mobile App
+20,Female,Information Technology,0,7,0,0,0,Cloud Computing
+21,Male,Mechanical,1,7,1,0,0,Automotive
+21,Male,Civil,0,8,0,0,1,Construction Management
+21,Male,Information Technology,0,7,0,0,0,Web Development
+20,Male,Information Technology,1,7,0,1,0,Web Development
+21,Male,Mechanical,0,6,0,1,0,CAD Design
+21,Male,Electrical,2,6,0,1,0,Embedded Systems
+21,Male,Electrical,0,7,0,0,0,Control Systems
+20,Male,Computer Science,1,7,1,0,0,Cloud Computing
+20,Female,Computer Science,0,7,1,0,0,Cybersecurity
+20,Male,Computer Science,1,8,0,0,1,Machine Learning
+20,Male,Civil,0,7,0,1,0,Construction Management
+20,Male,Civil,2,9,0,0,1,Environmental Engineering
+21,Female,Computer Science,1,9,1,0,1,Machine Learning
+20,Male,Electrical,0,9,1,0,1,Power Systems
+20,Male,Civil,2,9,0,0,1,Urban Planning
+20,Male,Information Technology,0,8,0,0,1,Web Development
+21,Male,Computer Science,1,8,0,0,1,Cloud Computing
+21,Male,Information Technology,1,8,0,0,1,Mobile App
+20,Male,Electronics And Communication,0,7,0,0,1,Embedded Systems
+20,Male,Computer Science,1,9,0,0,1,Data Science
+20,Male,Electrical,3,7,0,0,1,Embedded Systems
+21,Male,Civil,1,8,0,0,1,Environmental Engineering
+21,Male,Mechanical,0,7,1,1,0,Thermal Systems
+21,Male,Electronics And Communication,2,7,1,1,1,VLSI Design
+21,Female,Computer Science,1,7,1,0,0,Data Science
+21,Male,Computer Science,2,8,0,0,1,Data Science
+21,Male,Computer Science,0,8,0,0,1,Web Development
+21,Male,Civil,0,7,0,0,0,Urban Planning
+21,Male,Computer Science,0,8,0,0,1,Machine Learning
+21,Male,Information Technology,1,9,1,0,1,Mobile App
+21,Male,Information Technology,0,7,0,0,0,Database Management
+20,Female,Computer Science,0,7,1,0,0,Web Development
+21,Male,Information Technology,1,7,0,0,0,Network Security
+21,Male,Computer Science,1,8,0,0,1,Data Science
+20,Male,Electrical,0,9,0,3,1,Power Systems
+21,Male,Electrical,1,9,0,0,1,Control Systems
+20,Male,Computer Science,1,9,0,0,1,Mobile App
+21,Male,Mechanical,1,9,1,0,1,Manufacturing
+21,Female,Computer Science,1,8,1,0,1,Cloud Computing
+21,Male,Electronics And Communication,1,9,0,3,1,Embedded Systems
+20,Female,Mechanical,1,8,1,0,1,Automotive
+21,Male,Computer Science,1,8,0,0,1,Web Development
+20,Female,Information Technology,0,8,0,0,1,Web Development
+20,Male,Civil,1,9,0,0,1,Urban Planning
+21,Female,Electronics And Communication,0,9,0,0,1,Embedded Systems
+21,Female,Information Technology,0,8,0,0,1,Database Management
+21,Male,Mechanical,0,7,1,0,0,Automotive
+21,Male,Electrical,0,9,0,0,1,Embedded Systems
+20,Male,Electrical,1,8,0,0,1,Control Systems
+21,Female,Computer Science,2,9,1,2,1,Mobile App
+20,Female,Information Technology,0,7,0,0,0,Network Security
+21,Male,Mechanical,1,9,1,1,1,Thermal Systems
+21,Male,Civil,0,9,1,0,1,Urban Planning
+20,Male,Electronics And Communication,1,7,0,1,1,VLSI Design
+20,Male,Computer Science,1,7,0,0,0,Cybersecurity
+21,Male,Information Technology,0,7,0,0,0,Database Management
+20,Male,Mechanical,0,9,1,0,1,CAD Design
+21,Male,Electronics And Communication,0,9,0,2,1,IoT
+21,Male,Electronics And Communication,0,8,0,0,1,Telecommunications
+20,Male,Civil,0,9,1,2,1,Environmental Engineering
+20,Male,Electrical,1,8,0,1,1,Embedded Systems
+20,Male,Information Technology,0,8,0,0,1,Network Security
+21,Female,Electronics And Communication,3,9,0,0,1,Embedded Systems
+20,Male,Information Technology,1,7,0,0,0,Web Development
+20,Male,Computer Science,1,7,0,0,0,Data Science
+21,Male,Electrical,1,9,0,0,1,Power Systems
+20,Male,Electronics And Communication,3,8,1,3,1,Telecommunications
+20,Female,Electronics And Communication,0,8,0,0,1,Signal Processing
+20,Male,Electrical,0,9,0,2,1,Power Systems
+21,Male,Civil,3,9,0,0,1,Construction Management
+20,Male,Computer Science,1,8,0,0,1,Machine Learning
+20,Male,Mechanical,0,9,1,3,1,Thermal Systems
+20,Male,Computer Science,1,8,0,0,1,Machine Learning
+20,Male,Electronics And Communication,1,9,1,2,1,Telecommunications
+21,Male,Information Technology,2,9,0,0,1,Network Security
+20,Male,Electrical,1,7,0,2,1,Embedded Systems
+21,Male,Electrical,0,9,0,0,1,Renewable Energy
+21,Male,Mechanical,0,8,1,0,1,Thermal Systems
+20,Male,Civil,0,9,0,0,1,Environmental Engineering
+21,Female,Computer Science,0,7,1,0,0,Machine Learning
+20,Female,Electrical,1,7,0,0,1,Embedded Systems
+20,Male,Information Technology,1,8,1,0,1,Database Management
+21,Female,Electronics And Communication,0,7,0,0,1,Signal Processing
+21,Male,Electrical,0,8,0,0,1,Embedded Systems
+21,Male,Information Technology,0,8,0,0,1,Database Management
+20,Male,Electrical,0,9,0,1,1,Power Systems
+21,Male,Electronics And Communication,1,7,0,0,1,Telecommunications
+20,Male,Electronics And Communication,2,7,0,0,1,Signal Processing
+21,Male,Computer Science,2,8,0,0,1,Cloud Computing
+20,Male,Civil,0,9,0,0,1,Construction Management
+20,Male,Computer Science,1,8,0,0,1,Cloud Computing
+21,Male,Electrical,0,9,0,0,1,Power Systems
+21,Male,Electronics And Communication,0,7,0,0,1,Signal Processing
+20,Male,Information Technology,0,8,0,0,1,Network Security
+21,Female,Computer Science,0,8,1,0,1,Cloud Computing
+20,Male,Electronics And Communication,2,7,0,0,1,VLSI Design
+21,Male,Information Technology,1,8,1,0,1,Network Security
+21,Male,Computer Science,1,7,0,0,0,Mobile App
+20,Male,Civil,1,7,1,0,0,Environmental Engineering
+21,Female,Electronics And Communication,2,8,0,0,1,IoT
+21,Male,Information Technology,1,8,0,3,1,Web Development
+20,Male,Computer Science,2,7,0,0,1,Cloud Computing
+20,Male,Information Technology,0,9,0,0,1,Cloud Computing
+20,Male,Information Technology,2,8,0,0,1,Database Management
+20,Male,Electronics And Communication,1,7,0,0,0,Embedded Systems
+20,Male,Information Technology,1,9,0,0,1,Web Development
+20,Male,Electronics And Communication,1,7,0,0,1,Telecommunications
+21,Female,Computer Science,1,9,1,0,1,Cybersecurity
+20,Male,Electronics And Communication,0,9,0,0,1,Embedded Systems
+20,Male,Computer Science,0,8,0,2,1,Cloud Computing
+21,Male,Electrical,0,8,0,0,1,Power Systems
+20,Male,Electrical,1,7,0,0,1,Power Systems
+20,Male,Computer Science,0,9,0,1,1,Web Development
+21,Male,Mechanical,1,7,1,0,0,Automotive
+20,Male,Mechanical,0,7,1,1,0,Robotics
+21,Male,Information Technology,1,8,0,0,1,Cloud Computing
+20,Male,Electrical,0,8,1,0,1,Embedded Systems
+21,Male,Mechanical,1,8,0,0,1,Automotive
+20,Male,Information Technology,0,7,0,0,0,Database Management
+20,Male,Information Technology,0,9,0,0,1,Database Management
+20,Female,Computer Science,3,8,1,0,1,Machine Learning
+21,Male,Mechanical,0,9,1,0,1,Robotics
+21,Male,Mechanical,0,7,1,1,0,Robotics
+20,Female,Electrical,1,7,0,2,1,Control Systems
+21,Male,Computer Science,0,8,0,0,1,Cloud Computing
+21,Female,Information Technology,1,9,0,0,1,Database Management
+21,Female,Information Technology,0,7,0,0,0,Mobile App
+20,Male,Civil,0,9,0,3,1,Structural Design
+21,Male,Electronics And Communication,1,9,0,0,1,Telecommunications
+20,Male,Electronics And Communication,1,8,1,1,1,Embedded Systems
+20,Male,Computer Science,1,7,0,0,0,Cloud Computing
+20,Male,Electronics And Communication,1,8,0,1,1,Embedded Systems
+21,Male,Information Technology,0,8,0,0,1,Database Management
+21,Male,Computer Science,0,7,0,0,0,Data Science
+20,Male,Mechanical,0,7,1,0,0,Thermal Systems
+21,Male,Computer Science,2,7,0,1,0,Web Development
+20,Male,Information Technology,0,9,0,0,1,Network Security
+20,Female,Computer Science,0,8,1,0,1,Cloud Computing
+20,Male,Electronics And Communication,0,7,0,0,1,VLSI Design
+20,Male,Civil,1,9,0,0,1,Structural Design
+20,Male,Information Technology,1,7,0,3,0,Mobile App
+21,Male,Computer Science,1,9,0,0,1,Machine Learning
+20,Male,Information Technology,0,7,0,0,0,Network Security
+20,Male,Information Technology,1,7,1,0,0,Database Management
+20,Female,Computer Science,2,8,1,0,1,Cloud Computing
+20,Male,Electrical,1,7,1,2,1,Power Systems
+20,Male,Electronics And Communication,0,8,0,0,1,VLSI Design
+20,Female,Information Technology,2,8,0,0,1,Network Security
+20,Male,Computer Science,0,8,0,0,1,Mobile App
+20,Male,Mechanical,0,8,1,0,1,CAD Design
+20,Male,Mechanical,0,8,1,0,1,Robotics
+20,Male,Computer Science,0,6,0,0,0,Machine Learning
+21,Male,Computer Science,1,6,0,0,0,Cloud Computing
+20,Male,Computer Science,1,6,0,0,0,Cloud Computing
+21,Male,Mechanical,0,6,1,0,0,Manufacturing
+20,Male,Computer Science,1,6,0,0,0,Cloud Computing
+20,Male,Information Technology,0,8,0,2,1,Web Development
+21,Male,Electronics And Communication,1,6,1,1,0,Telecommunications
+20,Male,Electronics And Communication,0,7,0,0,0,Embedded Systems
+21,Female,Information Technology,2,8,0,0,1,Database Management
+21,Male,Electrical,0,6,0,1,0,Renewable Energy
+21,Female,Computer Science,2,8,0,0,1,Machine Learning
+20,Female,Information Technology,1,7,0,1,0,Cloud Computing
+20,Male,Electronics And Communication,1,7,1,1,0,Signal Processing
+20,Female,Electronics And Communication,0,8,0,0,1,VLSI Design
+20,Male,Information Technology,1,7,0,0,0,Cloud Computing
+21,Male,Civil,0,8,0,0,1,Urban Planning
+21,Male,Electrical,0,7,0,0,0,Control Systems
+20,Male,Electrical,1,7,0,2,1,Embedded Systems
+20,Male,Computer Science,1,7,0,0,0,Cloud Computing
+20,Male,Electrical,0,8,0,0,1,Embedded Systems
+21,Female,Computer Science,1,8,1,0,1,Machine Learning
+21,Male,Electrical,0,8,0,0,1,Renewable Energy
+21,Male,Mechanical,1,7,0,0,0,Manufacturing
+21,Male,Electrical,0,8,0,0,1,Power Systems
+20,Female,Electrical,0,8,0,0,1,Power Systems
+20,Male,Information Technology,0,6,0,0,0,Network Security
+20,Male,Information Technology,0,6,0,0,0,Web Development
+20,Male,Electronics And Communication,2,8,0,0,1,Signal Processing
+20,Male,Mechanical,0,6,1,2,0,Manufacturing
+21,Male,Information Technology,0,8,0,0,1,Web Development
+21,Male,Electrical,1,8,0,0,1,Renewable Energy
+20,Male,Computer Science,0,6,0,0,0,Machine Learning
+20,Female,Information Technology,1,7,0,0,0,Mobile App
+21,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+21,Female,Electronics And Communication,1,8,0,0,1,Embedded Systems
+20,Female,Computer Science,0,6,1,0,0,Data Science
+21,Male,Computer Science,0,7,0,0,0,Cybersecurity
+20,Male,Computer Science,0,7,0,3,0,Mobile App
+20,Male,Electronics And Communication,0,6,0,0,0,Embedded Systems
+20,Female,Electrical,0,6,0,0,0,Embedded Systems
+20,Male,Computer Science,0,7,0,0,0,Machine Learning
+20,Male,Civil,1,6,0,0,0,Structural Design
+21,Female,Computer Science,1,8,1,0,1,Cybersecurity
+21,Male,Electrical,1,6,0,0,0,Control Systems
+20,Male,Computer Science,1,6,0,0,0,Machine Learning
+21,Male,Electrical,1,8,0,3,1,Renewable Energy
+20,Male,Electronics And Communication,0,6,0,0,0,IoT
+20,Male,Mechanical,1,6,0,1,0,Thermal Systems
+21,Female,Computer Science,2,6,1,0,1,Mobile App
+20,Male,Electronics And Communication,1,6,0,2,0,IoT
+20,Female,Electronics And Communication,0,7,0,0,1,VLSI Design
+20,Male,Information Technology,1,8,0,3,1,Cloud Computing
+20,Male,Mechanical,0,8,1,0,1,Thermal Systems
+20,Female,Information Technology,0,8,0,0,1,Mobile App
+20,Male,Civil,1,8,0,0,1,Environmental Engineering
+20,Male,Electrical,0,8,0,0,1,Renewable Energy
+20,Male,Civil,1,8,0,0,1,Urban Planning
+23,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+22,Male,Mechanical,0,7,1,0,0,Automotive
+22,Male,Electronics And Communication,0,6,0,2,0,VLSI Design
+22,Female,Information Technology,1,6,1,0,0,Web Development
+21,Male,Computer Science,1,7,0,0,0,Data Science
+21,Male,Computer Science,1,8,0,0,1,Cloud Computing
+23,Male,Computer Science,0,6,0,0,0,Web Development
+23,Male,Mechanical,1,6,1,0,0,CAD Design
+23,Male,Computer Science,1,8,0,0,1,Web Development
+21,Male,Computer Science,1,7,0,0,0,Web Development
+23,Male,Mechanical,0,7,1,0,0,Thermal Systems
+21,Male,Computer Science,2,6,0,0,1,Cybersecurity
+23,Male,Electrical,0,7,0,1,0,Renewable Energy
+23,Male,Computer Science,1,7,0,0,0,Machine Learning
+23,Male,Electrical,0,6,1,0,0,Power Systems
+21,Male,Information Technology,1,8,1,1,1,Cloud Computing
+23,Male,Civil,0,7,0,0,0,Urban Planning
+23,Male,Information Technology,1,6,0,1,0,Cloud Computing
+21,Male,Computer Science,1,7,0,0,0,Mobile App
+22,Male,Mechanical,0,6,1,0,0,Automotive
+21,Male,Computer Science,1,7,0,0,0,Cybersecurity
+21,Male,Mechanical,0,7,1,3,0,Thermal Systems
+21,Male,Civil,1,8,0,0,1,Urban Planning
+22,Male,Civil,1,7,0,2,0,Construction Management
+21,Male,Civil,0,6,0,0,0,Construction Management
+22,Female,Information Technology,0,7,0,1,0,Mobile App
+21,Male,Mechanical,1,8,1,0,1,Automotive
+23,Male,Mechanical,0,6,1,0,0,Manufacturing
+23,Male,Electronics And Communication,1,6,1,2,0,Signal Processing
+22,Male,Electronics And Communication,2,8,0,0,1,IoT
+22,Male,Electronics And Communication,3,8,0,2,1,VLSI Design
+23,Male,Electronics And Communication,1,7,0,0,1,IoT
+22,Male,Information Technology,1,8,0,0,1,Database Management
+23,Female,Computer Science,1,6,1,0,0,Machine Learning
+21,Male,Information Technology,0,6,0,1,0,Mobile App
+23,Male,Electronics And Communication,0,6,0,1,0,Signal Processing
+23,Male,Information Technology,1,6,0,0,0,Web Development
+23,Male,Information Technology,0,7,0,2,0,Database Management
+23,Male,Electronics And Communication,1,7,0,1,1,IoT
+23,Male,Mechanical,0,6,1,0,0,Manufacturing
+21,Male,Information Technology,0,6,0,2,0,Web Development
+21,Male,Computer Science,1,7,0,0,0,Cloud Computing
+22,Male,Information Technology,0,7,0,0,0,Web Development
+23,Male,Information Technology,0,8,0,0,1,Cloud Computing
+22,Male,Mechanical,1,6,1,1,0,Automotive
+21,Male,Mechanical,0,7,1,0,0,Automotive
+22,Male,Mechanical,0,7,1,0,0,Manufacturing
+21,Male,Mechanical,0,8,1,0,1,CAD Design
+21,Male,Computer Science,1,7,0,0,0,Web Development
+23,Male,Electronics And Communication,1,8,1,2,1,Embedded Systems
+21,Male,Information Technology,0,7,0,1,0,Database Management
+22,Male,Mechanical,0,7,1,0,0,Robotics
+22,Male,Mechanical,1,8,1,1,1,CAD Design
+21,Male,Electrical,0,7,0,0,0,Embedded Systems
+23,Female,Mechanical,1,7,0,0,0,Manufacturing
+21,Female,Information Technology,0,7,0,0,0,Database Management
+21,Male,Electrical,0,7,1,0,0,Renewable Energy
+23,Male,Civil,1,8,0,0,1,Environmental Engineering
+23,Male,Computer Science,1,8,0,0,1,Machine Learning
+22,Male,Information Technology,1,6,0,2,0,Network Security
+22,Male,Computer Science,1,7,0,0,0,Cloud Computing
+21,Female,Information Technology,1,8,1,0,1,Cloud Computing
+23,Male,Information Technology,3,8,1,0,1,Mobile App
+22,Male,Computer Science,0,8,0,0,1,Cloud Computing
+22,Male,Mechanical,0,6,1,0,0,Automotive
+22,Male,Information Technology,0,6,0,0,0,Database Management
+22,Male,Civil,0,8,1,0,1,Urban Planning
+22,Male,Information Technology,1,8,0,0,1,Mobile App
+23,Male,Electronics And Communication,0,6,0,0,0,IoT
+23,Male,Civil,2,8,0,0,1,Urban Planning
+21,Male,Electronics And Communication,0,8,0,0,1,Signal Processing
+23,Male,Information Technology,1,7,0,0,0,Mobile App
+22,Male,Electronics And Communication,2,6,0,0,1,Embedded Systems
+23,Female,Electronics And Communication,0,7,0,0,1,Embedded Systems
+21,Male,Electrical,0,7,0,0,0,Embedded Systems
+21,Male,Electronics And Communication,0,8,0,0,1,Signal Processing
+23,Male,Mechanical,0,8,1,1,1,Robotics
+23,Female,Computer Science,1,8,1,0,1,Cloud Computing
+21,Male,Information Technology,1,7,0,0,0,Network Security
+22,Male,Information Technology,2,6,0,0,1,Mobile App
+23,Male,Electronics And Communication,2,8,0,0,1,VLSI Design
+23,Male,Computer Science,0,6,0,0,1,Cybersecurity
+23,Male,Computer Science,2,6,0,0,1,Cybersecurity
+21,Male,Computer Science,1,7,0,0,0,Machine Learning
+21,Male,Computer Science,1,8,0,0,1,Cybersecurity
+21,Male,Electronics And Communication,2,7,0,0,1,Telecommunications
+21,Male,Electronics And Communication,0,8,0,1,1,Telecommunications
+21,Female,Information Technology,0,6,0,0,0,Web Development
+23,Male,Information Technology,0,7,0,0,0,Web Development
+22,Male,Computer Science,1,8,0,0,1,Web Development
+21,Male,Information Technology,0,8,0,0,1,Cloud Computing
+21,Male,Mechanical,0,7,1,0,0,Automotive
+23,Male,Information Technology,0,6,0,1,0,Cloud Computing
+23,Male,Civil,0,8,1,2,1,Urban Planning
+22,Male,Mechanical,1,8,1,0,1,Automotive
+23,Male,Information Technology,1,6,0,0,0,Database Management
+23,Male,Information Technology,1,7,0,0,0,Web Development
+22,Male,Mechanical,0,8,1,0,1,CAD Design
+21,Male,Civil,0,6,0,0,0,Construction Management
+21,Male,Computer Science,1,6,0,0,0,Web Development
+22,Male,Computer Science,0,7,0,2,0,Cybersecurity
+21,Male,Electronics And Communication,0,7,0,0,1,Signal Processing
+23,Female,Computer Science,0,7,1,2,0,Mobile App
+23,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+22,Male,Electrical,2,8,0,1,1,Control Systems
+23,Male,Information Technology,1,8,1,0,1,Network Security
+21,Male,Electronics And Communication,0,8,0,0,1,Embedded Systems
+22,Male,Electronics And Communication,2,7,0,0,0,Signal Processing
+21,Male,Electronics And Communication,0,7,0,0,1,Signal Processing
+23,Male,Information Technology,1,8,0,0,1,Network Security
+21,Male,Information Technology,1,7,1,0,0,Network Security
+23,Male,Information Technology,1,6,1,0,0,Cloud Computing
+21,Male,Mechanical,3,6,1,0,1,Manufacturing
+23,Male,Information Technology,1,8,0,0,1,Cloud Computing
+22,Male,Electrical,0,6,0,0,0,Renewable Energy
+23,Male,Mechanical,0,7,1,0,0,Robotics
+21,Male,Information Technology,0,8,0,0,1,Network Security
+21,Male,Electrical,0,8,0,0,1,Renewable Energy
+21,Female,Computer Science,1,8,1,0,1,Cybersecurity
+21,Male,Civil,0,8,0,0,1,Construction Management
+22,Male,Electronics And Communication,0,8,0,0,1,Signal Processing
+23,Male,Information Technology,0,6,0,0,0,Mobile App
+23,Male,Computer Science,0,8,0,0,1,Machine Learning
+22,Male,Electrical,1,6,0,1,0,Power Systems
+21,Male,Mechanical,1,7,1,0,0,Manufacturing
+23,Male,Computer Science,0,7,0,0,0,Web Development
+21,Male,Information Technology,0,8,0,0,1,Web Development
+22,Female,Computer Science,1,8,1,0,1,Web Development
+22,Female,Computer Science,0,6,1,0,0,Mobile App
+23,Female,Computer Science,0,6,1,0,0,Cloud Computing
+21,Male,Computer Science,2,8,0,0,1,Mobile App
+21,Male,Mechanical,0,6,1,0,0,Robotics
+21,Male,Computer Science,1,7,0,0,0,Cybersecurity
+23,Male,Computer Science,1,8,0,0,1,Cybersecurity
+23,Male,Electrical,1,8,0,0,1,Power Systems
+21,Male,Electronics And Communication,0,8,0,0,1,Signal Processing
+23,Male,Information Technology,0,6,0,0,0,Web Development
+23,Male,Mechanical,0,6,0,0,0,Automotive
+21,Male,Computer Science,0,7,0,1,0,Data Science
+21,Male,Mechanical,0,8,1,0,1,CAD Design
+22,Male,Electronics And Communication,0,7,0,0,0,Telecommunications
+21,Male,Electrical,0,7,0,0,0,Control Systems
+23,Male,Mechanical,0,6,1,0,0,Thermal Systems
+23,Male,Electronics And Communication,0,8,0,0,1,IoT
+23,Male,Information Technology,1,7,0,1,0,Web Development
+21,Male,Computer Science,1,7,0,0,0,Machine Learning
+23,Male,Information Technology,1,7,1,1,0,Database Management
+22,Male,Computer Science,2,8,0,1,1,Web Development
+21,Male,Electrical,0,7,0,0,0,Renewable Energy
+22,Male,Civil,0,8,0,0,1,Construction Management
+23,Female,Computer Science,1,8,1,0,1,Data Science
+21,Male,Computer Science,3,8,0,0,1,Data Science
+23,Male,Mechanical,0,8,1,0,1,Manufacturing
+22,Male,Electronics And Communication,0,7,0,0,0,Signal Processing
+23,Female,Computer Science,1,8,0,1,1,Machine Learning
+22,Male,Information Technology,0,7,0,0,0,Cloud Computing
+22,Male,Computer Science,0,8,0,0,1,Machine Learning
+22,Male,Electrical,1,6,0,3,0,Power Systems
+23,Male,Computer Science,0,6,0,1,0,Cybersecurity
+23,Male,Information Technology,0,7,0,0,0,Network Security
+23,Male,Mechanical,1,7,1,0,0,Thermal Systems
+23,Male,Information Technology,0,7,0,0,0,Cloud Computing
+23,Male,Mechanical,1,7,1,0,0,CAD Design
+22,Male,Information Technology,1,7,0,0,0,Mobile App
+22,Male,Computer Science,1,7,0,0,0,Mobile App
+23,Male,Civil,0,8,0,0,1,Structural Design
