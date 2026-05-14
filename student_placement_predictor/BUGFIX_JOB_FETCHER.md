@@ -223,8 +223,6 @@ If issues occur:
 3. ✅ Test predictions in production
 4. ✅ Verify job recommendations work (if job_fetcher is available)
 
----
-
 **Fixed By**: Kiro AI Assistant  
 **Date**: May 14, 2026  
 **Version**: 10.1  
